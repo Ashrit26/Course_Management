@@ -1,0 +1,126 @@
+[
+  {
+    "courseName": "Computer Architecture",
+    "recommendations": [
+      {
+        "course": "Computational Design",
+        "instructor": "Yu, Lap Fai",
+        "risk_level": "Medium risk"
+      },
+      {
+        "course": "Advanced Computer Architecture",
+        "instructor": "Yang, Lishan",
+        "risk_level": "Low Risk"
+      },
+      {
+        "course": "Intro to Programming",
+        "instructor": "Martinez, Jessica",
+        "risk_level": "No Risk"
+      },
+      {
+        "course": "Operating Systems",
+        "instructor": "Johnson, Emily",
+        "risk_level": "Risky"
+      },
+      {
+        "course": "Network Security",
+        "instructor": "Wang, Xinyuan",
+        "risk_level": "Risky"
+      }
+    ],
+    "selectedInstructor": "Jones, Robert"
+  },
+  {
+    "courseName": "Artificial Intelligence",
+    "recommendations": [
+      {
+        "course": "Advanced Machine Learning",
+        "instructor": "Liu, Mingrui",
+        "risk_level": "No Risk"
+      },
+      {
+        "course": "Machine Learning",
+        "instructor": "Smith, John",
+        "risk_level": "Very Risky"
+      },
+      {
+        "course": "Intro to Programming",
+        "instructor": "Martinez, Jessica",
+        "risk_level": "No Risk"
+      },
+      {
+        "course": "Introduction to Cryptography",
+        "instructor": "Ateniese, Giuseppe",
+        "risk_level": "Medium risk"
+      },
+      {
+        "course": "Theory of Computation",
+        "instructor": "Richards, Dana",
+        "risk_level": "Low Risk"
+      }
+    ],
+    "selectedInstructor": "Garcia, Maria"
+  },
+  {
+    "courseName": "Artificial Intelligence",
+    "recommendations": [
+      {
+        "course": "Advanced Machine Learning",
+        "instructor": "Liu, Mingrui",
+        "risk_level": "No Risk"
+      },
+      {
+        "course": "Machine Learning",
+        "instructor": "Smith, John",
+        "risk_level": "Very Risky"
+      },
+      {
+        "course": "Intro to Programming",
+        "instructor": "Martinez, Jessica",
+        "risk_level": "No Risk"
+      },
+      {
+        "course": "Introduction to Cryptography",
+        "instructor": "Ateniese, Giuseppe",
+        "risk_level": "Medium risk"
+      },
+      {
+        "course": "Theory of Computation",
+        "instructor": "Richards, Dana",
+        "risk_level": "Low Risk"
+      }
+    ],
+    "selectedInstructor": "Smith, John"
+  },
+  {
+    "courseName": "Computer Architecture",
+    "recommendations": [
+      {
+        "course": "Computational Design",
+        "instructor": "Yu, Lap Fai",
+        "risk_level": "Medium risk"
+      },
+      {
+        "course": "Advanced Computer Architecture",
+        "instructor": "Yang, Lishan",
+        "risk_level": "Low Risk"
+      },
+      {
+        "course": "Intro to Programming",
+        "instructor": "Martinez, Jessica",
+        "risk_level": "No Risk"
+      },
+      {
+        "course": "Operating Systems",
+        "instructor": "Johnson, Emily",
+        "risk_level": "Risky"
+      },
+      {
+        "course": "Network Security",
+        "instructor": "Wang, Xinyuan",
+        "risk_level": "Risky"
+      }
+    ],
+    "selectedInstructor": "Martinez, Jessica"
+  }
+]

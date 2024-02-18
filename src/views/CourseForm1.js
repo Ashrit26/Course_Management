@@ -1,8 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import courseData from 'data/courseData';
-import Papa from 'papaparse';
 import 'styles/CourseForm.css'; // Import the CSS file
-import combinedData from 'data/combinedData';
 
 const CourseForm = () => {
   const [entries, setEntries] = useState([
@@ -11,8 +9,6 @@ const CourseForm = () => {
     { courseNumber: '', selectedInstructor: '' },
     { courseNumber: '', selectedInstructor: '' },
   ]);
-
-  const [riskLevels, setRiskLevels] = useState([]);
 
   const handleInputChange = (index, field, value) => {
     const updatedEntries = [...entries];
@@ -30,43 +26,24 @@ const CourseForm = () => {
     return course ? course.courseName[0] : 'Unknown Course';
   };
 
-  const fetchRiskLevels = () => {
-    try {
-      const riskLevelsData = entries.map((entry) => {
-        const courseName = getCourseName(entry.courseNumber);
-        const instructorName = entry.selectedInstructor;
+  const handleSubmit = () => {
+    // Add your submission logic here
 
-
-        //console.log('Fetching risk level for:', { courseName, instructorName });
-
-        const matchingRow = combinedData.find(
-          (row) => row['Course'] === courseName && row['Instructor'] === instructorName
-        );
-
-        if (matchingRow) {
-          return { courseName, instructorName, riskLevel: matchingRow['Risk Level'] };
-        } else {
-          console.log('No matching record found for:', { courseName, instructorName });
-          throw new Error('No matching record found');
-        }
-      });
-
-      setRiskLevels(riskLevelsData);
-    } catch (error) {
-      console.error(`Error fetching risk levels: ${error.message}`);
-    }
-  };
-
-
-  const handleSubmit = async () => {
-    console.log('Form submitted:', entries);
-
-    // Fetch risk levels for all entries
-    await fetchRiskLevels();
+    const submittedData = entries.map((entry, index) => {
+      const courseName = getCourseName(entry.courseNumber);
+      return {
+        courseName,
+        courseNumber: entry.courseNumber,
+        selectedInstructor: entry.selectedInstructor,
+      };
+    });
+  
+    console.log('Form submitted1:', submittedData);
   };
 
   return (
     <div className="content">
+
       {entries.map((entry, index) => (
         <div key={index} className="form-row">
           <div className="label-group">
@@ -82,7 +59,9 @@ const CourseForm = () => {
               Instructors:
               <select
                 value={entry.selectedInstructor}
-                onChange={(e) => handleInputChange(index, 'selectedInstructor', e.target.value)}
+                onChange={(e) =>
+                  handleInputChange(index, 'selectedInstructor', e.target.value)
+                }
               >
                 <option value="">Select an Instructor</option>
                 {getInstructorsForCourse(entry.courseNumber).map((instructor, i) => (
@@ -95,21 +74,9 @@ const CourseForm = () => {
           </div>
         </div>
       ))}
-      <button onClick={handleSubmit} className="submit-button" style={{ display: 'block', margin: 'auto' }}
-      >
+      <button onClick={handleSubmit} className="submit-button">
         Submit
       </button>
-        {/* Display risk levels */}
-        {/* <h2>Risk Levels</h2> */}
-        <div className="risk-levels-container">
-        {riskLevels.map((riskLevelData, index) => (
-          <div key={index} className="risk-level-card">
-            <h4>{riskLevelData.courseName}</h4>
-            <p>{riskLevelData.instructorName}</p>
-            <p>Risk Level: {riskLevelData.riskLevel}</p>
-          </div>
-        ))}
-      </div>
     </div>
   );
 };

@@ -1,0 +1,1351 @@
+-1,Course,Course Number,Seats Remaining,Instructor,Semester,Waitlist Percent,Sem,Year,Risk Level
+0,Computer Networks,107,22 of 70 seats remain,"Davis, Elizabeth",Fall 2022,31.428571428571427,Fall,2022,Risky
+1,Computer Architecture,109,6 of 30 seats remain,"Smith, John",Fall 2022,20.0,Fall,2022,Very Risky
+2,Intro to Programming,112,25 of 30 seats remain,"Martinez, Jessica",Fall 2022,83.33333333333334,Fall,2022,No Risk
+3,Computer Architecture,114,33 of 50 seats remain,"Smith, John",Fall 2022,66.0,Fall,2022,Low Risk
+4,Data Structures,117,63 of 70 seats remain,"Jones, Robert",Fall 2022,90.0,Fall,2022,No Risk
+5,Data Structures,118,24 of 30 seats remain,"Johnson, Emily",Fall 2022,80.0,Fall,2022,Low Risk
+6,Artificial Intelligence,121,30 of 70 seats remain,"Smith, John",Fall 2022,42.857142857142854,Fall,2022,Medium risk
+7,Intro to Programming,121,14 of 50 seats remain,"Garcia, Maria",Fall 2022,28.000000000000004,Fall,2022,Risky
+8,Artificial Intelligence,122,11 of 20 seats remain,"Miller, James",Fall 2022,55.00000000000001,Fall,2022,Medium risk
+9,Data Structures,124,7 of 20 seats remain,"Rodriguez, Michael",Fall 2022,35.0,Fall,2022,Risky
+10,Operating Systems,128,16 of 60 seats remain,"Johnson, Emily",Fall 2022,26.666666666666668,Fall,2022,Risky
+11,Operating Systems,129,42 of 70 seats remain,"Williams, David",Fall 2022,60.0,Fall,2022,Medium risk
+12,Computer Networks,131,12 of 20 seats remain,"Brown, Linda",Fall 2022,60.0,Fall,2022,Medium risk
+13,Intro to Programming,131,23 of 60 seats remain,"Martinez, Jessica",Fall 2022,38.333333333333336,Fall,2022,Risky
+14,Artificial Intelligence,132,23 of 50 seats remain,"Martinez, Jessica",Fall 2022,46.0,Fall,2022,Medium risk
+15,Machine Learning,135,3 of 50 seats remain,"Smith, John",Fall 2022,6.0,Fall,2022,Very Risky
+16,Computer Networks,140,24 of 40 seats remain,"Garcia, Maria",Fall 2022,60.0,Fall,2022,Medium risk
+17,Data Structures,148,48 of 60 seats remain,"Garcia, Maria",Fall 2022,80.0,Fall,2022,Low Risk
+18,Computer Architecture,149,7 of 20 seats remain,"Smith, John",Fall 2022,35.0,Fall,2022,Risky
+19,Computer Architecture,149,FULL: 0 of 30 seats remain,"Jones, Robert",Fall 2022,0.0,Fall,2022,Very Risky
+20,Computer Architecture,150,33 of 70 seats remain,"Jones, Robert",Fall 2022,47.14285714285714,Fall,2022,Medium risk
+21,Machine Learning,150,13 of 30 seats remain,"Martinez, Jessica",Fall 2022,43.333333333333336,Fall,2022,Medium risk
+22,Artificial Intelligence,152,15 of 20 seats remain,"Smith, John",Fall 2022,75.0,Fall,2022,Low Risk
+23,Intro to Programming,161,46 of 60 seats remain,"Davis, Elizabeth",Fall 2022,76.66666666666667,Fall,2022,Low Risk
+24,Computer Architecture,163,12 of 40 seats remain,"Smith, John",Fall 2022,30.0,Fall,2022,Risky
+25,Data Structures,163,25 of 40 seats remain,"Garcia, Maria",Fall 2022,62.5,Fall,2022,Low Risk
+26,Data Structures,163,21 of 30 seats remain,"Johnson, Emily",Fall 2022,70.0,Fall,2022,Low Risk
+27,Operating Systems,163,22 of 70 seats remain,"Garcia, Maria",Fall 2022,31.428571428571427,Fall,2022,Risky
+28,Intro to Programming,164,18 of 60 seats remain,"Smith, John",Fall 2022,30.0,Fall,2022,Risky
+29,Database Systems,170,37 of 40 seats remain,"Martinez, Jessica",Fall 2022,92.5,Fall,2022,No Risk
+30,Intro to Programming,171,9 of 30 seats remain,"Miller, James",Fall 2022,30.0,Fall,2022,Risky
+31,Software Engineering,172,18 of 40 seats remain,"Smith, John",Fall 2022,45.0,Fall,2022,Medium risk
+32,Data Structures,173,13 of 30 seats remain,"Smith, John",Fall 2022,43.333333333333336,Fall,2022,Medium risk
+33,Artificial Intelligence,174,51 of 60 seats remain,"Rodriguez, Michael",Fall 2022,85.0,Fall,2022,No Risk
+34,Software Engineering,175,12 of 70 seats remain,"Smith, John",Fall 2022,17.142857142857142,Fall,2022,Very Risky
+35,Algorithms,175,6 of 60 seats remain,"Johnson, Emily",Fall 2022,10.0,Fall,2022,Very Risky
+36,Artificial Intelligence,176,33 of 70 seats remain,"Johnson, Emily",Fall 2022,47.14285714285714,Fall,2022,Medium risk
+37,Software Engineering,177,23 of 60 seats remain,"Jones, Robert",Fall 2022,38.333333333333336,Fall,2022,Risky
+38,Machine Learning,182,48 of 50 seats remain,"Davis, Elizabeth",Fall 2022,96.0,Fall,2022,No Risk
+39,Computer Architecture,187,32 of 40 seats remain,"Williams, David",Fall 2022,80.0,Fall,2022,Low Risk
+40,Software Engineering,191,37 of 70 seats remain,"Miller, James",Fall 2022,52.85714285714286,Fall,2022,Medium risk
+41,Software Engineering,199,48 of 60 seats remain,"Brown, Linda",Fall 2022,80.0,Fall,2022,Low Risk
+42,Data Structures,199,15 of 50 seats remain,"Johnson, Emily",Fall 2022,30.0,Fall,2022,Risky
+43,Algorithms,200,37 of 60 seats remain,"Martinez, Jessica",Fall 2022,61.66666666666667,Fall,2022,Low Risk
+44,Intro to Programming,206,5 of 20 seats remain,"Williams, David",Fall 2022,25.0,Fall,2022,Risky
+45,Software Engineering,207,47 of 70 seats remain,"Johnson, Emily",Fall 2022,67.14285714285714,Fall,2022,Low Risk
+46,Operating Systems,207,25 of 50 seats remain,"Rodriguez, Michael",Fall 2022,50.0,Fall,2022,Medium risk
+47,Computer Architecture,211,22 of 30 seats remain,"Johnson, Emily",Fall 2022,73.33333333333333,Fall,2022,Low Risk
+48,Artificial Intelligence,212,28 of 60 seats remain,"Williams, David",Fall 2022,46.666666666666664,Fall,2022,Medium risk
+49,Algorithms,212,30 of 50 seats remain,"Miller, James",Fall 2022,60.0,Fall,2022,Medium risk
+50,Machine Learning,218,31 of 40 seats remain,"Rodriguez, Michael",Fall 2022,77.5,Fall,2022,Low Risk
+51,Computer Architecture,220,45 of 70 seats remain,"Williams, David",Fall 2022,64.28571428571429,Fall,2022,Low Risk
+52,Data Structures,222,14 of 20 seats remain,"Smith, John",Fall 2022,70.0,Fall,2022,Low Risk
+53,Data Structures,226,30 of 40 seats remain,"Davis, Elizabeth",Fall 2022,75.0,Fall,2022,Low Risk
+54,Software Engineering,227,21 of 60 seats remain,"Johnson, Emily",Fall 2022,35.0,Fall,2022,Risky
+55,Intro to Programming,228,21 of 30 seats remain,"Garcia, Maria",Fall 2022,70.0,Fall,2022,Low Risk
+56,Data Structures,236,12 of 50 seats remain,"Smith, John",Fall 2022,24.0,Fall,2022,Risky
+57,Artificial Intelligence,236,12 of 50 seats remain,"Brown, Linda",Fall 2022,24.0,Fall,2022,Risky
+58,Machine Learning,237,10 of 20 seats remain,"Davis, Elizabeth",Fall 2022,50.0,Fall,2022,Medium risk
+59,Computer Architecture,243,42 of 70 seats remain,"Johnson, Emily",Fall 2022,60.0,Fall,2022,Medium risk
+60,Computer Networks,250,4 of 20 seats remain,"Miller, James",Fall 2022,20.0,Fall,2022,Very Risky
+61,Machine Learning,251,14 of 20 seats remain,"Johnson, Emily",Fall 2022,70.0,Fall,2022,Low Risk
+62,Operating Systems,252,24 of 30 seats remain,"Miller, James",Fall 2022,80.0,Fall,2022,Low Risk
+63,Machine Learning,252,4 of 50 seats remain,"Garcia, Maria",Fall 2022,8.0,Fall,2022,Very Risky
+64,Algorithms,252,16 of 40 seats remain,"Davis, Elizabeth",Fall 2022,40.0,Fall,2022,Risky
+65,Data Structures,253,36 of 50 seats remain,"Miller, James",Fall 2022,72.0,Fall,2022,Low Risk
+66,Machine Learning,259,7 of 50 seats remain,"Jones, Robert",Fall 2022,14.000000000000002,Fall,2022,Very Risky
+67,Computer Networks,260,5 of 20 seats remain,"Brown, Linda",Fall 2022,25.0,Fall,2022,Risky
+68,Artificial Intelligence,263,29 of 60 seats remain,"Martinez, Jessica",Fall 2022,48.333333333333336,Fall,2022,Medium risk
+69,Software Engineering,273,13 of 70 seats remain,"Miller, James",Fall 2022,18.571428571428573,Fall,2022,Very Risky
+70,Software Engineering,278,11 of 30 seats remain,"Rodriguez, Michael",Fall 2022,36.666666666666664,Fall,2022,Risky
+71,Computer Networks,278,18 of 70 seats remain,"Garcia, Maria",Fall 2022,25.71428571428571,Fall,2022,Risky
+72,Artificial Intelligence,279,26 of 40 seats remain,"Brown, Linda",Fall 2022,65.0,Fall,2022,Low Risk
+73,Artificial Intelligence,279,12 of 30 seats remain,"Miller, James",Fall 2022,40.0,Fall,2022,Risky
+74,Database Systems,281,43 of 60 seats remain,"Jones, Robert",Fall 2022,71.66666666666667,Fall,2022,Low Risk
+75,Computer Networks,281,15 of 20 seats remain,"Davis, Elizabeth",Fall 2022,75.0,Fall,2022,Low Risk
+76,Data Structures,283,16 of 60 seats remain,"Johnson, Emily",Fall 2022,26.666666666666668,Fall,2022,Risky
+77,Intro to Programming,285,0 of 40 seats remain,"Martinez, Jessica",Fall 2022,0.0,Fall,2022,Very Risky
+78,Algorithms,287,5 of 30 seats remain,"Smith, John",Fall 2022,16.666666666666664,Fall,2022,Very Risky
+79,Software Engineering,291,16 of 30 seats remain,"Miller, James",Fall 2022,53.333333333333336,Fall,2022,Medium risk
+80,Algorithms,292,24 of 50 seats remain,"Smith, John",Fall 2022,48.0,Fall,2022,Medium risk
+81,Computer Networks,293,58 of 70 seats remain,"Brown, Linda",Fall 2022,82.85714285714286,Fall,2022,No Risk
+82,Computer Networks,294,6 of 60 seats remain,"Jones, Robert",Fall 2022,10.0,Fall,2022,Very Risky
+83,Software Engineering,295,11 of 50 seats remain,"Brown, Linda",Fall 2022,22.0,Fall,2022,Risky
+84,Data Structures,298,8 of 30 seats remain,"Davis, Elizabeth",Fall 2022,26.666666666666668,Fall,2022,Risky
+85,Computer Networks,300,25 of 70 seats remain,"Martinez, Jessica",Fall 2022,35.714285714285715,Fall,2022,Risky
+86,Computer Architecture,300,21 of 70 seats remain,"Martinez, Jessica",Fall 2022,30.0,Fall,2022,Risky
+87,Data Structures,304,42 of 70 seats remain,"Williams, David",Fall 2022,60.0,Fall,2022,Medium risk
+88,Database Systems,309,16 of 20 seats remain,"Davis, Elizabeth",Fall 2022,80.0,Fall,2022,Low Risk
+89,Intro to Programming,315,38 of 60 seats remain,"Miller, James",Fall 2022,63.33333333333333,Fall,2022,Low Risk
+90,Algorithms,315,4 of 20 seats remain,"Miller, James",Fall 2022,20.0,Fall,2022,Very Risky
+91,Data Structures,315,9 of 70 seats remain,"Williams, David",Fall 2022,12.857142857142856,Fall,2022,Very Risky
+92,Intro to Programming,318,36 of 40 seats remain,"Miller, James",Fall 2022,90.0,Fall,2022,No Risk
+93,Algorithms,322,5 of 30 seats remain,"Garcia, Maria",Fall 2022,16.666666666666664,Fall,2022,Very Risky
+94,Operating Systems,323,23 of 30 seats remain,"Garcia, Maria",Fall 2022,76.66666666666667,Fall,2022,Low Risk
+95,Data Structures,323,20 of 50 seats remain,"Martinez, Jessica",Fall 2022,40.0,Fall,2022,Risky
+96,Data Structures,324,35 of 50 seats remain,"Rodriguez, Michael",Fall 2022,70.0,Fall,2022,Low Risk
+97,Machine Learning,327,28 of 40 seats remain,"Martinez, Jessica",Fall 2022,70.0,Fall,2022,Low Risk
+98,Data Structures,332,41 of 50 seats remain,"Smith, John",Fall 2022,82.0,Fall,2022,No Risk
+99,Database Systems,333,55 of 70 seats remain,"Miller, James",Fall 2022,78.57142857142857,Fall,2022,Low Risk
+100,Artificial Intelligence,336,6 of 50 seats remain,"Smith, John",Fall 2022,12.0,Fall,2022,Very Risky
+101,Data Structures,341,11 of 20 seats remain,"Williams, David",Fall 2022,55.00000000000001,Fall,2022,Medium risk
+102,Database Systems,344,15 of 30 seats remain,"Jones, Robert",Fall 2022,50.0,Fall,2022,Medium risk
+103,Operating Systems,344,32 of 70 seats remain,"Miller, James",Fall 2022,45.714285714285715,Fall,2022,Medium risk
+104,Artificial Intelligence,345,27 of 40 seats remain,"Jones, Robert",Fall 2022,67.5,Fall,2022,Low Risk
+105,Data Structures,354,5 of 60 seats remain,"Davis, Elizabeth",Fall 2022,8.333333333333332,Fall,2022,Very Risky
+106,Operating Systems,355,4 of 20 seats remain,"Brown, Linda",Fall 2022,20.0,Fall,2022,Very Risky
+107,Algorithms,356,30 of 60 seats remain,"Garcia, Maria",Fall 2022,50.0,Fall,2022,Medium risk
+108,Artificial Intelligence,358,5 of 60 seats remain,"Williams, David",Fall 2022,8.333333333333332,Fall,2022,Very Risky
+109,Computer Architecture,359,46 of 60 seats remain,"Smith, John",Fall 2022,76.66666666666667,Fall,2022,Low Risk
+110,Software Engineering,360,18 of 50 seats remain,"Brown, Linda",Fall 2022,36.0,Fall,2022,Risky
+111,Computer Networks,362,37 of 60 seats remain,"Johnson, Emily",Fall 2022,61.66666666666667,Fall,2022,Low Risk
+112,Intro to Programming,365,10 of 20 seats remain,"Jones, Robert",Fall 2022,50.0,Fall,2022,Medium risk
+113,Algorithms,369,3 of 60 seats remain,"Brown, Linda",Fall 2022,5.0,Fall,2022,Very Risky
+114,Database Systems,369,16 of 20 seats remain,"Davis, Elizabeth",Fall 2022,80.0,Fall,2022,Low Risk
+115,Computer Architecture,372,29 of 70 seats remain,"Garcia, Maria",Fall 2022,41.42857142857143,Fall,2022,Medium risk
+116,Intro to Programming,372,6 of 20 seats remain,"Rodriguez, Michael",Fall 2022,30.0,Fall,2022,Risky
+117,Computer Networks,373,24 of 50 seats remain,"Brown, Linda",Fall 2022,48.0,Fall,2022,Medium risk
+118,Computer Architecture,373,16 of 40 seats remain,"Miller, James",Fall 2022,40.0,Fall,2022,Risky
+119,Software Engineering,375,32 of 70 seats remain,"Davis, Elizabeth",Fall 2022,45.714285714285715,Fall,2022,Medium risk
+120,Computer Architecture,375,12 of 30 seats remain,"Johnson, Emily",Fall 2022,40.0,Fall,2022,Risky
+121,Software Engineering,377,41 of 70 seats remain,"Jones, Robert",Fall 2022,58.57142857142858,Fall,2022,Medium risk
+122,Algorithms,381,16 of 60 seats remain,"Garcia, Maria",Fall 2022,26.666666666666668,Fall,2022,Risky
+123,Software Engineering,384,33 of 40 seats remain,"Smith, John",Fall 2022,82.5,Fall,2022,No Risk
+124,Machine Learning,384,27 of 40 seats remain,"Rodriguez, Michael",Fall 2022,67.5,Fall,2022,Low Risk
+125,Computer Networks,387,24 of 40 seats remain,"Martinez, Jessica",Fall 2022,60.0,Fall,2022,Medium risk
+126,Machine Learning,388,10 of 40 seats remain,"Brown, Linda",Fall 2022,25.0,Fall,2022,Risky
+127,Computer Architecture,388,27 of 50 seats remain,"Johnson, Emily",Fall 2022,54.0,Fall,2022,Medium risk
+128,Artificial Intelligence,392,10 of 60 seats remain,"Garcia, Maria",Fall 2022,16.666666666666664,Fall,2022,Very Risky
+129,Algorithms,394,22 of 30 seats remain,"Smith, John",Fall 2022,73.33333333333333,Fall,2022,Low Risk
+130,Computer Networks,394,2 of 30 seats remain,"Rodriguez, Michael",Fall 2022,6.666666666666667,Fall,2022,Very Risky
+131,Intro to Programming,397,43 of 50 seats remain,"Williams, David",Fall 2022,86.0,Fall,2022,No Risk
+132,Computer Networks,397,20 of 50 seats remain,"Jones, Robert",Fall 2022,40.0,Fall,2022,Risky
+133,Data Structures,398,5 of 20 seats remain,"Garcia, Maria",Fall 2022,25.0,Fall,2022,Risky
+134,Software Engineering,400,30 of 50 seats remain,"Garcia, Maria",Fall 2022,60.0,Fall,2022,Medium risk
+135,Computer Architecture,401,52 of 60 seats remain,"Garcia, Maria",Fall 2022,86.66666666666667,Fall,2022,No Risk
+136,Algorithms,401,18 of 30 seats remain,"Jones, Robert",Fall 2022,60.0,Fall,2022,Medium risk
+137,Computer Architecture,401,7 of 60 seats remain,"Garcia, Maria",Fall 2022,11.666666666666666,Fall,2022,Very Risky
+138,Machine Learning,403,2 of 60 seats remain,"Garcia, Maria",Fall 2022,3.3333333333333335,Fall,2022,Very Risky
+139,Operating Systems,409,51 of 60 seats remain,"Jones, Robert",Fall 2022,85.0,Fall,2022,No Risk
+140,Software Engineering,410,52 of 70 seats remain,"Brown, Linda",Fall 2022,74.28571428571429,Fall,2022,Low Risk
+141,Software Engineering,414,9 of 20 seats remain,"Garcia, Maria",Fall 2022,45.0,Fall,2022,Medium risk
+142,Database Systems,418,37 of 50 seats remain,"Brown, Linda",Fall 2022,74.0,Fall,2022,Low Risk
+143,Database Systems,419,32 of 40 seats remain,"Miller, James",Fall 2022,80.0,Fall,2022,Low Risk
+144,Intro to Programming,420,22 of 30 seats remain,"Johnson, Emily",Fall 2022,73.33333333333333,Fall,2022,Low Risk
+145,Operating Systems,424,25 of 40 seats remain,"Williams, David",Fall 2022,62.5,Fall,2022,Low Risk
+146,Operating Systems,424,4 of 50 seats remain,"Rodriguez, Michael",Fall 2022,8.0,Fall,2022,Very Risky
+147,Computer Architecture,425,6 of 60 seats remain,"Williams, David",Fall 2022,10.0,Fall,2022,Very Risky
+148,Algorithms,430,3 of 20 seats remain,"Johnson, Emily",Fall 2022,15.0,Fall,2022,Very Risky
+149,Database Systems,431,53 of 60 seats remain,"Martinez, Jessica",Fall 2022,88.33333333333333,Fall,2022,No Risk
+150,Computer Architecture,432,18 of 30 seats remain,"Johnson, Emily",Fall 2022,60.0,Fall,2022,Medium risk
+151,Machine Learning,435,22 of 50 seats remain,"Smith, John",Fall 2022,44.0,Fall,2022,Medium risk
+152,Intro to Programming,436,4 of 30 seats remain,"Williams, David",Fall 2022,13.333333333333334,Fall,2022,Very Risky
+153,Computer Architecture,439,FULL: 0 of 30 seats remain,"Garcia, Maria",Fall 2022,0.0,Fall,2022,Very Risky
+154,Intro to Programming,443,FULL: 0 of 50 seats remain,"Brown, Linda",Fall 2022,0.0,Fall,2022,Very Risky
+155,Software Engineering,445,49 of 70 seats remain,"Williams, David",Fall 2022,70.0,Fall,2022,Low Risk
+156,Computer Architecture,445,1 of 20 seats remain,"Davis, Elizabeth",Fall 2022,5.0,Fall,2022,Very Risky
+157,Database Systems,447,5 of 60 seats remain,"Johnson, Emily",Fall 2022,8.333333333333332,Fall,2022,Very Risky
+158,Operating Systems,448,11 of 20 seats remain,"Johnson, Emily",Fall 2022,55.00000000000001,Fall,2022,Medium risk
+159,Computer Networks,453,35 of 50 seats remain,"Martinez, Jessica",Fall 2022,70.0,Fall,2022,Low Risk
+160,Computer Networks,457,1 of 40 seats remain,"Brown, Linda",Fall 2022,2.5,Fall,2022,Very Risky
+161,Operating Systems,459,5 of 20 seats remain,"Smith, John",Fall 2022,25.0,Fall,2022,Risky
+162,Database Systems,459,39 of 50 seats remain,"Jones, Robert",Fall 2022,78.0,Fall,2022,Low Risk
+163,Machine Learning,459,6 of 20 seats remain,"Garcia, Maria",Fall 2022,30.0,Fall,2022,Risky
+164,Database Systems,461,22 of 40 seats remain,"Jones, Robert",Fall 2022,55.00000000000001,Fall,2022,Medium risk
+165,Database Systems,462,6 of 40 seats remain,"Smith, John",Fall 2022,15.0,Fall,2022,Very Risky
+166,Computer Architecture,465,18 of 50 seats remain,"Garcia, Maria",Fall 2022,36.0,Fall,2022,Risky
+167,Machine Learning,465,18 of 20 seats remain,"Williams, David",Fall 2022,90.0,Fall,2022,No Risk
+168,Algorithms,467,5 of 40 seats remain,"Rodriguez, Michael",Fall 2022,12.5,Fall,2022,Very Risky
+169,Data Structures,469,41 of 70 seats remain,"Miller, James",Fall 2022,58.57142857142858,Fall,2022,Medium risk
+170,Software Engineering,470,12 of 20 seats remain,"Jones, Robert",Fall 2022,60.0,Fall,2022,Medium risk
+171,Data Structures,471,20 of 30 seats remain,"Davis, Elizabeth",Fall 2022,66.66666666666666,Fall,2022,Low Risk
+172,Artificial Intelligence,476,5 of 60 seats remain,"Jones, Robert",Fall 2022,8.333333333333332,Fall,2022,Very Risky
+173,Algorithms,479,14 of 30 seats remain,"Rodriguez, Michael",Fall 2022,46.666666666666664,Fall,2022,Medium risk
+174,Computer Architecture,480,11 of 40 seats remain,"Rodriguez, Michael",Fall 2022,27.500000000000004,Fall,2022,Risky
+175,Computer Architecture,481,42 of 50 seats remain,"Rodriguez, Michael",Fall 2022,84.0,Fall,2022,No Risk
+176,Data Structures,488,19 of 70 seats remain,"Rodriguez, Michael",Fall 2022,27.142857142857142,Fall,2022,Risky
+177,Database Systems,488,9 of 40 seats remain,"Brown, Linda",Fall 2022,22.5,Fall,2022,Risky
+178,Software Engineering,489,17 of 20 seats remain,"Davis, Elizabeth",Fall 2022,85.0,Fall,2022,No Risk
+179,Database Systems,493,55 of 70 seats remain,"Miller, James",Fall 2022,78.57142857142857,Fall,2022,Low Risk
+180,Software Engineering,494,13 of 30 seats remain,"Jones, Robert",Fall 2022,43.333333333333336,Fall,2022,Medium risk
+181,Data Structures,500,38 of 60 seats remain,"Johnson, Emily",Fall 2022,63.33333333333333,Fall,2022,Low Risk
+182,Database Systems,502,8 of 40 seats remain,"Garcia, Maria",Fall 2022,20.0,Fall,2022,Very Risky
+183,Software Engineering,502,30 of 50 seats remain,"Garcia, Maria",Fall 2022,60.0,Fall,2022,Medium risk
+184,Artificial Intelligence,507,26 of 40 seats remain,"Smith, John",Fall 2022,65.0,Fall,2022,Low Risk
+185,Data Structures,507,35 of 50 seats remain,"Martinez, Jessica",Fall 2022,70.0,Fall,2022,Low Risk
+186,Computer Architecture,509,19 of 30 seats remain,"Miller, James",Fall 2022,63.33333333333333,Fall,2022,Low Risk
+187,Machine Learning,513,30 of 70 seats remain,"Miller, James",Fall 2022,42.857142857142854,Fall,2022,Medium risk
+188,Algorithms,515,21 of 40 seats remain,"Garcia, Maria",Fall 2022,52.5,Fall,2022,Medium risk
+189,Operating Systems,518,10 of 50 seats remain,"Martinez, Jessica",Fall 2022,20.0,Fall,2022,Very Risky
+190,Computer Networks,522,18 of 20 seats remain,"Rodriguez, Michael",Fall 2022,90.0,Fall,2022,No Risk
+191,Artificial Intelligence,525,27 of 60 seats remain,"Rodriguez, Michael",Fall 2022,45.0,Fall,2022,Medium risk
+192,Artificial Intelligence,527,29 of 60 seats remain,"Martinez, Jessica",Fall 2022,48.333333333333336,Fall,2022,Medium risk
+193,Software Engineering,529,28 of 50 seats remain,"Williams, David",Fall 2022,56.00000000000001,Fall,2022,Medium risk
+194,Operating Systems,530,26 of 40 seats remain,"Smith, John",Fall 2022,65.0,Fall,2022,Low Risk
+195,Intro to Programming,531,8 of 40 seats remain,"Williams, David",Fall 2022,20.0,Fall,2022,Very Risky
+196,Data Structures,532,53 of 60 seats remain,"Garcia, Maria",Fall 2022,88.33333333333333,Fall,2022,No Risk
+197,Artificial Intelligence,532,18 of 30 seats remain,"Johnson, Emily",Fall 2022,60.0,Fall,2022,Medium risk
+198,Computer Networks,534,42 of 50 seats remain,"Smith, John",Fall 2022,84.0,Fall,2022,No Risk
+199,Database Systems,540,2 of 40 seats remain,"Martinez, Jessica",Fall 2022,5.0,Fall,2022,Very Risky
+200,Software Engineering,540,15 of 20 seats remain,"Garcia, Maria",Fall 2022,75.0,Fall,2022,Low Risk
+201,Data Structures,540,7 of 30 seats remain,"Miller, James",Fall 2022,23.333333333333332,Fall,2022,Risky
+202,Intro to Programming,540,26 of 50 seats remain,"Garcia, Maria",Fall 2022,52.0,Fall,2022,Medium risk
+203,Data Structures,541,11 of 20 seats remain,"Jones, Robert",Fall 2022,55.00000000000001,Fall,2022,Medium risk
+204,Software Engineering,541,51 of 70 seats remain,"Williams, David",Fall 2022,72.85714285714285,Fall,2022,Low Risk
+205,Operating Systems,542,24 of 50 seats remain,"Martinez, Jessica",Fall 2022,48.0,Fall,2022,Medium risk
+206,Operating Systems,542,54 of 70 seats remain,"Garcia, Maria",Fall 2022,77.14285714285715,Fall,2022,Low Risk
+207,Machine Learning,545,0 of 20 seats remain,"Williams, David",Fall 2022,0.0,Fall,2022,Very Risky
+208,Database Systems,546,2 of 20 seats remain,"Miller, James",Fall 2022,10.0,Fall,2022,Very Risky
+209,Data Structures,551,17 of 20 seats remain,"Martinez, Jessica",Fall 2022,85.0,Fall,2022,No Risk
+210,Artificial Intelligence,553,2 of 30 seats remain,"Garcia, Maria",Fall 2022,6.666666666666667,Fall,2022,Very Risky
+211,Computer Networks,559,16 of 20 seats remain,"Garcia, Maria",Fall 2022,80.0,Fall,2022,Low Risk
+212,Operating Systems,561,16 of 50 seats remain,"Rodriguez, Michael",Fall 2022,32.0,Fall,2022,Risky
+213,Algorithms,564,52 of 60 seats remain,"Williams, David",Fall 2022,86.66666666666667,Fall,2022,No Risk
+214,Machine Learning,565,6 of 40 seats remain,"Rodriguez, Michael",Fall 2022,15.0,Fall,2022,Very Risky
+215,Software Engineering,566,14 of 20 seats remain,"Miller, James",Fall 2022,70.0,Fall,2022,Low Risk
+216,Intro to Programming,567,51 of 70 seats remain,"Williams, David",Fall 2022,72.85714285714285,Fall,2022,Low Risk
+217,Machine Learning,569,5 of 70 seats remain,"Garcia, Maria",Fall 2022,7.142857142857142,Fall,2022,Very Risky
+218,Computer Architecture,569,28 of 60 seats remain,"Jones, Robert",Fall 2022,46.666666666666664,Fall,2022,Medium risk
+219,Data Structures,571,31 of 40 seats remain,"Williams, David",Fall 2022,77.5,Fall,2022,Low Risk
+220,Machine Learning,572,8 of 30 seats remain,"Williams, David",Fall 2022,26.666666666666668,Fall,2022,Risky
+221,Computer Architecture,573,36 of 40 seats remain,"Martinez, Jessica",Fall 2022,90.0,Fall,2022,No Risk
+222,Algorithms,574,4 of 20 seats remain,"Davis, Elizabeth",Fall 2022,20.0,Fall,2022,Very Risky
+223,Computer Architecture,574,17 of 60 seats remain,"Davis, Elizabeth",Fall 2022,28.333333333333332,Fall,2022,Risky
+224,Machine Learning,579,43 of 50 seats remain,"Jones, Robert",Fall 2022,86.0,Fall,2022,No Risk
+225,Machine Learning,580,3 of 20 seats remain,"Martinez, Jessica",Fall 2022,15.0,Fall,2022,Very Risky
+226,Theory/Application Data Mining,584,9 of 70 seats remain,"Zhou, Keren",Fall 2022,12.857142857142856,Fall,2022,Very Risky
+227,Theory/Application Data Mining,584,48 of 70 seats remain,"Barbara, Daniel",Fall 2022,68.57142857142857,Fall,2022,Low Risk
+228,Introduction to Cryptography,587,11 of 20 seats remain,"Ateniese, Giuseppe",Fall 2022,55.00000000000001,Fall,2022,Medium risk
+229,Quantum Algorithms,595,FULL: 0 of 2 seats remain,"Baume, Michael",Fall 2022,0.0,Fall,2022,Very Risky
+230,AI Design and Deployment Risks,595,8 of 15 seats remain,"Cummings, Missy",Fall 2022,53.333333333333336,Fall,2022,Medium risk
+231,AI Design and Deployment Risks,595,11 of 15 seats remain,"Cummings, Missy",Fall 2022,73.33333333333333,Fall,2022,Low Risk
+232,Theory of Computation,600,43 of 60 seats remain,"Richards, Dana",Fall 2022,71.66666666666667,Fall,2022,Low Risk
+233,Theory of Computation,600,32 of 50 seats remain,"Richards, Dana",Fall 2022,64.0,Fall,2022,Low Risk
+234,Advanced Algorithms,630,12 of 50 seats remain,"Yaroslavtsev, Grigory",Fall 2022,24.0,Fall,2022,Risky
+235,Wireless and Mobile Computing,655,7 of 50 seats remain,"Yao, Shuochao",Fall 2022,14.000000000000002,Fall,2022,Very Risky
+236,Computational Design,663,30 of 65 seats remain,"Yu, Lap Fai",Fall 2022,46.15384615384615,Fall,2022,Medium risk
+237,Advanced NLP,678,8 of 65 seats remain,"Yao, Ziyu",Fall 2022,12.307692307692308,Fall,2022,Very Risky
+238,Computer Vision,682,20 of 53 seats remain,"Kosecka, Jana",Fall 2022,37.735849056603776,Fall,2022,Risky
+239,Machine Learning,688,19 of 50 seats remain,"Yu, Fang-Yi",Fall 2022,38.0,Fall,2022,Risky
+240,Machine Learning,688,18 of 50 seats remain,"Das, Sanmay",Fall 2022,36.0,Fall,2022,Risky
+241,Network Security,692,3 of 10 seats remain,"Wang, Xinyuan",Fall 2022,30.0,Fall,2022,Risky
+242,Linux Kernel Internals,692,24 of 40 seats remain,"Zhang, Xiaokuan",Fall 2022,60.0,Fall,2022,Medium risk
+243,SWE Real-Time Embedded Systm,692,7 of 35 seats remain,"Pettit, Rob",Fall 2022,20.0,Fall,2022,Very Risky
+244,Advanced Computer Architecture,692,39 of 50 seats remain,"Yang, Lishan",Fall 2022,78.0,Fall,2022,Low Risk
+245,SWE Real-Time Embedded Systm,692,10 of 32 seats remain,"Pettit, Rob",Fall 2022,31.25,Fall,2022,Risky
+246,Advanced Machine Learning,782,39 of 44 seats remain,"Liu, Mingrui",Fall 2022,88.63636363636364,Fall,2022,No Risk
+247,Advanced Machine Learning,782,31 of 44 seats remain,"Barbara, Daniel",Fall 2022,70.45454545454545,Fall,2022,Low Risk
+248,Decision Guidance Systems,787,12 of 50 seats remain,"Brodsky, Alexander",Fall 2022,24.0,Fall,2022,Risky
+249,Computer Science Colloquium,800,8 of 60 seats remain,"Aydin, Hakan",Fall 2022,13.333333333333334,Fall,2022,Very Risky
+250,Data Structures,226,29 of 40 seats remain,"Davis, Elizabeth",Fall 2022,72.5,Fall,2022,Low Risk
+251,Data Structures,332,44 of 50 seats remain,"Smith, John",Fall 2022,88.0,Fall,2022,No Risk
+252,Artificial Intelligence,132,26 of 50 seats remain,"Martinez, Jessica",Fall 2022,52.0,Fall,2022,Medium risk
+253,Operating Systems,207,28 of 50 seats remain,"Rodriguez, Michael",Fall 2022,56.00000000000001,Fall,2022,Medium risk
+254,Data Structures,398,7 of 20 seats remain,"Garcia, Maria",Fall 2022,35.0,Fall,2022,Risky
+255,Data Structures,253,35 of 50 seats remain,"Miller, James",Fall 2022,70.0,Fall,2022,Low Risk
+256,Computer Architecture,480,11 of 40 seats remain,"Rodriguez, Michael",Fall 2022,27.500000000000004,Fall,2022,Risky
+257,Software Engineering,489,16 of 20 seats remain,"Davis, Elizabeth",Fall 2022,80.0,Fall,2022,Low Risk
+258,Data Structures,469,41 of 70 seats remain,"Miller, James",Fall 2022,58.57142857142858,Fall,2022,Medium risk
+259,Database Systems,419,33 of 40 seats remain,"Miller, James",Fall 2022,82.5,Fall,2022,No Risk
+260,Machine Learning,572,9 of 30 seats remain,"Williams, David",Fall 2022,30.0,Fall,2022,Risky
+261,Data Structures,469,42 of 70 seats remain,"Miller, James",Fall 2022,60.0,Fall,2022,Medium risk
+262,Computer Networks,294,6 of 60 seats remain,"Jones, Robert",Fall 2022,10.0,Fall,2022,Very Risky
+263,Artificial Intelligence,122,13 of 20 seats remain,"Miller, James",Fall 2022,65.0,Fall,2022,Low Risk
+264,Data Structures,469,43 of 70 seats remain,"Miller, James",Fall 2022,61.42857142857143,Fall,2022,Low Risk
+265,Algorithms,479,13 of 30 seats remain,"Rodriguez, Michael",Fall 2022,43.333333333333336,Fall,2022,Medium risk
+266,Intro to Programming,161,48 of 60 seats remain,"Davis, Elizabeth",Fall 2022,80.0,Fall,2022,Low Risk
+267,Machine Learning,403,4 of 60 seats remain,"Garcia, Maria",Fall 2022,6.666666666666667,Fall,2022,Very Risky
+268,Algorithms,564,52 of 60 seats remain,"Williams, David",Fall 2022,86.66666666666667,Fall,2022,No Risk
+269,Computer Networks,300,28 of 70 seats remain,"Martinez, Jessica",Fall 2022,40.0,Fall,2022,Risky
+270,Machine Learning,580,2 of 20 seats remain,"Martinez, Jessica",Fall 2022,10.0,Fall,2022,Very Risky
+271,Data Structures,118,25 of 30 seats remain,"Johnson, Emily",Fall 2022,83.33333333333334,Fall,2022,No Risk
+272,Data Structures,323,18 of 50 seats remain,"Martinez, Jessica",Fall 2022,36.0,Fall,2022,Risky
+273,Computer Architecture,187,30 of 40 seats remain,"Williams, David",Fall 2022,75.0,Fall,2022,Low Risk
+274,Machine Learning,459,7 of 20 seats remain,"Garcia, Maria",Fall 2022,35.0,Fall,2022,Risky
+275,Intro to Programming,318,38 of 40 seats remain,"Miller, James",Fall 2022,95.0,Fall,2022,No Risk
+276,Intro to Programming,161,44 of 60 seats remain,"Davis, Elizabeth",Fall 2022,73.33333333333333,Fall,2022,Low Risk
+277,Software Engineering,414,11 of 20 seats remain,"Garcia, Maria",Fall 2022,55.00000000000001,Fall,2022,Medium risk
+278,Data Structures,163,20 of 30 seats remain,"Johnson, Emily",Fall 2022,66.66666666666666,Fall,2022,Low Risk
+279,Computer Networks,373,24 of 50 seats remain,"Brown, Linda",Fall 2022,48.0,Fall,2022,Medium risk
+280,Software Engineering,377,43 of 70 seats remain,"Jones, Robert",Fall 2022,61.42857142857143,Fall,2022,Low Risk
+281,Computer Networks,534,41 of 50 seats remain,"Smith, John",Fall 2022,82.0,Fall,2022,No Risk
+282,Software Engineering,295,13 of 50 seats remain,"Brown, Linda",Fall 2022,26.0,Fall,2022,Risky
+283,Computer Architecture,375,11 of 30 seats remain,"Johnson, Emily",Fall 2022,36.666666666666664,Fall,2022,Risky
+284,Artificial Intelligence,525,29 of 60 seats remain,"Rodriguez, Michael",Fall 2022,48.333333333333336,Fall,2022,Medium risk
+285,Algorithms,401,18 of 30 seats remain,"Jones, Robert",Fall 2022,60.0,Fall,2022,Medium risk
+286,Operating Systems,355,6 of 20 seats remain,"Brown, Linda",Fall 2022,30.0,Fall,2022,Risky
+287,Computer Architecture,432,17 of 30 seats remain,"Johnson, Emily",Fall 2022,56.666666666666664,Fall,2022,Medium risk
+288,Algorithms,381,17 of 60 seats remain,"Garcia, Maria",Fall 2022,28.333333333333332,Fall,2022,Risky
+289,Operating Systems,448,12 of 20 seats remain,"Johnson, Emily",Fall 2022,60.0,Fall,2022,Medium risk
+290,Computer Networks,293,57 of 70 seats remain,"Brown, Linda",Fall 2022,81.42857142857143,Fall,2022,No Risk
+291,Intro to Programming,285,0 of 40 seats remain,"Martinez, Jessica",Fall 2022,0.0,Fall,2022,Very Risky
+292,Intro to Programming,372,8 of 20 seats remain,"Rodriguez, Michael",Fall 2022,40.0,Fall,2022,Risky
+293,Computer Networks,293,56 of 70 seats remain,"Brown, Linda",Fall 2022,80.0,Fall,2022,Low Risk
+294,Database Systems,546,3 of 20 seats remain,"Miller, James",Fall 2022,15.0,Fall,2022,Very Risky
+295,Intro to Programming,436,5 of 30 seats remain,"Williams, David",Fall 2022,16.666666666666664,Fall,2022,Very Risky
+296,Data Structures,118,25 of 30 seats remain,"Johnson, Emily",Fall 2022,83.33333333333334,Fall,2022,No Risk
+297,Computer Architecture,569,26 of 60 seats remain,"Jones, Robert",Fall 2022,43.333333333333336,Fall,2022,Medium risk
+298,Software Engineering,414,8 of 20 seats remain,"Garcia, Maria",Fall 2022,40.0,Fall,2022,Risky
+299,Computer Architecture,149,9 of 20 seats remain,"Smith, John",Fall 2022,45.0,Fall,2022,Medium risk
+300,Computer Networks,107,20 of 70 seats remain,"Davis, Elizabeth",Fall 2024,28.57142857142857,Fall,2024,Risky
+301,Computer Architecture,109,5 of 30 seats remain,"Smith, John",Fall 2024,16.666666666666664,Fall,2024,Very Risky
+302,Intro to Programming,112,23 of 30 seats remain,"Martinez, Jessica",Fall 2024,76.66666666666667,Fall,2024,Low Risk
+303,Computer Architecture,114,33 of 50 seats remain,"Smith, John",Fall 2024,66.0,Fall,2024,Low Risk
+304,Data Structures,117,63 of 70 seats remain,"Jones, Robert",Fall 2024,90.0,Fall,2024,No Risk
+305,Data Structures,118,26 of 30 seats remain,"Johnson, Emily",Fall 2024,86.66666666666667,Fall,2024,No Risk
+306,Artificial Intelligence,121,27 of 70 seats remain,"Smith, John",Fall 2024,38.57142857142858,Fall,2024,Risky
+307,Intro to Programming,121,12 of 50 seats remain,"Garcia, Maria",Fall 2024,24.0,Fall,2024,Risky
+308,Artificial Intelligence,122,11 of 20 seats remain,"Miller, James",Fall 2024,55.00000000000001,Fall,2024,Medium risk
+309,Data Structures,124,5 of 20 seats remain,"Rodriguez, Michael",Fall 2024,25.0,Fall,2024,Risky
+310,Operating Systems,128,14 of 60 seats remain,"Johnson, Emily",Fall 2024,23.333333333333332,Fall,2024,Risky
+311,Operating Systems,129,38 of 70 seats remain,"Williams, David",Fall 2024,54.285714285714285,Fall,2024,Medium risk
+312,Computer Networks,131,12 of 20 seats remain,"Brown, Linda",Fall 2024,60.0,Fall,2024,Medium risk
+313,Intro to Programming,131,22 of 60 seats remain,"Martinez, Jessica",Fall 2024,36.666666666666664,Fall,2024,Risky
+314,Artificial Intelligence,132,22 of 50 seats remain,"Martinez, Jessica",Fall 2024,44.0,Fall,2024,Medium risk
+315,Machine Learning,135,4 of 50 seats remain,"Smith, John",Fall 2024,8.0,Fall,2024,Very Risky
+316,Computer Networks,140,23 of 40 seats remain,"Garcia, Maria",Fall 2024,57.49999999999999,Fall,2024,Medium risk
+317,Data Structures,148,46 of 60 seats remain,"Garcia, Maria",Fall 2024,76.66666666666667,Fall,2024,Low Risk
+318,Computer Architecture,149,7 of 20 seats remain,"Smith, John",Fall 2024,35.0,Fall,2024,Risky
+319,Computer Architecture,149,FULL: 0 of 30 seats remain,"Jones, Robert",Fall 2024,0.0,Fall,2024,Very Risky
+320,Computer Architecture,150,32 of 70 seats remain,"Jones, Robert",Fall 2024,45.714285714285715,Fall,2024,Medium risk
+321,Machine Learning,150,13 of 30 seats remain,"Martinez, Jessica",Fall 2024,43.333333333333336,Fall,2024,Medium risk
+322,Artificial Intelligence,152,15 of 20 seats remain,"Smith, John",Fall 2024,75.0,Fall,2024,Low Risk
+323,Intro to Programming,161,46 of 60 seats remain,"Davis, Elizabeth",Fall 2024,76.66666666666667,Fall,2024,Low Risk
+324,Computer Architecture,163,14 of 40 seats remain,"Smith, John",Fall 2024,35.0,Fall,2024,Risky
+325,Data Structures,163,22 of 40 seats remain,"Garcia, Maria",Fall 2024,55.00000000000001,Fall,2024,Medium risk
+326,Data Structures,163,24 of 30 seats remain,"Johnson, Emily",Fall 2024,80.0,Fall,2024,Low Risk
+327,Operating Systems,163,20 of 70 seats remain,"Garcia, Maria",Fall 2024,28.57142857142857,Fall,2024,Risky
+328,Intro to Programming,164,23 of 60 seats remain,"Smith, John",Fall 2024,38.333333333333336,Fall,2024,Risky
+329,Database Systems,170,37 of 40 seats remain,"Martinez, Jessica",Fall 2024,92.5,Fall,2024,No Risk
+330,Intro to Programming,171,9 of 30 seats remain,"Miller, James",Fall 2024,30.0,Fall,2024,Risky
+331,Software Engineering,172,23 of 40 seats remain,"Smith, John",Fall 2024,57.49999999999999,Fall,2024,Medium risk
+332,Data Structures,173,13 of 30 seats remain,"Smith, John",Fall 2024,43.333333333333336,Fall,2024,Medium risk
+333,Artificial Intelligence,174,51 of 60 seats remain,"Rodriguez, Michael",Fall 2024,85.0,Fall,2024,No Risk
+334,Software Engineering,175,10 of 70 seats remain,"Smith, John",Fall 2024,14.285714285714285,Fall,2024,Very Risky
+335,Algorithms,175,9 of 60 seats remain,"Johnson, Emily",Fall 2024,15.0,Fall,2024,Very Risky
+336,Artificial Intelligence,176,29 of 70 seats remain,"Johnson, Emily",Fall 2024,41.42857142857143,Fall,2024,Medium risk
+337,Software Engineering,177,23 of 60 seats remain,"Jones, Robert",Fall 2024,38.333333333333336,Fall,2024,Risky
+338,Machine Learning,182,45 of 50 seats remain,"Davis, Elizabeth",Fall 2024,90.0,Fall,2024,No Risk
+339,Computer Architecture,187,31 of 40 seats remain,"Williams, David",Fall 2024,77.5,Fall,2024,Low Risk
+340,Software Engineering,191,41 of 70 seats remain,"Miller, James",Fall 2024,58.57142857142858,Fall,2024,Medium risk
+341,Software Engineering,199,46 of 60 seats remain,"Brown, Linda",Fall 2024,76.66666666666667,Fall,2024,Low Risk
+342,Data Structures,199,13 of 50 seats remain,"Johnson, Emily",Fall 2024,26.0,Fall,2024,Risky
+343,Algorithms,200,42 of 60 seats remain,"Martinez, Jessica",Fall 2024,70.0,Fall,2024,Low Risk
+344,Intro to Programming,206,6 of 20 seats remain,"Williams, David",Fall 2024,30.0,Fall,2024,Risky
+345,Software Engineering,207,48 of 70 seats remain,"Johnson, Emily",Fall 2024,68.57142857142857,Fall,2024,Low Risk
+346,Operating Systems,207,29 of 50 seats remain,"Rodriguez, Michael",Fall 2024,57.99999999999999,Fall,2024,Medium risk
+347,Computer Architecture,211,22 of 30 seats remain,"Johnson, Emily",Fall 2024,73.33333333333333,Fall,2024,Low Risk
+348,Artificial Intelligence,212,31 of 60 seats remain,"Williams, David",Fall 2024,51.66666666666667,Fall,2024,Medium risk
+349,Algorithms,212,26 of 50 seats remain,"Miller, James",Fall 2024,52.0,Fall,2024,Medium risk
+350,Machine Learning,218,36 of 40 seats remain,"Rodriguez, Michael",Fall 2024,90.0,Fall,2024,No Risk
+351,Computer Architecture,220,44 of 70 seats remain,"Williams, David",Fall 2024,62.857142857142854,Fall,2024,Low Risk
+352,Data Structures,222,14 of 20 seats remain,"Smith, John",Fall 2024,70.0,Fall,2024,Low Risk
+353,Data Structures,226,34 of 40 seats remain,"Davis, Elizabeth",Fall 2024,85.0,Fall,2024,No Risk
+354,Software Engineering,227,19 of 60 seats remain,"Johnson, Emily",Fall 2024,31.666666666666664,Fall,2024,Risky
+355,Intro to Programming,228,22 of 30 seats remain,"Garcia, Maria",Fall 2024,73.33333333333333,Fall,2024,Low Risk
+356,Data Structures,236,12 of 50 seats remain,"Smith, John",Fall 2024,24.0,Fall,2024,Risky
+357,Artificial Intelligence,236,12 of 50 seats remain,"Brown, Linda",Fall 2024,24.0,Fall,2024,Risky
+358,Machine Learning,237,8 of 20 seats remain,"Davis, Elizabeth",Fall 2024,40.0,Fall,2024,Risky
+359,Computer Architecture,243,42 of 70 seats remain,"Johnson, Emily",Fall 2024,60.0,Fall,2024,Medium risk
+360,Computer Networks,250,5 of 20 seats remain,"Miller, James",Fall 2024,25.0,Fall,2024,Risky
+361,Machine Learning,251,15 of 20 seats remain,"Johnson, Emily",Fall 2024,75.0,Fall,2024,Low Risk
+362,Operating Systems,252,21 of 30 seats remain,"Miller, James",Fall 2024,70.0,Fall,2024,Low Risk
+363,Machine Learning,252,1 of 50 seats remain,"Garcia, Maria",Fall 2024,2.0,Fall,2024,Very Risky
+364,Algorithms,252,18 of 40 seats remain,"Davis, Elizabeth",Fall 2024,45.0,Fall,2024,Medium risk
+365,Data Structures,253,40 of 50 seats remain,"Miller, James",Fall 2024,80.0,Fall,2024,Low Risk
+366,Machine Learning,259,9 of 50 seats remain,"Jones, Robert",Fall 2024,18.0,Fall,2024,Very Risky
+367,Computer Networks,260,5 of 20 seats remain,"Brown, Linda",Fall 2024,25.0,Fall,2024,Risky
+368,Artificial Intelligence,263,29 of 60 seats remain,"Martinez, Jessica",Fall 2024,48.333333333333336,Fall,2024,Medium risk
+369,Software Engineering,273,14 of 70 seats remain,"Miller, James",Fall 2024,20.0,Fall,2024,Very Risky
+370,Software Engineering,278,10 of 30 seats remain,"Rodriguez, Michael",Fall 2024,33.33333333333333,Fall,2024,Risky
+371,Computer Networks,278,18 of 70 seats remain,"Garcia, Maria",Fall 2024,25.71428571428571,Fall,2024,Risky
+372,Artificial Intelligence,279,26 of 40 seats remain,"Brown, Linda",Fall 2024,65.0,Fall,2024,Low Risk
+373,Artificial Intelligence,279,13 of 30 seats remain,"Miller, James",Fall 2024,43.333333333333336,Fall,2024,Medium risk
+374,Database Systems,281,46 of 60 seats remain,"Jones, Robert",Fall 2024,76.66666666666667,Fall,2024,Low Risk
+375,Computer Networks,281,16 of 20 seats remain,"Davis, Elizabeth",Fall 2024,80.0,Fall,2024,Low Risk
+376,Data Structures,283,17 of 60 seats remain,"Johnson, Emily",Fall 2024,28.333333333333332,Fall,2024,Risky
+377,Intro to Programming,285,0 of 40 seats remain,"Martinez, Jessica",Fall 2024,0.0,Fall,2024,Very Risky
+378,Algorithms,287,3 of 30 seats remain,"Smith, John",Fall 2024,10.0,Fall,2024,Very Risky
+379,Software Engineering,291,14 of 30 seats remain,"Miller, James",Fall 2024,46.666666666666664,Fall,2024,Medium risk
+380,Algorithms,292,20 of 50 seats remain,"Smith, John",Fall 2024,40.0,Fall,2024,Risky
+381,Computer Networks,293,56 of 70 seats remain,"Brown, Linda",Fall 2024,80.0,Fall,2024,Low Risk
+382,Computer Networks,294,8 of 60 seats remain,"Jones, Robert",Fall 2024,13.333333333333334,Fall,2024,Very Risky
+383,Software Engineering,295,14 of 50 seats remain,"Brown, Linda",Fall 2024,28.000000000000004,Fall,2024,Risky
+384,Data Structures,298,8 of 30 seats remain,"Davis, Elizabeth",Fall 2024,26.666666666666668,Fall,2024,Risky
+385,Computer Networks,300,21 of 70 seats remain,"Martinez, Jessica",Fall 2024,30.0,Fall,2024,Risky
+386,Computer Architecture,300,18 of 70 seats remain,"Martinez, Jessica",Fall 2024,25.71428571428571,Fall,2024,Risky
+387,Data Structures,304,41 of 70 seats remain,"Williams, David",Fall 2024,58.57142857142858,Fall,2024,Medium risk
+388,Database Systems,309,16 of 20 seats remain,"Davis, Elizabeth",Fall 2024,80.0,Fall,2024,Low Risk
+389,Intro to Programming,315,37 of 60 seats remain,"Miller, James",Fall 2024,61.66666666666667,Fall,2024,Low Risk
+390,Algorithms,315,4 of 20 seats remain,"Miller, James",Fall 2024,20.0,Fall,2024,Very Risky
+391,Data Structures,315,6 of 70 seats remain,"Williams, David",Fall 2024,8.571428571428571,Fall,2024,Very Risky
+392,Intro to Programming,318,31 of 40 seats remain,"Miller, James",Fall 2024,77.5,Fall,2024,Low Risk
+393,Algorithms,322,7 of 30 seats remain,"Garcia, Maria",Fall 2024,23.333333333333332,Fall,2024,Risky
+394,Operating Systems,323,23 of 30 seats remain,"Garcia, Maria",Fall 2024,76.66666666666667,Fall,2024,Low Risk
+395,Data Structures,323,20 of 50 seats remain,"Martinez, Jessica",Fall 2024,40.0,Fall,2024,Risky
+396,Data Structures,324,36 of 50 seats remain,"Rodriguez, Michael",Fall 2024,72.0,Fall,2024,Low Risk
+397,Machine Learning,327,30 of 40 seats remain,"Martinez, Jessica",Fall 2024,75.0,Fall,2024,Low Risk
+398,Data Structures,332,43 of 50 seats remain,"Smith, John",Fall 2024,86.0,Fall,2024,No Risk
+399,Database Systems,333,54 of 70 seats remain,"Miller, James",Fall 2024,77.14285714285715,Fall,2024,Low Risk
+400,Artificial Intelligence,336,8 of 50 seats remain,"Smith, John",Fall 2024,16.0,Fall,2024,Very Risky
+401,Data Structures,341,10 of 20 seats remain,"Williams, David",Fall 2024,50.0,Fall,2024,Medium risk
+402,Database Systems,344,15 of 30 seats remain,"Jones, Robert",Fall 2024,50.0,Fall,2024,Medium risk
+403,Operating Systems,344,31 of 70 seats remain,"Miller, James",Fall 2024,44.285714285714285,Fall,2024,Medium risk
+404,Artificial Intelligence,345,27 of 40 seats remain,"Jones, Robert",Fall 2024,67.5,Fall,2024,Low Risk
+405,Data Structures,354,9 of 60 seats remain,"Davis, Elizabeth",Fall 2024,15.0,Fall,2024,Very Risky
+406,Operating Systems,355,4 of 20 seats remain,"Brown, Linda",Fall 2024,20.0,Fall,2024,Very Risky
+407,Algorithms,356,31 of 60 seats remain,"Garcia, Maria",Fall 2024,51.66666666666667,Fall,2024,Medium risk
+408,Artificial Intelligence,358,3 of 60 seats remain,"Williams, David",Fall 2024,5.0,Fall,2024,Very Risky
+409,Computer Architecture,359,43 of 60 seats remain,"Smith, John",Fall 2024,71.66666666666667,Fall,2024,Low Risk
+410,Software Engineering,360,14 of 50 seats remain,"Brown, Linda",Fall 2024,28.000000000000004,Fall,2024,Risky
+411,Computer Networks,362,39 of 60 seats remain,"Johnson, Emily",Fall 2024,65.0,Fall,2024,Low Risk
+412,Intro to Programming,365,9 of 20 seats remain,"Jones, Robert",Fall 2024,45.0,Fall,2024,Medium risk
+413,Algorithms,369,4 of 60 seats remain,"Brown, Linda",Fall 2024,6.666666666666667,Fall,2024,Very Risky
+414,Database Systems,369,18 of 20 seats remain,"Davis, Elizabeth",Fall 2024,90.0,Fall,2024,No Risk
+415,Computer Architecture,372,32 of 70 seats remain,"Garcia, Maria",Fall 2024,45.714285714285715,Fall,2024,Medium risk
+416,Intro to Programming,372,4 of 20 seats remain,"Rodriguez, Michael",Fall 2024,20.0,Fall,2024,Very Risky
+417,Computer Networks,373,23 of 50 seats remain,"Brown, Linda",Fall 2024,46.0,Fall,2024,Medium risk
+418,Computer Architecture,373,16 of 40 seats remain,"Miller, James",Fall 2024,40.0,Fall,2024,Risky
+419,Software Engineering,375,36 of 70 seats remain,"Davis, Elizabeth",Fall 2024,51.42857142857142,Fall,2024,Medium risk
+420,Computer Architecture,375,11 of 30 seats remain,"Johnson, Emily",Fall 2024,36.666666666666664,Fall,2024,Risky
+421,Software Engineering,377,39 of 70 seats remain,"Jones, Robert",Fall 2024,55.714285714285715,Fall,2024,Medium risk
+422,Algorithms,381,16 of 60 seats remain,"Garcia, Maria",Fall 2024,26.666666666666668,Fall,2024,Risky
+423,Software Engineering,384,32 of 40 seats remain,"Smith, John",Fall 2024,80.0,Fall,2024,Low Risk
+424,Machine Learning,384,25 of 40 seats remain,"Rodriguez, Michael",Fall 2024,62.5,Fall,2024,Low Risk
+425,Computer Networks,387,23 of 40 seats remain,"Martinez, Jessica",Fall 2024,57.49999999999999,Fall,2024,Medium risk
+426,Machine Learning,388,14 of 40 seats remain,"Brown, Linda",Fall 2024,35.0,Fall,2024,Risky
+427,Computer Architecture,388,29 of 50 seats remain,"Johnson, Emily",Fall 2024,57.99999999999999,Fall,2024,Medium risk
+428,Artificial Intelligence,392,11 of 60 seats remain,"Garcia, Maria",Fall 2024,18.333333333333332,Fall,2024,Very Risky
+429,Algorithms,394,22 of 30 seats remain,"Smith, John",Fall 2024,73.33333333333333,Fall,2024,Low Risk
+430,Computer Networks,394,1 of 30 seats remain,"Rodriguez, Michael",Fall 2024,3.3333333333333335,Fall,2024,Very Risky
+431,Intro to Programming,397,42 of 50 seats remain,"Williams, David",Fall 2024,84.0,Fall,2024,No Risk
+432,Computer Networks,397,20 of 50 seats remain,"Jones, Robert",Fall 2024,40.0,Fall,2024,Risky
+433,Data Structures,398,2 of 20 seats remain,"Garcia, Maria",Fall 2024,10.0,Fall,2024,Very Risky
+434,Software Engineering,400,31 of 50 seats remain,"Garcia, Maria",Fall 2024,62.0,Fall,2024,Low Risk
+435,Computer Architecture,401,56 of 60 seats remain,"Garcia, Maria",Fall 2024,93.33333333333333,Fall,2024,No Risk
+436,Algorithms,401,17 of 30 seats remain,"Jones, Robert",Fall 2024,56.666666666666664,Fall,2024,Medium risk
+437,Computer Architecture,401,3 of 60 seats remain,"Garcia, Maria",Fall 2024,5.0,Fall,2024,Very Risky
+438,Machine Learning,403,5 of 60 seats remain,"Garcia, Maria",Fall 2024,8.333333333333332,Fall,2024,Very Risky
+439,Operating Systems,409,49 of 60 seats remain,"Jones, Robert",Fall 2024,81.66666666666667,Fall,2024,No Risk
+440,Software Engineering,410,52 of 70 seats remain,"Brown, Linda",Fall 2024,74.28571428571429,Fall,2024,Low Risk
+441,Software Engineering,414,9 of 20 seats remain,"Garcia, Maria",Fall 2024,45.0,Fall,2024,Medium risk
+442,Database Systems,418,39 of 50 seats remain,"Brown, Linda",Fall 2024,78.0,Fall,2024,Low Risk
+443,Database Systems,419,30 of 40 seats remain,"Miller, James",Fall 2024,75.0,Fall,2024,Low Risk
+444,Intro to Programming,420,20 of 30 seats remain,"Johnson, Emily",Fall 2024,66.66666666666666,Fall,2024,Low Risk
+445,Operating Systems,424,21 of 40 seats remain,"Williams, David",Fall 2024,52.5,Fall,2024,Medium risk
+446,Operating Systems,424,4 of 50 seats remain,"Rodriguez, Michael",Fall 2024,8.0,Fall,2024,Very Risky
+447,Computer Architecture,425,6 of 60 seats remain,"Williams, David",Fall 2024,10.0,Fall,2024,Very Risky
+448,Algorithms,430,3 of 20 seats remain,"Johnson, Emily",Fall 2024,15.0,Fall,2024,Very Risky
+449,Database Systems,431,50 of 60 seats remain,"Martinez, Jessica",Fall 2024,83.33333333333334,Fall,2024,No Risk
+450,Computer Architecture,432,18 of 30 seats remain,"Johnson, Emily",Fall 2024,60.0,Fall,2024,Medium risk
+451,Machine Learning,435,22 of 50 seats remain,"Smith, John",Fall 2024,44.0,Fall,2024,Medium risk
+452,Intro to Programming,436,5 of 30 seats remain,"Williams, David",Fall 2024,16.666666666666664,Fall,2024,Very Risky
+453,Computer Architecture,439,FULL: 0 of 30 seats remain,"Garcia, Maria",Fall 2024,0.0,Fall,2024,Very Risky
+454,Intro to Programming,443,FULL: 0 of 50 seats remain,"Brown, Linda",Fall 2024,0.0,Fall,2024,Very Risky
+455,Software Engineering,445,46 of 70 seats remain,"Williams, David",Fall 2024,65.71428571428571,Fall,2024,Low Risk
+456,Computer Architecture,445,3 of 20 seats remain,"Davis, Elizabeth",Fall 2024,15.0,Fall,2024,Very Risky
+457,Database Systems,447,4 of 60 seats remain,"Johnson, Emily",Fall 2024,6.666666666666667,Fall,2024,Very Risky
+458,Operating Systems,448,9 of 20 seats remain,"Johnson, Emily",Fall 2024,45.0,Fall,2024,Medium risk
+459,Computer Networks,453,32 of 50 seats remain,"Martinez, Jessica",Fall 2024,64.0,Fall,2024,Low Risk
+460,Computer Networks,457,2 of 40 seats remain,"Brown, Linda",Fall 2024,5.0,Fall,2024,Very Risky
+461,Operating Systems,459,4 of 20 seats remain,"Smith, John",Fall 2024,20.0,Fall,2024,Very Risky
+462,Database Systems,459,36 of 50 seats remain,"Jones, Robert",Fall 2024,72.0,Fall,2024,Low Risk
+463,Machine Learning,459,5 of 20 seats remain,"Garcia, Maria",Fall 2024,25.0,Fall,2024,Risky
+464,Database Systems,461,26 of 40 seats remain,"Jones, Robert",Fall 2024,65.0,Fall,2024,Low Risk
+465,Database Systems,462,4 of 40 seats remain,"Smith, John",Fall 2024,10.0,Fall,2024,Very Risky
+466,Computer Architecture,465,20 of 50 seats remain,"Garcia, Maria",Fall 2024,40.0,Fall,2024,Risky
+467,Machine Learning,465,17 of 20 seats remain,"Williams, David",Fall 2024,85.0,Fall,2024,No Risk
+468,Algorithms,467,10 of 40 seats remain,"Rodriguez, Michael",Fall 2024,25.0,Fall,2024,Risky
+469,Data Structures,469,36 of 70 seats remain,"Miller, James",Fall 2024,51.42857142857142,Fall,2024,Medium risk
+470,Software Engineering,470,12 of 20 seats remain,"Jones, Robert",Fall 2024,60.0,Fall,2024,Medium risk
+471,Data Structures,471,19 of 30 seats remain,"Davis, Elizabeth",Fall 2024,63.33333333333333,Fall,2024,Low Risk
+472,Artificial Intelligence,476,2 of 60 seats remain,"Jones, Robert",Fall 2024,3.3333333333333335,Fall,2024,Very Risky
+473,Algorithms,479,12 of 30 seats remain,"Rodriguez, Michael",Fall 2024,40.0,Fall,2024,Risky
+474,Computer Architecture,480,13 of 40 seats remain,"Rodriguez, Michael",Fall 2024,32.5,Fall,2024,Risky
+475,Computer Architecture,481,42 of 50 seats remain,"Rodriguez, Michael",Fall 2024,84.0,Fall,2024,No Risk
+476,Data Structures,488,19 of 70 seats remain,"Rodriguez, Michael",Fall 2024,27.142857142857142,Fall,2024,Risky
+477,Database Systems,488,9 of 40 seats remain,"Brown, Linda",Fall 2024,22.5,Fall,2024,Risky
+478,Software Engineering,489,15 of 20 seats remain,"Davis, Elizabeth",Fall 2024,75.0,Fall,2024,Low Risk
+479,Database Systems,493,56 of 70 seats remain,"Miller, James",Fall 2024,80.0,Fall,2024,Low Risk
+480,Software Engineering,494,13 of 30 seats remain,"Jones, Robert",Fall 2024,43.333333333333336,Fall,2024,Medium risk
+481,Data Structures,500,37 of 60 seats remain,"Johnson, Emily",Fall 2024,61.66666666666667,Fall,2024,Low Risk
+482,Database Systems,502,10 of 40 seats remain,"Garcia, Maria",Fall 2024,25.0,Fall,2024,Risky
+483,Software Engineering,502,31 of 50 seats remain,"Garcia, Maria",Fall 2024,62.0,Fall,2024,Low Risk
+484,Artificial Intelligence,507,28 of 40 seats remain,"Smith, John",Fall 2024,70.0,Fall,2024,Low Risk
+485,Data Structures,507,35 of 50 seats remain,"Martinez, Jessica",Fall 2024,70.0,Fall,2024,Low Risk
+486,Computer Architecture,509,19 of 30 seats remain,"Miller, James",Fall 2024,63.33333333333333,Fall,2024,Low Risk
+487,Machine Learning,513,27 of 70 seats remain,"Miller, James",Fall 2024,38.57142857142858,Fall,2024,Risky
+488,Algorithms,515,20 of 40 seats remain,"Garcia, Maria",Fall 2024,50.0,Fall,2024,Medium risk
+489,Operating Systems,518,12 of 50 seats remain,"Martinez, Jessica",Fall 2024,24.0,Fall,2024,Risky
+490,Computer Networks,522,20 of 20 seats remain,"Rodriguez, Michael",Fall 2024,100.0,Fall,2024,No Risk
+491,Artificial Intelligence,525,27 of 60 seats remain,"Rodriguez, Michael",Fall 2024,45.0,Fall,2024,Medium risk
+492,Artificial Intelligence,527,27 of 60 seats remain,"Martinez, Jessica",Fall 2024,45.0,Fall,2024,Medium risk
+493,Software Engineering,529,29 of 50 seats remain,"Williams, David",Fall 2024,57.99999999999999,Fall,2024,Medium risk
+494,Operating Systems,530,23 of 40 seats remain,"Smith, John",Fall 2024,57.49999999999999,Fall,2024,Medium risk
+495,Intro to Programming,531,11 of 40 seats remain,"Williams, David",Fall 2024,27.500000000000004,Fall,2024,Risky
+496,Data Structures,532,49 of 60 seats remain,"Garcia, Maria",Fall 2024,81.66666666666667,Fall,2024,No Risk
+497,Artificial Intelligence,532,20 of 30 seats remain,"Johnson, Emily",Fall 2024,66.66666666666666,Fall,2024,Low Risk
+498,Computer Networks,534,46 of 50 seats remain,"Smith, John",Fall 2024,92.0,Fall,2024,No Risk
+499,Database Systems,540,4 of 40 seats remain,"Martinez, Jessica",Fall 2024,10.0,Fall,2024,Very Risky
+500,Software Engineering,540,14 of 20 seats remain,"Garcia, Maria",Fall 2024,70.0,Fall,2024,Low Risk
+501,Data Structures,540,6 of 30 seats remain,"Miller, James",Fall 2024,20.0,Fall,2024,Very Risky
+502,Intro to Programming,540,26 of 50 seats remain,"Garcia, Maria",Fall 2024,52.0,Fall,2024,Medium risk
+503,Data Structures,541,12 of 20 seats remain,"Jones, Robert",Fall 2024,60.0,Fall,2024,Medium risk
+504,Software Engineering,541,47 of 70 seats remain,"Williams, David",Fall 2024,67.14285714285714,Fall,2024,Low Risk
+505,Operating Systems,542,19 of 50 seats remain,"Martinez, Jessica",Fall 2024,38.0,Fall,2024,Risky
+506,Operating Systems,542,58 of 70 seats remain,"Garcia, Maria",Fall 2024,82.85714285714286,Fall,2024,No Risk
+507,Machine Learning,545,1 of 20 seats remain,"Williams, David",Fall 2024,5.0,Fall,2024,Very Risky
+508,Database Systems,546,2 of 20 seats remain,"Miller, James",Fall 2024,10.0,Fall,2024,Very Risky
+509,Data Structures,551,18 of 20 seats remain,"Martinez, Jessica",Fall 2024,90.0,Fall,2024,No Risk
+510,Artificial Intelligence,553,3 of 30 seats remain,"Garcia, Maria",Fall 2024,10.0,Fall,2024,Very Risky
+511,Computer Networks,559,15 of 20 seats remain,"Garcia, Maria",Fall 2024,75.0,Fall,2024,Low Risk
+512,Operating Systems,561,18 of 50 seats remain,"Rodriguez, Michael",Fall 2024,36.0,Fall,2024,Risky
+513,Algorithms,564,54 of 60 seats remain,"Williams, David",Fall 2024,90.0,Fall,2024,No Risk
+514,Machine Learning,565,9 of 40 seats remain,"Rodriguez, Michael",Fall 2024,22.5,Fall,2024,Risky
+515,Software Engineering,566,12 of 20 seats remain,"Miller, James",Fall 2024,60.0,Fall,2024,Medium risk
+516,Intro to Programming,567,50 of 70 seats remain,"Williams, David",Fall 2024,71.42857142857143,Fall,2024,Low Risk
+517,Machine Learning,569,2 of 70 seats remain,"Garcia, Maria",Fall 2024,2.857142857142857,Fall,2024,Very Risky
+518,Computer Architecture,569,29 of 60 seats remain,"Jones, Robert",Fall 2024,48.333333333333336,Fall,2024,Medium risk
+519,Data Structures,571,33 of 40 seats remain,"Williams, David",Fall 2024,82.5,Fall,2024,No Risk
+520,Machine Learning,572,8 of 30 seats remain,"Williams, David",Fall 2024,26.666666666666668,Fall,2024,Risky
+521,Computer Architecture,573,32 of 40 seats remain,"Martinez, Jessica",Fall 2024,80.0,Fall,2024,Low Risk
+522,Algorithms,574,3 of 20 seats remain,"Davis, Elizabeth",Fall 2024,15.0,Fall,2024,Very Risky
+523,Computer Architecture,574,20 of 60 seats remain,"Davis, Elizabeth",Fall 2024,33.33333333333333,Fall,2024,Risky
+524,Machine Learning,579,43 of 50 seats remain,"Jones, Robert",Fall 2024,86.0,Fall,2024,No Risk
+525,Machine Learning,580,5 of 20 seats remain,"Martinez, Jessica",Fall 2024,25.0,Fall,2024,Risky
+526,Theory/Application Data Mining,584,7 of 70 seats remain,"Zhou, Keren",Fall 2024,10.0,Fall,2024,Very Risky
+527,Theory/Application Data Mining,584,51 of 70 seats remain,"Barbara, Daniel",Fall 2024,72.85714285714285,Fall,2024,Low Risk
+528,Introduction to Cryptography,587,8 of 20 seats remain,"Ateniese, Giuseppe",Fall 2024,40.0,Fall,2024,Risky
+529,Quantum Algorithms,595,FULL: 0 of 2 seats remain,"Baume, Michael",Fall 2024,0.0,Fall,2024,Very Risky
+530,AI Design and Deployment Risks,595,11 of 15 seats remain,"Cummings, Missy",Fall 2024,73.33333333333333,Fall,2024,Low Risk
+531,AI Design and Deployment Risks,595,10 of 15 seats remain,"Cummings, Missy",Fall 2024,66.66666666666666,Fall,2024,Low Risk
+532,Theory of Computation,600,44 of 60 seats remain,"Richards, Dana",Fall 2024,73.33333333333333,Fall,2024,Low Risk
+533,Theory of Computation,600,28 of 50 seats remain,"Richards, Dana",Fall 2024,56.00000000000001,Fall,2024,Medium risk
+534,Advanced Algorithms,630,17 of 50 seats remain,"Yaroslavtsev, Grigory",Fall 2024,34.0,Fall,2024,Risky
+535,Wireless and Mobile Computing,655,11 of 50 seats remain,"Yao, Shuochao",Fall 2024,22.0,Fall,2024,Risky
+536,Computational Design,663,31 of 65 seats remain,"Yu, Lap Fai",Fall 2024,47.69230769230769,Fall,2024,Medium risk
+537,Advanced NLP,678,9 of 65 seats remain,"Yao, Ziyu",Fall 2024,13.846153846153847,Fall,2024,Very Risky
+538,Computer Vision,682,17 of 53 seats remain,"Kosecka, Jana",Fall 2024,32.075471698113205,Fall,2024,Risky
+539,Machine Learning,688,21 of 50 seats remain,"Yu, Fang-Yi",Fall 2024,42.0,Fall,2024,Medium risk
+540,Machine Learning,688,20 of 50 seats remain,"Das, Sanmay",Fall 2024,40.0,Fall,2024,Risky
+541,Network Security,692,3 of 10 seats remain,"Wang, Xinyuan",Fall 2024,30.0,Fall,2024,Risky
+542,Linux Kernel Internals,692,28 of 40 seats remain,"Zhang, Xiaokuan",Fall 2024,70.0,Fall,2024,Low Risk
+543,SWE Real-Time Embedded Systm,692,7 of 35 seats remain,"Pettit, Rob",Fall 2024,20.0,Fall,2024,Very Risky
+544,Advanced Computer Architecture,692,38 of 50 seats remain,"Yang, Lishan",Fall 2024,76.0,Fall,2024,Low Risk
+545,SWE Real-Time Embedded Systm,692,9 of 32 seats remain,"Pettit, Rob",Fall 2024,28.125,Fall,2024,Risky
+546,Advanced Machine Learning,782,37 of 44 seats remain,"Liu, Mingrui",Fall 2024,84.0909090909091,Fall,2024,No Risk
+547,Advanced Machine Learning,782,34 of 44 seats remain,"Barbara, Daniel",Fall 2024,77.27272727272727,Fall,2024,Low Risk
+548,Decision Guidance Systems,787,11 of 50 seats remain,"Brodsky, Alexander",Fall 2024,22.0,Fall,2024,Risky
+549,Computer Science Colloquium,800,5 of 60 seats remain,"Aydin, Hakan",Fall 2024,8.333333333333332,Fall,2024,Very Risky
+550,Software Engineering,489,16 of 20 seats remain,"Davis, Elizabeth",Fall 2024,80.0,Fall,2024,Low Risk
+551,Database Systems,344,14 of 30 seats remain,"Jones, Robert",Fall 2024,46.666666666666664,Fall,2024,Medium risk
+552,Computer Architecture,401,1 of 60 seats remain,"Garcia, Maria",Fall 2024,1.6666666666666667,Fall,2024,Very Risky
+553,Data Structures,283,17 of 60 seats remain,"Johnson, Emily",Fall 2024,28.333333333333332,Fall,2024,Risky
+554,Database Systems,333,57 of 70 seats remain,"Miller, James",Fall 2024,81.42857142857143,Fall,2024,No Risk
+555,Software Engineering,207,49 of 70 seats remain,"Johnson, Emily",Fall 2024,70.0,Fall,2024,Low Risk
+556,Intro to Programming,540,26 of 50 seats remain,"Garcia, Maria",Fall 2024,52.0,Fall,2024,Medium risk
+557,Artificial Intelligence,176,30 of 70 seats remain,"Johnson, Emily",Fall 2024,42.857142857142854,Fall,2024,Medium risk
+558,Algorithms,315,4 of 20 seats remain,"Miller, James",Fall 2024,20.0,Fall,2024,Very Risky
+559,Database Systems,344,16 of 30 seats remain,"Jones, Robert",Fall 2024,53.333333333333336,Fall,2024,Medium risk
+560,Software Engineering,191,39 of 70 seats remain,"Miller, James",Fall 2024,55.714285714285715,Fall,2024,Medium risk
+561,Data Structures,532,52 of 60 seats remain,"Garcia, Maria",Fall 2024,86.66666666666667,Fall,2024,No Risk
+562,Artificial Intelligence,174,53 of 60 seats remain,"Rodriguez, Michael",Fall 2024,88.33333333333333,Fall,2024,No Risk
+563,Artificial Intelligence,122,11 of 20 seats remain,"Miller, James",Fall 2024,55.00000000000001,Fall,2024,Medium risk
+564,Intro to Programming,206,5 of 20 seats remain,"Williams, David",Fall 2024,25.0,Fall,2024,Risky
+565,Intro to Programming,206,8 of 20 seats remain,"Williams, David",Fall 2024,40.0,Fall,2024,Risky
+566,Machine Learning,327,30 of 40 seats remain,"Martinez, Jessica",Fall 2024,75.0,Fall,2024,Low Risk
+567,Computer Architecture,439,FULL: 0 of 30 seats remain,"Garcia, Maria",Fall 2024,0.0,Fall,2024,Very Risky
+568,Computer Architecture,375,13 of 30 seats remain,"Johnson, Emily",Fall 2024,43.333333333333336,Fall,2024,Medium risk
+569,Data Structures,541,14 of 20 seats remain,"Jones, Robert",Fall 2024,70.0,Fall,2024,Low Risk
+570,Operating Systems,355,4 of 20 seats remain,"Brown, Linda",Fall 2024,20.0,Fall,2024,Very Risky
+571,Software Engineering,295,15 of 50 seats remain,"Brown, Linda",Fall 2024,30.0,Fall,2024,Risky
+572,Database Systems,488,10 of 40 seats remain,"Brown, Linda",Fall 2024,25.0,Fall,2024,Risky
+573,Database Systems,309,15 of 20 seats remain,"Davis, Elizabeth",Fall 2024,75.0,Fall,2024,Low Risk
+574,Computer Vision,682,16 of 53 seats remain,"Kosecka, Jana",Fall 2024,30.18867924528302,Fall,2024,Risky
+575,Database Systems,546,1 of 20 seats remain,"Miller, James",Fall 2024,5.0,Fall,2024,Very Risky
+576,Machine Learning,182,44 of 50 seats remain,"Davis, Elizabeth",Fall 2024,88.0,Fall,2024,No Risk
+577,Machine Learning,150,13 of 30 seats remain,"Martinez, Jessica",Fall 2024,43.333333333333336,Fall,2024,Medium risk
+578,Computer Architecture,375,10 of 30 seats remain,"Johnson, Emily",Fall 2024,33.33333333333333,Fall,2024,Risky
+579,Machine Learning,572,9 of 30 seats remain,"Williams, David",Fall 2024,30.0,Fall,2024,Risky
+580,Computer Networks,140,26 of 40 seats remain,"Garcia, Maria",Fall 2024,65.0,Fall,2024,Low Risk
+581,Algorithms,322,9 of 30 seats remain,"Garcia, Maria",Fall 2024,30.0,Fall,2024,Risky
+582,Machine Learning,384,25 of 40 seats remain,"Rodriguez, Michael",Fall 2024,62.5,Fall,2024,Low Risk
+583,Software Engineering,566,14 of 20 seats remain,"Miller, James",Fall 2024,70.0,Fall,2024,Low Risk
+584,Wireless and Mobile Computing,655,10 of 50 seats remain,"Yao, Shuochao",Fall 2024,20.0,Fall,2024,Very Risky
+585,Artificial Intelligence,121,28 of 70 seats remain,"Smith, John",Fall 2024,40.0,Fall,2024,Risky
+586,Data Structures,199,14 of 50 seats remain,"Johnson, Emily",Fall 2024,28.000000000000004,Fall,2024,Risky
+587,Data Structures,173,15 of 30 seats remain,"Smith, John",Fall 2024,50.0,Fall,2024,Medium risk
+588,Advanced Machine Learning,782,36 of 44 seats remain,"Liu, Mingrui",Fall 2024,81.81818181818183,Fall,2024,No Risk
+589,Intro to Programming,443,FULL: 0 of 50 seats remain,"Brown, Linda",Fall 2024,0.0,Fall,2024,Very Risky
+590,SWE Real-Time Embedded Systm,692,8 of 35 seats remain,"Pettit, Rob",Fall 2024,22.857142857142858,Fall,2024,Risky
+591,Data Structures,341,12 of 20 seats remain,"Williams, David",Fall 2024,60.0,Fall,2024,Medium risk
+592,Algorithms,212,27 of 50 seats remain,"Miller, James",Fall 2024,54.0,Fall,2024,Medium risk
+593,Computational Design,663,34 of 65 seats remain,"Yu, Lap Fai",Fall 2024,52.307692307692314,Fall,2024,Medium risk
+594,Algorithms,394,23 of 30 seats remain,"Smith, John",Fall 2024,76.66666666666667,Fall,2024,Low Risk
+595,Computer Vision,682,15 of 53 seats remain,"Kosecka, Jana",Fall 2024,28.30188679245283,Fall,2024,Risky
+596,Intro to Programming,420,21 of 30 seats remain,"Johnson, Emily",Fall 2024,70.0,Fall,2024,Low Risk
+597,Algorithms,394,21 of 30 seats remain,"Smith, John",Fall 2024,70.0,Fall,2024,Low Risk
+598,Algorithms,200,44 of 60 seats remain,"Martinez, Jessica",Fall 2024,73.33333333333333,Fall,2024,Low Risk
+599,Intro to Programming,372,6 of 20 seats remain,"Rodriguez, Michael",Fall 2024,30.0,Fall,2024,Risky
+600,Computer Networks,107,19 of 70 seats remain,"Davis, Elizabeth",Spring 2022,27.142857142857142,Spring,2022,Risky
+601,Computer Architecture,109,6 of 30 seats remain,"Smith, John",Spring 2022,20.0,Spring,2022,Very Risky
+602,Intro to Programming,112,22 of 30 seats remain,"Martinez, Jessica",Spring 2022,73.33333333333333,Spring,2022,Low Risk
+603,Computer Architecture,114,31 of 50 seats remain,"Smith, John",Spring 2022,62.0,Spring,2022,Low Risk
+604,Data Structures,117,61 of 70 seats remain,"Jones, Robert",Spring 2022,87.14285714285714,Spring,2022,No Risk
+605,Data Structures,118,23 of 30 seats remain,"Johnson, Emily",Spring 2022,76.66666666666667,Spring,2022,Low Risk
+606,Artificial Intelligence,121,27 of 70 seats remain,"Smith, John",Spring 2022,38.57142857142858,Spring,2022,Risky
+607,Intro to Programming,121,15 of 50 seats remain,"Garcia, Maria",Spring 2022,30.0,Spring,2022,Risky
+608,Artificial Intelligence,122,12 of 20 seats remain,"Miller, James",Spring 2022,60.0,Spring,2022,Medium risk
+609,Data Structures,124,8 of 20 seats remain,"Rodriguez, Michael",Spring 2022,40.0,Spring,2022,Risky
+610,Operating Systems,128,15 of 60 seats remain,"Johnson, Emily",Spring 2022,25.0,Spring,2022,Risky
+611,Operating Systems,129,41 of 70 seats remain,"Williams, David",Spring 2022,58.57142857142858,Spring,2022,Medium risk
+612,Computer Networks,131,11 of 20 seats remain,"Brown, Linda",Spring 2022,55.00000000000001,Spring,2022,Medium risk
+613,Intro to Programming,131,18 of 60 seats remain,"Martinez, Jessica",Spring 2022,30.0,Spring,2022,Risky
+614,Artificial Intelligence,132,21 of 50 seats remain,"Martinez, Jessica",Spring 2022,42.0,Spring,2022,Medium risk
+615,Machine Learning,135,3 of 50 seats remain,"Smith, John",Spring 2022,6.0,Spring,2022,Very Risky
+616,Computer Networks,140,28 of 40 seats remain,"Garcia, Maria",Spring 2022,70.0,Spring,2022,Low Risk
+617,Data Structures,148,49 of 60 seats remain,"Garcia, Maria",Spring 2022,81.66666666666667,Spring,2022,No Risk
+618,Computer Architecture,149,7 of 20 seats remain,"Smith, John",Spring 2022,35.0,Spring,2022,Risky
+619,Computer Architecture,149,FULL: 0 of 30 seats remain,"Jones, Robert",Spring 2022,0.0,Spring,2022,Very Risky
+620,Computer Architecture,150,31 of 70 seats remain,"Jones, Robert",Spring 2022,44.285714285714285,Spring,2022,Medium risk
+621,Machine Learning,150,12 of 30 seats remain,"Martinez, Jessica",Spring 2022,40.0,Spring,2022,Risky
+622,Artificial Intelligence,152,15 of 20 seats remain,"Smith, John",Spring 2022,75.0,Spring,2022,Low Risk
+623,Intro to Programming,161,49 of 60 seats remain,"Davis, Elizabeth",Spring 2022,81.66666666666667,Spring,2022,No Risk
+624,Computer Architecture,163,13 of 40 seats remain,"Smith, John",Spring 2022,32.5,Spring,2022,Risky
+625,Data Structures,163,26 of 40 seats remain,"Garcia, Maria",Spring 2022,65.0,Spring,2022,Low Risk
+626,Data Structures,163,21 of 30 seats remain,"Johnson, Emily",Spring 2022,70.0,Spring,2022,Low Risk
+627,Operating Systems,163,22 of 70 seats remain,"Garcia, Maria",Spring 2022,31.428571428571427,Spring,2022,Risky
+628,Intro to Programming,164,21 of 60 seats remain,"Smith, John",Spring 2022,35.0,Spring,2022,Risky
+629,Database Systems,170,36 of 40 seats remain,"Martinez, Jessica",Spring 2022,90.0,Spring,2022,No Risk
+630,Intro to Programming,171,6 of 30 seats remain,"Miller, James",Spring 2022,20.0,Spring,2022,Very Risky
+631,Software Engineering,172,19 of 40 seats remain,"Smith, John",Spring 2022,47.5,Spring,2022,Medium risk
+632,Data Structures,173,14 of 30 seats remain,"Smith, John",Spring 2022,46.666666666666664,Spring,2022,Medium risk
+633,Artificial Intelligence,174,51 of 60 seats remain,"Rodriguez, Michael",Spring 2022,85.0,Spring,2022,No Risk
+634,Software Engineering,175,8 of 70 seats remain,"Smith, John",Spring 2022,11.428571428571429,Spring,2022,Very Risky
+635,Algorithms,175,8 of 60 seats remain,"Johnson, Emily",Spring 2022,13.333333333333334,Spring,2022,Very Risky
+636,Artificial Intelligence,176,31 of 70 seats remain,"Johnson, Emily",Spring 2022,44.285714285714285,Spring,2022,Medium risk
+637,Software Engineering,177,25 of 60 seats remain,"Jones, Robert",Spring 2022,41.66666666666667,Spring,2022,Medium risk
+638,Machine Learning,182,48 of 50 seats remain,"Davis, Elizabeth",Spring 2022,96.0,Spring,2022,No Risk
+639,Computer Architecture,187,32 of 40 seats remain,"Williams, David",Spring 2022,80.0,Spring,2022,Low Risk
+640,Software Engineering,191,38 of 70 seats remain,"Miller, James",Spring 2022,54.285714285714285,Spring,2022,Medium risk
+641,Software Engineering,199,45 of 60 seats remain,"Brown, Linda",Spring 2022,75.0,Spring,2022,Low Risk
+642,Data Structures,199,13 of 50 seats remain,"Johnson, Emily",Spring 2022,26.0,Spring,2022,Risky
+643,Algorithms,200,41 of 60 seats remain,"Martinez, Jessica",Spring 2022,68.33333333333333,Spring,2022,Low Risk
+644,Intro to Programming,206,4 of 20 seats remain,"Williams, David",Spring 2022,20.0,Spring,2022,Very Risky
+645,Software Engineering,207,49 of 70 seats remain,"Johnson, Emily",Spring 2022,70.0,Spring,2022,Low Risk
+646,Operating Systems,207,24 of 50 seats remain,"Rodriguez, Michael",Spring 2022,48.0,Spring,2022,Medium risk
+647,Computer Architecture,211,23 of 30 seats remain,"Johnson, Emily",Spring 2022,76.66666666666667,Spring,2022,Low Risk
+648,Artificial Intelligence,212,29 of 60 seats remain,"Williams, David",Spring 2022,48.333333333333336,Spring,2022,Medium risk
+649,Algorithms,212,30 of 50 seats remain,"Miller, James",Spring 2022,60.0,Spring,2022,Medium risk
+650,Machine Learning,218,34 of 40 seats remain,"Rodriguez, Michael",Spring 2022,85.0,Spring,2022,No Risk
+651,Computer Architecture,220,42 of 70 seats remain,"Williams, David",Spring 2022,60.0,Spring,2022,Medium risk
+652,Data Structures,222,17 of 20 seats remain,"Smith, John",Spring 2022,85.0,Spring,2022,No Risk
+653,Data Structures,226,31 of 40 seats remain,"Davis, Elizabeth",Spring 2022,77.5,Spring,2022,Low Risk
+654,Software Engineering,227,18 of 60 seats remain,"Johnson, Emily",Spring 2022,30.0,Spring,2022,Risky
+655,Intro to Programming,228,22 of 30 seats remain,"Garcia, Maria",Spring 2022,73.33333333333333,Spring,2022,Low Risk
+656,Data Structures,236,11 of 50 seats remain,"Smith, John",Spring 2022,22.0,Spring,2022,Risky
+657,Artificial Intelligence,236,14 of 50 seats remain,"Brown, Linda",Spring 2022,28.000000000000004,Spring,2022,Risky
+658,Machine Learning,237,9 of 20 seats remain,"Davis, Elizabeth",Spring 2022,45.0,Spring,2022,Medium risk
+659,Computer Architecture,243,43 of 70 seats remain,"Johnson, Emily",Spring 2022,61.42857142857143,Spring,2022,Low Risk
+660,Computer Networks,250,4 of 20 seats remain,"Miller, James",Spring 2022,20.0,Spring,2022,Very Risky
+661,Machine Learning,251,15 of 20 seats remain,"Johnson, Emily",Spring 2022,75.0,Spring,2022,Low Risk
+662,Operating Systems,252,23 of 30 seats remain,"Miller, James",Spring 2022,76.66666666666667,Spring,2022,Low Risk
+663,Machine Learning,252,4 of 50 seats remain,"Garcia, Maria",Spring 2022,8.0,Spring,2022,Very Risky
+664,Algorithms,252,20 of 40 seats remain,"Davis, Elizabeth",Spring 2022,50.0,Spring,2022,Medium risk
+665,Data Structures,253,39 of 50 seats remain,"Miller, James",Spring 2022,78.0,Spring,2022,Low Risk
+666,Machine Learning,259,7 of 50 seats remain,"Jones, Robert",Spring 2022,14.000000000000002,Spring,2022,Very Risky
+667,Computer Networks,260,3 of 20 seats remain,"Brown, Linda",Spring 2022,15.0,Spring,2022,Very Risky
+668,Artificial Intelligence,263,31 of 60 seats remain,"Martinez, Jessica",Spring 2022,51.66666666666667,Spring,2022,Medium risk
+669,Software Engineering,273,17 of 70 seats remain,"Miller, James",Spring 2022,24.285714285714285,Spring,2022,Risky
+670,Software Engineering,278,11 of 30 seats remain,"Rodriguez, Michael",Spring 2022,36.666666666666664,Spring,2022,Risky
+671,Computer Networks,278,17 of 70 seats remain,"Garcia, Maria",Spring 2022,24.285714285714285,Spring,2022,Risky
+672,Artificial Intelligence,279,28 of 40 seats remain,"Brown, Linda",Spring 2022,70.0,Spring,2022,Low Risk
+673,Artificial Intelligence,279,11 of 30 seats remain,"Miller, James",Spring 2022,36.666666666666664,Spring,2022,Risky
+674,Database Systems,281,45 of 60 seats remain,"Jones, Robert",Spring 2022,75.0,Spring,2022,Low Risk
+675,Computer Networks,281,17 of 20 seats remain,"Davis, Elizabeth",Spring 2022,85.0,Spring,2022,No Risk
+676,Data Structures,283,16 of 60 seats remain,"Johnson, Emily",Spring 2022,26.666666666666668,Spring,2022,Risky
+677,Intro to Programming,285,1 of 40 seats remain,"Martinez, Jessica",Spring 2022,2.5,Spring,2022,Very Risky
+678,Algorithms,287,3 of 30 seats remain,"Smith, John",Spring 2022,10.0,Spring,2022,Very Risky
+679,Software Engineering,291,13 of 30 seats remain,"Miller, James",Spring 2022,43.333333333333336,Spring,2022,Medium risk
+680,Algorithms,292,25 of 50 seats remain,"Smith, John",Spring 2022,50.0,Spring,2022,Medium risk
+681,Computer Networks,293,56 of 70 seats remain,"Brown, Linda",Spring 2022,80.0,Spring,2022,Low Risk
+682,Computer Networks,294,8 of 60 seats remain,"Jones, Robert",Spring 2022,13.333333333333334,Spring,2022,Very Risky
+683,Software Engineering,295,12 of 50 seats remain,"Brown, Linda",Spring 2022,24.0,Spring,2022,Risky
+684,Data Structures,298,9 of 30 seats remain,"Davis, Elizabeth",Spring 2022,30.0,Spring,2022,Risky
+685,Computer Networks,300,25 of 70 seats remain,"Martinez, Jessica",Spring 2022,35.714285714285715,Spring,2022,Risky
+686,Computer Architecture,300,20 of 70 seats remain,"Martinez, Jessica",Spring 2022,28.57142857142857,Spring,2022,Risky
+687,Data Structures,304,42 of 70 seats remain,"Williams, David",Spring 2022,60.0,Spring,2022,Medium risk
+688,Database Systems,309,14 of 20 seats remain,"Davis, Elizabeth",Spring 2022,70.0,Spring,2022,Low Risk
+689,Intro to Programming,315,38 of 60 seats remain,"Miller, James",Spring 2022,63.33333333333333,Spring,2022,Low Risk
+690,Algorithms,315,6 of 20 seats remain,"Miller, James",Spring 2022,30.0,Spring,2022,Risky
+691,Data Structures,315,5 of 70 seats remain,"Williams, David",Spring 2022,7.142857142857142,Spring,2022,Very Risky
+692,Intro to Programming,318,32 of 40 seats remain,"Miller, James",Spring 2022,80.0,Spring,2022,Low Risk
+693,Algorithms,322,8 of 30 seats remain,"Garcia, Maria",Spring 2022,26.666666666666668,Spring,2022,Risky
+694,Operating Systems,323,21 of 30 seats remain,"Garcia, Maria",Spring 2022,70.0,Spring,2022,Low Risk
+695,Data Structures,323,20 of 50 seats remain,"Martinez, Jessica",Spring 2022,40.0,Spring,2022,Risky
+696,Data Structures,324,38 of 50 seats remain,"Rodriguez, Michael",Spring 2022,76.0,Spring,2022,Low Risk
+697,Machine Learning,327,27 of 40 seats remain,"Martinez, Jessica",Spring 2022,67.5,Spring,2022,Low Risk
+698,Data Structures,332,39 of 50 seats remain,"Smith, John",Spring 2022,78.0,Spring,2022,Low Risk
+699,Database Systems,333,51 of 70 seats remain,"Miller, James",Spring 2022,72.85714285714285,Spring,2022,Low Risk
+700,Artificial Intelligence,336,7 of 50 seats remain,"Smith, John",Spring 2022,14.000000000000002,Spring,2022,Very Risky
+701,Data Structures,341,12 of 20 seats remain,"Williams, David",Spring 2022,60.0,Spring,2022,Medium risk
+702,Database Systems,344,14 of 30 seats remain,"Jones, Robert",Spring 2022,46.666666666666664,Spring,2022,Medium risk
+703,Operating Systems,344,32 of 70 seats remain,"Miller, James",Spring 2022,45.714285714285715,Spring,2022,Medium risk
+704,Artificial Intelligence,345,27 of 40 seats remain,"Jones, Robert",Spring 2022,67.5,Spring,2022,Low Risk
+705,Data Structures,354,5 of 60 seats remain,"Davis, Elizabeth",Spring 2022,8.333333333333332,Spring,2022,Very Risky
+706,Operating Systems,355,4 of 20 seats remain,"Brown, Linda",Spring 2022,20.0,Spring,2022,Very Risky
+707,Algorithms,356,28 of 60 seats remain,"Garcia, Maria",Spring 2022,46.666666666666664,Spring,2022,Medium risk
+708,Artificial Intelligence,358,3 of 60 seats remain,"Williams, David",Spring 2022,5.0,Spring,2022,Very Risky
+709,Computer Architecture,359,43 of 60 seats remain,"Smith, John",Spring 2022,71.66666666666667,Spring,2022,Low Risk
+710,Software Engineering,360,18 of 50 seats remain,"Brown, Linda",Spring 2022,36.0,Spring,2022,Risky
+711,Computer Networks,362,35 of 60 seats remain,"Johnson, Emily",Spring 2022,58.333333333333336,Spring,2022,Medium risk
+712,Intro to Programming,365,10 of 20 seats remain,"Jones, Robert",Spring 2022,50.0,Spring,2022,Medium risk
+713,Algorithms,369,3 of 60 seats remain,"Brown, Linda",Spring 2022,5.0,Spring,2022,Very Risky
+714,Database Systems,369,18 of 20 seats remain,"Davis, Elizabeth",Spring 2022,90.0,Spring,2022,No Risk
+715,Computer Architecture,372,29 of 70 seats remain,"Garcia, Maria",Spring 2022,41.42857142857143,Spring,2022,Medium risk
+716,Intro to Programming,372,5 of 20 seats remain,"Rodriguez, Michael",Spring 2022,25.0,Spring,2022,Risky
+717,Computer Networks,373,27 of 50 seats remain,"Brown, Linda",Spring 2022,54.0,Spring,2022,Medium risk
+718,Computer Architecture,373,18 of 40 seats remain,"Miller, James",Spring 2022,45.0,Spring,2022,Medium risk
+719,Software Engineering,375,35 of 70 seats remain,"Davis, Elizabeth",Spring 2022,50.0,Spring,2022,Medium risk
+720,Computer Architecture,375,10 of 30 seats remain,"Johnson, Emily",Spring 2022,33.33333333333333,Spring,2022,Risky
+721,Software Engineering,377,43 of 70 seats remain,"Jones, Robert",Spring 2022,61.42857142857143,Spring,2022,Low Risk
+722,Algorithms,381,12 of 60 seats remain,"Garcia, Maria",Spring 2022,20.0,Spring,2022,Very Risky
+723,Software Engineering,384,28 of 40 seats remain,"Smith, John",Spring 2022,70.0,Spring,2022,Low Risk
+724,Machine Learning,384,23 of 40 seats remain,"Rodriguez, Michael",Spring 2022,57.49999999999999,Spring,2022,Medium risk
+725,Computer Networks,387,21 of 40 seats remain,"Martinez, Jessica",Spring 2022,52.5,Spring,2022,Medium risk
+726,Machine Learning,388,10 of 40 seats remain,"Brown, Linda",Spring 2022,25.0,Spring,2022,Risky
+727,Computer Architecture,388,25 of 50 seats remain,"Johnson, Emily",Spring 2022,50.0,Spring,2022,Medium risk
+728,Artificial Intelligence,392,12 of 60 seats remain,"Garcia, Maria",Spring 2022,20.0,Spring,2022,Very Risky
+729,Algorithms,394,25 of 30 seats remain,"Smith, John",Spring 2022,83.33333333333334,Spring,2022,No Risk
+730,Computer Networks,394,3 of 30 seats remain,"Rodriguez, Michael",Spring 2022,10.0,Spring,2022,Very Risky
+731,Intro to Programming,397,43 of 50 seats remain,"Williams, David",Spring 2022,86.0,Spring,2022,No Risk
+732,Computer Networks,397,16 of 50 seats remain,"Jones, Robert",Spring 2022,32.0,Spring,2022,Risky
+733,Data Structures,398,5 of 20 seats remain,"Garcia, Maria",Spring 2022,25.0,Spring,2022,Risky
+734,Software Engineering,400,31 of 50 seats remain,"Garcia, Maria",Spring 2022,62.0,Spring,2022,Low Risk
+735,Computer Architecture,401,52 of 60 seats remain,"Garcia, Maria",Spring 2022,86.66666666666667,Spring,2022,No Risk
+736,Algorithms,401,19 of 30 seats remain,"Jones, Robert",Spring 2022,63.33333333333333,Spring,2022,Low Risk
+737,Computer Architecture,401,5 of 60 seats remain,"Garcia, Maria",Spring 2022,8.333333333333332,Spring,2022,Very Risky
+738,Machine Learning,403,2 of 60 seats remain,"Garcia, Maria",Spring 2022,3.3333333333333335,Spring,2022,Very Risky
+739,Operating Systems,409,50 of 60 seats remain,"Jones, Robert",Spring 2022,83.33333333333334,Spring,2022,No Risk
+740,Software Engineering,410,50 of 70 seats remain,"Brown, Linda",Spring 2022,71.42857142857143,Spring,2022,Low Risk
+741,Software Engineering,414,11 of 20 seats remain,"Garcia, Maria",Spring 2022,55.00000000000001,Spring,2022,Medium risk
+742,Database Systems,418,36 of 50 seats remain,"Brown, Linda",Spring 2022,72.0,Spring,2022,Low Risk
+743,Database Systems,419,31 of 40 seats remain,"Miller, James",Spring 2022,77.5,Spring,2022,Low Risk
+744,Intro to Programming,420,20 of 30 seats remain,"Johnson, Emily",Spring 2022,66.66666666666666,Spring,2022,Low Risk
+745,Operating Systems,424,26 of 40 seats remain,"Williams, David",Spring 2022,65.0,Spring,2022,Low Risk
+746,Operating Systems,424,5 of 50 seats remain,"Rodriguez, Michael",Spring 2022,10.0,Spring,2022,Very Risky
+747,Computer Architecture,425,4 of 60 seats remain,"Williams, David",Spring 2022,6.666666666666667,Spring,2022,Very Risky
+748,Algorithms,430,3 of 20 seats remain,"Johnson, Emily",Spring 2022,15.0,Spring,2022,Very Risky
+749,Database Systems,431,50 of 60 seats remain,"Martinez, Jessica",Spring 2022,83.33333333333334,Spring,2022,No Risk
+750,Computer Architecture,432,17 of 30 seats remain,"Johnson, Emily",Spring 2022,56.666666666666664,Spring,2022,Medium risk
+751,Machine Learning,435,19 of 50 seats remain,"Smith, John",Spring 2022,38.0,Spring,2022,Risky
+752,Intro to Programming,436,5 of 30 seats remain,"Williams, David",Spring 2022,16.666666666666664,Spring,2022,Very Risky
+753,Computer Architecture,439,FULL: 0 of 30 seats remain,"Garcia, Maria",Spring 2022,0.0,Spring,2022,Very Risky
+754,Intro to Programming,443,FULL: 0 of 50 seats remain,"Brown, Linda",Spring 2022,0.0,Spring,2022,Very Risky
+755,Software Engineering,445,44 of 70 seats remain,"Williams, David",Spring 2022,62.857142857142854,Spring,2022,Low Risk
+756,Computer Architecture,445,3 of 20 seats remain,"Davis, Elizabeth",Spring 2022,15.0,Spring,2022,Very Risky
+757,Database Systems,447,3 of 60 seats remain,"Johnson, Emily",Spring 2022,5.0,Spring,2022,Very Risky
+758,Operating Systems,448,11 of 20 seats remain,"Johnson, Emily",Spring 2022,55.00000000000001,Spring,2022,Medium risk
+759,Computer Networks,453,36 of 50 seats remain,"Martinez, Jessica",Spring 2022,72.0,Spring,2022,Low Risk
+760,Computer Networks,457,1 of 40 seats remain,"Brown, Linda",Spring 2022,2.5,Spring,2022,Very Risky
+761,Operating Systems,459,5 of 20 seats remain,"Smith, John",Spring 2022,25.0,Spring,2022,Risky
+762,Database Systems,459,39 of 50 seats remain,"Jones, Robert",Spring 2022,78.0,Spring,2022,Low Risk
+763,Machine Learning,459,8 of 20 seats remain,"Garcia, Maria",Spring 2022,40.0,Spring,2022,Risky
+764,Database Systems,461,22 of 40 seats remain,"Jones, Robert",Spring 2022,55.00000000000001,Spring,2022,Medium risk
+765,Database Systems,462,3 of 40 seats remain,"Smith, John",Spring 2022,7.5,Spring,2022,Very Risky
+766,Computer Architecture,465,23 of 50 seats remain,"Garcia, Maria",Spring 2022,46.0,Spring,2022,Medium risk
+767,Machine Learning,465,17 of 20 seats remain,"Williams, David",Spring 2022,85.0,Spring,2022,No Risk
+768,Algorithms,467,5 of 40 seats remain,"Rodriguez, Michael",Spring 2022,12.5,Spring,2022,Very Risky
+769,Data Structures,469,36 of 70 seats remain,"Miller, James",Spring 2022,51.42857142857142,Spring,2022,Medium risk
+770,Software Engineering,470,11 of 20 seats remain,"Jones, Robert",Spring 2022,55.00000000000001,Spring,2022,Medium risk
+771,Data Structures,471,20 of 30 seats remain,"Davis, Elizabeth",Spring 2022,66.66666666666666,Spring,2022,Low Risk
+772,Artificial Intelligence,476,3 of 60 seats remain,"Jones, Robert",Spring 2022,5.0,Spring,2022,Very Risky
+773,Algorithms,479,14 of 30 seats remain,"Rodriguez, Michael",Spring 2022,46.666666666666664,Spring,2022,Medium risk
+774,Computer Architecture,480,12 of 40 seats remain,"Rodriguez, Michael",Spring 2022,30.0,Spring,2022,Risky
+775,Computer Architecture,481,41 of 50 seats remain,"Rodriguez, Michael",Spring 2022,82.0,Spring,2022,No Risk
+776,Data Structures,488,15 of 70 seats remain,"Rodriguez, Michael",Spring 2022,21.428571428571427,Spring,2022,Risky
+777,Database Systems,488,12 of 40 seats remain,"Brown, Linda",Spring 2022,30.0,Spring,2022,Risky
+778,Software Engineering,489,16 of 20 seats remain,"Davis, Elizabeth",Spring 2022,80.0,Spring,2022,Low Risk
+779,Database Systems,493,54 of 70 seats remain,"Miller, James",Spring 2022,77.14285714285715,Spring,2022,Low Risk
+780,Software Engineering,494,14 of 30 seats remain,"Jones, Robert",Spring 2022,46.666666666666664,Spring,2022,Medium risk
+781,Data Structures,500,33 of 60 seats remain,"Johnson, Emily",Spring 2022,55.00000000000001,Spring,2022,Medium risk
+782,Database Systems,502,9 of 40 seats remain,"Garcia, Maria",Spring 2022,22.5,Spring,2022,Risky
+783,Software Engineering,502,34 of 50 seats remain,"Garcia, Maria",Spring 2022,68.0,Spring,2022,Low Risk
+784,Artificial Intelligence,507,29 of 40 seats remain,"Smith, John",Spring 2022,72.5,Spring,2022,Low Risk
+785,Data Structures,507,36 of 50 seats remain,"Martinez, Jessica",Spring 2022,72.0,Spring,2022,Low Risk
+786,Computer Architecture,509,22 of 30 seats remain,"Miller, James",Spring 2022,73.33333333333333,Spring,2022,Low Risk
+787,Machine Learning,513,31 of 70 seats remain,"Miller, James",Spring 2022,44.285714285714285,Spring,2022,Medium risk
+788,Algorithms,515,19 of 40 seats remain,"Garcia, Maria",Spring 2022,47.5,Spring,2022,Medium risk
+789,Operating Systems,518,8 of 50 seats remain,"Martinez, Jessica",Spring 2022,16.0,Spring,2022,Very Risky
+790,Computer Networks,522,20 of 20 seats remain,"Rodriguez, Michael",Spring 2022,100.0,Spring,2022,No Risk
+791,Artificial Intelligence,525,27 of 60 seats remain,"Rodriguez, Michael",Spring 2022,45.0,Spring,2022,Medium risk
+792,Artificial Intelligence,527,30 of 60 seats remain,"Martinez, Jessica",Spring 2022,50.0,Spring,2022,Medium risk
+793,Software Engineering,529,32 of 50 seats remain,"Williams, David",Spring 2022,64.0,Spring,2022,Low Risk
+794,Operating Systems,530,23 of 40 seats remain,"Smith, John",Spring 2022,57.49999999999999,Spring,2022,Medium risk
+795,Intro to Programming,531,6 of 40 seats remain,"Williams, David",Spring 2022,15.0,Spring,2022,Very Risky
+796,Data Structures,532,50 of 60 seats remain,"Garcia, Maria",Spring 2022,83.33333333333334,Spring,2022,No Risk
+797,Artificial Intelligence,532,20 of 30 seats remain,"Johnson, Emily",Spring 2022,66.66666666666666,Spring,2022,Low Risk
+798,Computer Networks,534,41 of 50 seats remain,"Smith, John",Spring 2022,82.0,Spring,2022,No Risk
+799,Database Systems,540,4 of 40 seats remain,"Martinez, Jessica",Spring 2022,10.0,Spring,2022,Very Risky
+800,Software Engineering,540,15 of 20 seats remain,"Garcia, Maria",Spring 2022,75.0,Spring,2022,Low Risk
+801,Data Structures,540,8 of 30 seats remain,"Miller, James",Spring 2022,26.666666666666668,Spring,2022,Risky
+802,Intro to Programming,540,30 of 50 seats remain,"Garcia, Maria",Spring 2022,60.0,Spring,2022,Medium risk
+803,Data Structures,541,12 of 20 seats remain,"Jones, Robert",Spring 2022,60.0,Spring,2022,Medium risk
+804,Software Engineering,541,46 of 70 seats remain,"Williams, David",Spring 2022,65.71428571428571,Spring,2022,Low Risk
+805,Operating Systems,542,24 of 50 seats remain,"Martinez, Jessica",Spring 2022,48.0,Spring,2022,Medium risk
+806,Operating Systems,542,59 of 70 seats remain,"Garcia, Maria",Spring 2022,84.28571428571429,Spring,2022,No Risk
+807,Machine Learning,545,0 of 20 seats remain,"Williams, David",Spring 2022,0.0,Spring,2022,Very Risky
+808,Database Systems,546,2 of 20 seats remain,"Miller, James",Spring 2022,10.0,Spring,2022,Very Risky
+809,Data Structures,551,19 of 20 seats remain,"Martinez, Jessica",Spring 2022,95.0,Spring,2022,No Risk
+810,Artificial Intelligence,553,4 of 30 seats remain,"Garcia, Maria",Spring 2022,13.333333333333334,Spring,2022,Very Risky
+811,Computer Networks,559,16 of 20 seats remain,"Garcia, Maria",Spring 2022,80.0,Spring,2022,Low Risk
+812,Operating Systems,561,16 of 50 seats remain,"Rodriguez, Michael",Spring 2022,32.0,Spring,2022,Risky
+813,Algorithms,564,56 of 60 seats remain,"Williams, David",Spring 2022,93.33333333333333,Spring,2022,No Risk
+814,Machine Learning,565,9 of 40 seats remain,"Rodriguez, Michael",Spring 2022,22.5,Spring,2022,Risky
+815,Software Engineering,566,15 of 20 seats remain,"Miller, James",Spring 2022,75.0,Spring,2022,Low Risk
+816,Intro to Programming,567,51 of 70 seats remain,"Williams, David",Spring 2022,72.85714285714285,Spring,2022,Low Risk
+817,Machine Learning,569,3 of 70 seats remain,"Garcia, Maria",Spring 2022,4.285714285714286,Spring,2022,Very Risky
+818,Computer Architecture,569,32 of 60 seats remain,"Jones, Robert",Spring 2022,53.333333333333336,Spring,2022,Medium risk
+819,Data Structures,571,29 of 40 seats remain,"Williams, David",Spring 2022,72.5,Spring,2022,Low Risk
+820,Machine Learning,572,9 of 30 seats remain,"Williams, David",Spring 2022,30.0,Spring,2022,Risky
+821,Computer Architecture,573,31 of 40 seats remain,"Martinez, Jessica",Spring 2022,77.5,Spring,2022,Low Risk
+822,Algorithms,574,6 of 20 seats remain,"Davis, Elizabeth",Spring 2022,30.0,Spring,2022,Risky
+823,Computer Architecture,574,19 of 60 seats remain,"Davis, Elizabeth",Spring 2022,31.666666666666664,Spring,2022,Risky
+824,Machine Learning,579,44 of 50 seats remain,"Jones, Robert",Spring 2022,88.0,Spring,2022,No Risk
+825,Machine Learning,580,6 of 20 seats remain,"Martinez, Jessica",Spring 2022,30.0,Spring,2022,Risky
+826,Theory/Application Data Mining,584,6 of 70 seats remain,"Zhou, Keren",Spring 2022,8.571428571428571,Spring,2022,Very Risky
+827,Theory/Application Data Mining,584,51 of 70 seats remain,"Barbara, Daniel",Spring 2022,72.85714285714285,Spring,2022,Low Risk
+828,Introduction to Cryptography,587,9 of 20 seats remain,"Ateniese, Giuseppe",Spring 2022,45.0,Spring,2022,Medium risk
+829,Quantum Algorithms,595,FULL: 0 of 2 seats remain,"Baume, Michael",Spring 2022,0.0,Spring,2022,Very Risky
+830,AI Design and Deployment Risks,595,9 of 15 seats remain,"Cummings, Missy",Spring 2022,60.0,Spring,2022,Medium risk
+831,AI Design and Deployment Risks,595,12 of 15 seats remain,"Cummings, Missy",Spring 2022,80.0,Spring,2022,Low Risk
+832,Theory of Computation,600,46 of 60 seats remain,"Richards, Dana",Spring 2022,76.66666666666667,Spring,2022,Low Risk
+833,Theory of Computation,600,32 of 50 seats remain,"Richards, Dana",Spring 2022,64.0,Spring,2022,Low Risk
+834,Advanced Algorithms,630,17 of 50 seats remain,"Yaroslavtsev, Grigory",Spring 2022,34.0,Spring,2022,Risky
+835,Wireless and Mobile Computing,655,12 of 50 seats remain,"Yao, Shuochao",Spring 2022,24.0,Spring,2022,Risky
+836,Computational Design,663,30 of 65 seats remain,"Yu, Lap Fai",Spring 2022,46.15384615384615,Spring,2022,Medium risk
+837,Advanced NLP,678,9 of 65 seats remain,"Yao, Ziyu",Spring 2022,13.846153846153847,Spring,2022,Very Risky
+838,Computer Vision,682,19 of 53 seats remain,"Kosecka, Jana",Spring 2022,35.84905660377358,Spring,2022,Risky
+839,Machine Learning,688,19 of 50 seats remain,"Yu, Fang-Yi",Spring 2022,38.0,Spring,2022,Risky
+840,Machine Learning,688,20 of 50 seats remain,"Das, Sanmay",Spring 2022,40.0,Spring,2022,Risky
+841,Network Security,692,0 of 10 seats remain,"Wang, Xinyuan",Spring 2022,0.0,Spring,2022,Very Risky
+842,Linux Kernel Internals,692,29 of 40 seats remain,"Zhang, Xiaokuan",Spring 2022,72.5,Spring,2022,Low Risk
+843,SWE Real-Time Embedded Systm,692,9 of 35 seats remain,"Pettit, Rob",Spring 2022,25.71428571428571,Spring,2022,Risky
+844,Advanced Computer Architecture,692,39 of 50 seats remain,"Yang, Lishan",Spring 2022,78.0,Spring,2022,Low Risk
+845,SWE Real-Time Embedded Systm,692,9 of 32 seats remain,"Pettit, Rob",Spring 2022,28.125,Spring,2022,Risky
+846,Advanced Machine Learning,782,36 of 44 seats remain,"Liu, Mingrui",Spring 2022,81.81818181818183,Spring,2022,No Risk
+847,Advanced Machine Learning,782,32 of 44 seats remain,"Barbara, Daniel",Spring 2022,72.72727272727273,Spring,2022,Low Risk
+848,Decision Guidance Systems,787,9 of 50 seats remain,"Brodsky, Alexander",Spring 2022,18.0,Spring,2022,Very Risky
+849,Computer Science Colloquium,800,6 of 60 seats remain,"Aydin, Hakan",Spring 2022,10.0,Spring,2022,Very Risky
+850,Computer Networks,107,17 of 70 seats remain,"Davis, Elizabeth",Spring 2023,24.285714285714285,Spring,2023,Risky
+851,Computer Architecture,109,7 of 30 seats remain,"Smith, John",Spring 2023,23.333333333333332,Spring,2023,Risky
+852,Intro to Programming,112,25 of 30 seats remain,"Martinez, Jessica",Spring 2023,83.33333333333334,Spring,2023,No Risk
+853,Computer Architecture,114,33 of 50 seats remain,"Smith, John",Spring 2023,66.0,Spring,2023,Low Risk
+854,Data Structures,117,63 of 70 seats remain,"Jones, Robert",Spring 2023,90.0,Spring,2023,No Risk
+855,Data Structures,118,24 of 30 seats remain,"Johnson, Emily",Spring 2023,80.0,Spring,2023,Low Risk
+856,Artificial Intelligence,121,28 of 70 seats remain,"Smith, John",Spring 2023,40.0,Spring,2023,Risky
+857,Intro to Programming,121,13 of 50 seats remain,"Garcia, Maria",Spring 2023,26.0,Spring,2023,Risky
+858,Artificial Intelligence,122,9 of 20 seats remain,"Miller, James",Spring 2023,45.0,Spring,2023,Medium risk
+859,Data Structures,124,6 of 20 seats remain,"Rodriguez, Michael",Spring 2023,30.0,Spring,2023,Risky
+860,Operating Systems,128,13 of 60 seats remain,"Johnson, Emily",Spring 2023,21.666666666666668,Spring,2023,Risky
+861,Operating Systems,129,40 of 70 seats remain,"Williams, David",Spring 2023,57.14285714285714,Spring,2023,Medium risk
+862,Computer Networks,131,14 of 20 seats remain,"Brown, Linda",Spring 2023,70.0,Spring,2023,Low Risk
+863,Intro to Programming,131,18 of 60 seats remain,"Martinez, Jessica",Spring 2023,30.0,Spring,2023,Risky
+864,Artificial Intelligence,132,26 of 50 seats remain,"Martinez, Jessica",Spring 2023,52.0,Spring,2023,Medium risk
+865,Machine Learning,135,5 of 50 seats remain,"Smith, John",Spring 2023,10.0,Spring,2023,Very Risky
+866,Computer Networks,140,25 of 40 seats remain,"Garcia, Maria",Spring 2023,62.5,Spring,2023,Low Risk
+867,Data Structures,148,48 of 60 seats remain,"Garcia, Maria",Spring 2023,80.0,Spring,2023,Low Risk
+868,Computer Architecture,149,5 of 20 seats remain,"Smith, John",Spring 2023,25.0,Spring,2023,Risky
+869,Computer Architecture,149,FULL: 0 of 30 seats remain,"Jones, Robert",Spring 2023,0.0,Spring,2023,Very Risky
+870,Computer Architecture,150,30 of 70 seats remain,"Jones, Robert",Spring 2023,42.857142857142854,Spring,2023,Medium risk
+871,Machine Learning,150,12 of 30 seats remain,"Martinez, Jessica",Spring 2023,40.0,Spring,2023,Risky
+872,Artificial Intelligence,152,17 of 20 seats remain,"Smith, John",Spring 2023,85.0,Spring,2023,No Risk
+873,Intro to Programming,161,50 of 60 seats remain,"Davis, Elizabeth",Spring 2023,83.33333333333334,Spring,2023,No Risk
+874,Computer Architecture,163,10 of 40 seats remain,"Smith, John",Spring 2023,25.0,Spring,2023,Risky
+875,Data Structures,163,24 of 40 seats remain,"Garcia, Maria",Spring 2023,60.0,Spring,2023,Medium risk
+876,Data Structures,163,24 of 30 seats remain,"Johnson, Emily",Spring 2023,80.0,Spring,2023,Low Risk
+877,Operating Systems,163,25 of 70 seats remain,"Garcia, Maria",Spring 2023,35.714285714285715,Spring,2023,Risky
+878,Intro to Programming,164,23 of 60 seats remain,"Smith, John",Spring 2023,38.333333333333336,Spring,2023,Risky
+879,Database Systems,170,37 of 40 seats remain,"Martinez, Jessica",Spring 2023,92.5,Spring,2023,No Risk
+880,Intro to Programming,171,8 of 30 seats remain,"Miller, James",Spring 2023,26.666666666666668,Spring,2023,Risky
+881,Software Engineering,172,21 of 40 seats remain,"Smith, John",Spring 2023,52.5,Spring,2023,Medium risk
+882,Data Structures,173,14 of 30 seats remain,"Smith, John",Spring 2023,46.666666666666664,Spring,2023,Medium risk
+883,Artificial Intelligence,174,53 of 60 seats remain,"Rodriguez, Michael",Spring 2023,88.33333333333333,Spring,2023,No Risk
+884,Software Engineering,175,9 of 70 seats remain,"Smith, John",Spring 2023,12.857142857142856,Spring,2023,Very Risky
+885,Algorithms,175,8 of 60 seats remain,"Johnson, Emily",Spring 2023,13.333333333333334,Spring,2023,Very Risky
+886,Artificial Intelligence,176,30 of 70 seats remain,"Johnson, Emily",Spring 2023,42.857142857142854,Spring,2023,Medium risk
+887,Software Engineering,177,24 of 60 seats remain,"Jones, Robert",Spring 2023,40.0,Spring,2023,Risky
+888,Machine Learning,182,43 of 50 seats remain,"Davis, Elizabeth",Spring 2023,86.0,Spring,2023,No Risk
+889,Computer Architecture,187,34 of 40 seats remain,"Williams, David",Spring 2023,85.0,Spring,2023,No Risk
+890,Software Engineering,191,40 of 70 seats remain,"Miller, James",Spring 2023,57.14285714285714,Spring,2023,Medium risk
+891,Software Engineering,199,45 of 60 seats remain,"Brown, Linda",Spring 2023,75.0,Spring,2023,Low Risk
+892,Data Structures,199,17 of 50 seats remain,"Johnson, Emily",Spring 2023,34.0,Spring,2023,Risky
+893,Algorithms,200,42 of 60 seats remain,"Martinez, Jessica",Spring 2023,70.0,Spring,2023,Low Risk
+894,Intro to Programming,206,5 of 20 seats remain,"Williams, David",Spring 2023,25.0,Spring,2023,Risky
+895,Software Engineering,207,47 of 70 seats remain,"Johnson, Emily",Spring 2023,67.14285714285714,Spring,2023,Low Risk
+896,Operating Systems,207,28 of 50 seats remain,"Rodriguez, Michael",Spring 2023,56.00000000000001,Spring,2023,Medium risk
+897,Computer Architecture,211,24 of 30 seats remain,"Johnson, Emily",Spring 2023,80.0,Spring,2023,Low Risk
+898,Artificial Intelligence,212,29 of 60 seats remain,"Williams, David",Spring 2023,48.333333333333336,Spring,2023,Medium risk
+899,Algorithms,212,28 of 50 seats remain,"Miller, James",Spring 2023,56.00000000000001,Spring,2023,Medium risk
+900,Machine Learning,218,36 of 40 seats remain,"Rodriguez, Michael",Spring 2023,90.0,Spring,2023,No Risk
+901,Computer Architecture,220,40 of 70 seats remain,"Williams, David",Spring 2023,57.14285714285714,Spring,2023,Medium risk
+902,Data Structures,222,16 of 20 seats remain,"Smith, John",Spring 2023,80.0,Spring,2023,Low Risk
+903,Data Structures,226,31 of 40 seats remain,"Davis, Elizabeth",Spring 2023,77.5,Spring,2023,Low Risk
+904,Software Engineering,227,16 of 60 seats remain,"Johnson, Emily",Spring 2023,26.666666666666668,Spring,2023,Risky
+905,Intro to Programming,228,20 of 30 seats remain,"Garcia, Maria",Spring 2023,66.66666666666666,Spring,2023,Low Risk
+906,Data Structures,236,8 of 50 seats remain,"Smith, John",Spring 2023,16.0,Spring,2023,Very Risky
+907,Artificial Intelligence,236,15 of 50 seats remain,"Brown, Linda",Spring 2023,30.0,Spring,2023,Risky
+908,Machine Learning,237,9 of 20 seats remain,"Davis, Elizabeth",Spring 2023,45.0,Spring,2023,Medium risk
+909,Computer Architecture,243,42 of 70 seats remain,"Johnson, Emily",Spring 2023,60.0,Spring,2023,Medium risk
+910,Computer Networks,250,4 of 20 seats remain,"Miller, James",Spring 2023,20.0,Spring,2023,Very Risky
+911,Machine Learning,251,13 of 20 seats remain,"Johnson, Emily",Spring 2023,65.0,Spring,2023,Low Risk
+912,Operating Systems,252,22 of 30 seats remain,"Miller, James",Spring 2023,73.33333333333333,Spring,2023,Low Risk
+913,Machine Learning,252,0 of 50 seats remain,"Garcia, Maria",Spring 2023,0.0,Spring,2023,Very Risky
+914,Algorithms,252,21 of 40 seats remain,"Davis, Elizabeth",Spring 2023,52.5,Spring,2023,Medium risk
+915,Data Structures,253,41 of 50 seats remain,"Miller, James",Spring 2023,82.0,Spring,2023,No Risk
+916,Machine Learning,259,8 of 50 seats remain,"Jones, Robert",Spring 2023,16.0,Spring,2023,Very Risky
+917,Computer Networks,260,3 of 20 seats remain,"Brown, Linda",Spring 2023,15.0,Spring,2023,Very Risky
+918,Artificial Intelligence,263,31 of 60 seats remain,"Martinez, Jessica",Spring 2023,51.66666666666667,Spring,2023,Medium risk
+919,Software Engineering,273,12 of 70 seats remain,"Miller, James",Spring 2023,17.142857142857142,Spring,2023,Very Risky
+920,Software Engineering,278,8 of 30 seats remain,"Rodriguez, Michael",Spring 2023,26.666666666666668,Spring,2023,Risky
+921,Computer Networks,278,18 of 70 seats remain,"Garcia, Maria",Spring 2023,25.71428571428571,Spring,2023,Risky
+922,Artificial Intelligence,279,29 of 40 seats remain,"Brown, Linda",Spring 2023,72.5,Spring,2023,Low Risk
+923,Artificial Intelligence,279,12 of 30 seats remain,"Miller, James",Spring 2023,40.0,Spring,2023,Risky
+924,Database Systems,281,43 of 60 seats remain,"Jones, Robert",Spring 2023,71.66666666666667,Spring,2023,Low Risk
+925,Computer Networks,281,18 of 20 seats remain,"Davis, Elizabeth",Spring 2023,90.0,Spring,2023,No Risk
+926,Data Structures,283,13 of 60 seats remain,"Johnson, Emily",Spring 2023,21.666666666666668,Spring,2023,Risky
+927,Intro to Programming,285,2 of 40 seats remain,"Martinez, Jessica",Spring 2023,5.0,Spring,2023,Very Risky
+928,Algorithms,287,4 of 30 seats remain,"Smith, John",Spring 2023,13.333333333333334,Spring,2023,Very Risky
+929,Software Engineering,291,16 of 30 seats remain,"Miller, James",Spring 2023,53.333333333333336,Spring,2023,Medium risk
+930,Algorithms,292,21 of 50 seats remain,"Smith, John",Spring 2023,42.0,Spring,2023,Medium risk
+931,Computer Networks,293,56 of 70 seats remain,"Brown, Linda",Spring 2023,80.0,Spring,2023,Low Risk
+932,Computer Networks,294,4 of 60 seats remain,"Jones, Robert",Spring 2023,6.666666666666667,Spring,2023,Very Risky
+933,Software Engineering,295,11 of 50 seats remain,"Brown, Linda",Spring 2023,22.0,Spring,2023,Risky
+934,Data Structures,298,9 of 30 seats remain,"Davis, Elizabeth",Spring 2023,30.0,Spring,2023,Risky
+935,Computer Networks,300,23 of 70 seats remain,"Martinez, Jessica",Spring 2023,32.857142857142854,Spring,2023,Risky
+936,Computer Architecture,300,20 of 70 seats remain,"Martinez, Jessica",Spring 2023,28.57142857142857,Spring,2023,Risky
+937,Data Structures,304,42 of 70 seats remain,"Williams, David",Spring 2023,60.0,Spring,2023,Medium risk
+938,Database Systems,309,17 of 20 seats remain,"Davis, Elizabeth",Spring 2023,85.0,Spring,2023,No Risk
+939,Intro to Programming,315,36 of 60 seats remain,"Miller, James",Spring 2023,60.0,Spring,2023,Medium risk
+940,Algorithms,315,6 of 20 seats remain,"Miller, James",Spring 2023,30.0,Spring,2023,Risky
+941,Data Structures,315,6 of 70 seats remain,"Williams, David",Spring 2023,8.571428571428571,Spring,2023,Very Risky
+942,Intro to Programming,318,35 of 40 seats remain,"Miller, James",Spring 2023,87.5,Spring,2023,No Risk
+943,Algorithms,322,5 of 30 seats remain,"Garcia, Maria",Spring 2023,16.666666666666664,Spring,2023,Very Risky
+944,Operating Systems,323,22 of 30 seats remain,"Garcia, Maria",Spring 2023,73.33333333333333,Spring,2023,Low Risk
+945,Data Structures,323,19 of 50 seats remain,"Martinez, Jessica",Spring 2023,38.0,Spring,2023,Risky
+946,Data Structures,324,36 of 50 seats remain,"Rodriguez, Michael",Spring 2023,72.0,Spring,2023,Low Risk
+947,Machine Learning,327,32 of 40 seats remain,"Martinez, Jessica",Spring 2023,80.0,Spring,2023,Low Risk
+948,Data Structures,332,42 of 50 seats remain,"Smith, John",Spring 2023,84.0,Spring,2023,No Risk
+949,Database Systems,333,55 of 70 seats remain,"Miller, James",Spring 2023,78.57142857142857,Spring,2023,Low Risk
+950,Artificial Intelligence,336,6 of 50 seats remain,"Smith, John",Spring 2023,12.0,Spring,2023,Very Risky
+951,Data Structures,341,13 of 20 seats remain,"Williams, David",Spring 2023,65.0,Spring,2023,Low Risk
+952,Database Systems,344,17 of 30 seats remain,"Jones, Robert",Spring 2023,56.666666666666664,Spring,2023,Medium risk
+953,Operating Systems,344,32 of 70 seats remain,"Miller, James",Spring 2023,45.714285714285715,Spring,2023,Medium risk
+954,Artificial Intelligence,345,25 of 40 seats remain,"Jones, Robert",Spring 2023,62.5,Spring,2023,Low Risk
+955,Data Structures,354,6 of 60 seats remain,"Davis, Elizabeth",Spring 2023,10.0,Spring,2023,Very Risky
+956,Operating Systems,355,6 of 20 seats remain,"Brown, Linda",Spring 2023,30.0,Spring,2023,Risky
+957,Algorithms,356,30 of 60 seats remain,"Garcia, Maria",Spring 2023,50.0,Spring,2023,Medium risk
+958,Artificial Intelligence,358,0 of 60 seats remain,"Williams, David",Spring 2023,0.0,Spring,2023,Very Risky
+959,Computer Architecture,359,46 of 60 seats remain,"Smith, John",Spring 2023,76.66666666666667,Spring,2023,Low Risk
+960,Software Engineering,360,18 of 50 seats remain,"Brown, Linda",Spring 2023,36.0,Spring,2023,Risky
+961,Computer Networks,362,40 of 60 seats remain,"Johnson, Emily",Spring 2023,66.66666666666666,Spring,2023,Low Risk
+962,Intro to Programming,365,9 of 20 seats remain,"Jones, Robert",Spring 2023,45.0,Spring,2023,Medium risk
+963,Algorithms,369,6 of 60 seats remain,"Brown, Linda",Spring 2023,10.0,Spring,2023,Very Risky
+964,Database Systems,369,16 of 20 seats remain,"Davis, Elizabeth",Spring 2023,80.0,Spring,2023,Low Risk
+965,Computer Architecture,372,32 of 70 seats remain,"Garcia, Maria",Spring 2023,45.714285714285715,Spring,2023,Medium risk
+966,Intro to Programming,372,5 of 20 seats remain,"Rodriguez, Michael",Spring 2023,25.0,Spring,2023,Risky
+967,Computer Networks,373,23 of 50 seats remain,"Brown, Linda",Spring 2023,46.0,Spring,2023,Medium risk
+968,Computer Architecture,373,18 of 40 seats remain,"Miller, James",Spring 2023,45.0,Spring,2023,Medium risk
+969,Software Engineering,375,35 of 70 seats remain,"Davis, Elizabeth",Spring 2023,50.0,Spring,2023,Medium risk
+970,Computer Architecture,375,10 of 30 seats remain,"Johnson, Emily",Spring 2023,33.33333333333333,Spring,2023,Risky
+971,Software Engineering,377,43 of 70 seats remain,"Jones, Robert",Spring 2023,61.42857142857143,Spring,2023,Low Risk
+972,Algorithms,381,16 of 60 seats remain,"Garcia, Maria",Spring 2023,26.666666666666668,Spring,2023,Risky
+973,Software Engineering,384,33 of 40 seats remain,"Smith, John",Spring 2023,82.5,Spring,2023,No Risk
+974,Machine Learning,384,26 of 40 seats remain,"Rodriguez, Michael",Spring 2023,65.0,Spring,2023,Low Risk
+975,Computer Networks,387,20 of 40 seats remain,"Martinez, Jessica",Spring 2023,50.0,Spring,2023,Medium risk
+976,Machine Learning,388,10 of 40 seats remain,"Brown, Linda",Spring 2023,25.0,Spring,2023,Risky
+977,Computer Architecture,388,29 of 50 seats remain,"Johnson, Emily",Spring 2023,57.99999999999999,Spring,2023,Medium risk
+978,Artificial Intelligence,392,12 of 60 seats remain,"Garcia, Maria",Spring 2023,20.0,Spring,2023,Very Risky
+979,Algorithms,394,23 of 30 seats remain,"Smith, John",Spring 2023,76.66666666666667,Spring,2023,Low Risk
+980,Computer Networks,394,3 of 30 seats remain,"Rodriguez, Michael",Spring 2023,10.0,Spring,2023,Very Risky
+981,Intro to Programming,397,44 of 50 seats remain,"Williams, David",Spring 2023,88.0,Spring,2023,No Risk
+982,Computer Networks,397,17 of 50 seats remain,"Jones, Robert",Spring 2023,34.0,Spring,2023,Risky
+983,Data Structures,398,2 of 20 seats remain,"Garcia, Maria",Spring 2023,10.0,Spring,2023,Very Risky
+984,Software Engineering,400,32 of 50 seats remain,"Garcia, Maria",Spring 2023,64.0,Spring,2023,Low Risk
+985,Computer Architecture,401,56 of 60 seats remain,"Garcia, Maria",Spring 2023,93.33333333333333,Spring,2023,No Risk
+986,Algorithms,401,19 of 30 seats remain,"Jones, Robert",Spring 2023,63.33333333333333,Spring,2023,Low Risk
+987,Computer Architecture,401,7 of 60 seats remain,"Garcia, Maria",Spring 2023,11.666666666666666,Spring,2023,Very Risky
+988,Machine Learning,403,5 of 60 seats remain,"Garcia, Maria",Spring 2023,8.333333333333332,Spring,2023,Very Risky
+989,Operating Systems,409,52 of 60 seats remain,"Jones, Robert",Spring 2023,86.66666666666667,Spring,2023,No Risk
+990,Software Engineering,410,51 of 70 seats remain,"Brown, Linda",Spring 2023,72.85714285714285,Spring,2023,Low Risk
+991,Software Engineering,414,12 of 20 seats remain,"Garcia, Maria",Spring 2023,60.0,Spring,2023,Medium risk
+992,Database Systems,418,38 of 50 seats remain,"Brown, Linda",Spring 2023,76.0,Spring,2023,Low Risk
+993,Database Systems,419,33 of 40 seats remain,"Miller, James",Spring 2023,82.5,Spring,2023,No Risk
+994,Intro to Programming,420,19 of 30 seats remain,"Johnson, Emily",Spring 2023,63.33333333333333,Spring,2023,Low Risk
+995,Operating Systems,424,24 of 40 seats remain,"Williams, David",Spring 2023,60.0,Spring,2023,Medium risk
+996,Operating Systems,424,3 of 50 seats remain,"Rodriguez, Michael",Spring 2023,6.0,Spring,2023,Very Risky
+997,Computer Architecture,425,9 of 60 seats remain,"Williams, David",Spring 2023,15.0,Spring,2023,Very Risky
+998,Algorithms,430,1 of 20 seats remain,"Johnson, Emily",Spring 2023,5.0,Spring,2023,Very Risky
+999,Database Systems,431,55 of 60 seats remain,"Martinez, Jessica",Spring 2023,91.66666666666666,Spring,2023,No Risk
+1000,Computer Architecture,432,17 of 30 seats remain,"Johnson, Emily",Spring 2023,56.666666666666664,Spring,2023,Medium risk
+1001,Machine Learning,435,21 of 50 seats remain,"Smith, John",Spring 2023,42.0,Spring,2023,Medium risk
+1002,Intro to Programming,436,6 of 30 seats remain,"Williams, David",Spring 2023,20.0,Spring,2023,Very Risky
+1003,Computer Architecture,439,FULL: 0 of 30 seats remain,"Garcia, Maria",Spring 2023,0.0,Spring,2023,Very Risky
+1004,Intro to Programming,443,FULL: 0 of 50 seats remain,"Brown, Linda",Spring 2023,0.0,Spring,2023,Very Risky
+1005,Software Engineering,445,48 of 70 seats remain,"Williams, David",Spring 2023,68.57142857142857,Spring,2023,Low Risk
+1006,Computer Architecture,445,1 of 20 seats remain,"Davis, Elizabeth",Spring 2023,5.0,Spring,2023,Very Risky
+1007,Database Systems,447,4 of 60 seats remain,"Johnson, Emily",Spring 2023,6.666666666666667,Spring,2023,Very Risky
+1008,Operating Systems,448,10 of 20 seats remain,"Johnson, Emily",Spring 2023,50.0,Spring,2023,Medium risk
+1009,Computer Networks,453,34 of 50 seats remain,"Martinez, Jessica",Spring 2023,68.0,Spring,2023,Low Risk
+1010,Computer Networks,457,1 of 40 seats remain,"Brown, Linda",Spring 2023,2.5,Spring,2023,Very Risky
+1011,Operating Systems,459,4 of 20 seats remain,"Smith, John",Spring 2023,20.0,Spring,2023,Very Risky
+1012,Database Systems,459,34 of 50 seats remain,"Jones, Robert",Spring 2023,68.0,Spring,2023,Low Risk
+1013,Machine Learning,459,8 of 20 seats remain,"Garcia, Maria",Spring 2023,40.0,Spring,2023,Risky
+1014,Database Systems,461,25 of 40 seats remain,"Jones, Robert",Spring 2023,62.5,Spring,2023,Low Risk
+1015,Database Systems,462,2 of 40 seats remain,"Smith, John",Spring 2023,5.0,Spring,2023,Very Risky
+1016,Computer Architecture,465,21 of 50 seats remain,"Garcia, Maria",Spring 2023,42.0,Spring,2023,Medium risk
+1017,Machine Learning,465,18 of 20 seats remain,"Williams, David",Spring 2023,90.0,Spring,2023,No Risk
+1018,Algorithms,467,7 of 40 seats remain,"Rodriguez, Michael",Spring 2023,17.5,Spring,2023,Very Risky
+1019,Data Structures,469,38 of 70 seats remain,"Miller, James",Spring 2023,54.285714285714285,Spring,2023,Medium risk
+1020,Software Engineering,470,13 of 20 seats remain,"Jones, Robert",Spring 2023,65.0,Spring,2023,Low Risk
+1021,Data Structures,471,18 of 30 seats remain,"Davis, Elizabeth",Spring 2023,60.0,Spring,2023,Medium risk
+1022,Artificial Intelligence,476,2 of 60 seats remain,"Jones, Robert",Spring 2023,3.3333333333333335,Spring,2023,Very Risky
+1023,Algorithms,479,13 of 30 seats remain,"Rodriguez, Michael",Spring 2023,43.333333333333336,Spring,2023,Medium risk
+1024,Computer Architecture,480,11 of 40 seats remain,"Rodriguez, Michael",Spring 2023,27.500000000000004,Spring,2023,Risky
+1025,Computer Architecture,481,39 of 50 seats remain,"Rodriguez, Michael",Spring 2023,78.0,Spring,2023,Low Risk
+1026,Data Structures,488,19 of 70 seats remain,"Rodriguez, Michael",Spring 2023,27.142857142857142,Spring,2023,Risky
+1027,Database Systems,488,7 of 40 seats remain,"Brown, Linda",Spring 2023,17.5,Spring,2023,Very Risky
+1028,Software Engineering,489,18 of 20 seats remain,"Davis, Elizabeth",Spring 2023,90.0,Spring,2023,No Risk
+1029,Database Systems,493,55 of 70 seats remain,"Miller, James",Spring 2023,78.57142857142857,Spring,2023,Low Risk
+1030,Software Engineering,494,15 of 30 seats remain,"Jones, Robert",Spring 2023,50.0,Spring,2023,Medium risk
+1031,Data Structures,500,37 of 60 seats remain,"Johnson, Emily",Spring 2023,61.66666666666667,Spring,2023,Low Risk
+1032,Database Systems,502,10 of 40 seats remain,"Garcia, Maria",Spring 2023,25.0,Spring,2023,Risky
+1033,Software Engineering,502,32 of 50 seats remain,"Garcia, Maria",Spring 2023,64.0,Spring,2023,Low Risk
+1034,Artificial Intelligence,507,28 of 40 seats remain,"Smith, John",Spring 2023,70.0,Spring,2023,Low Risk
+1035,Data Structures,507,36 of 50 seats remain,"Martinez, Jessica",Spring 2023,72.0,Spring,2023,Low Risk
+1036,Computer Architecture,509,19 of 30 seats remain,"Miller, James",Spring 2023,63.33333333333333,Spring,2023,Low Risk
+1037,Machine Learning,513,30 of 70 seats remain,"Miller, James",Spring 2023,42.857142857142854,Spring,2023,Medium risk
+1038,Algorithms,515,23 of 40 seats remain,"Garcia, Maria",Spring 2023,57.49999999999999,Spring,2023,Medium risk
+1039,Operating Systems,518,11 of 50 seats remain,"Martinez, Jessica",Spring 2023,22.0,Spring,2023,Risky
+1040,Computer Networks,522,18 of 20 seats remain,"Rodriguez, Michael",Spring 2023,90.0,Spring,2023,No Risk
+1041,Artificial Intelligence,525,25 of 60 seats remain,"Rodriguez, Michael",Spring 2023,41.66666666666667,Spring,2023,Medium risk
+1042,Artificial Intelligence,527,31 of 60 seats remain,"Martinez, Jessica",Spring 2023,51.66666666666667,Spring,2023,Medium risk
+1043,Software Engineering,529,31 of 50 seats remain,"Williams, David",Spring 2023,62.0,Spring,2023,Low Risk
+1044,Operating Systems,530,26 of 40 seats remain,"Smith, John",Spring 2023,65.0,Spring,2023,Low Risk
+1045,Intro to Programming,531,7 of 40 seats remain,"Williams, David",Spring 2023,17.5,Spring,2023,Very Risky
+1046,Data Structures,532,51 of 60 seats remain,"Garcia, Maria",Spring 2023,85.0,Spring,2023,No Risk
+1047,Artificial Intelligence,532,18 of 30 seats remain,"Johnson, Emily",Spring 2023,60.0,Spring,2023,Medium risk
+1048,Computer Networks,534,46 of 50 seats remain,"Smith, John",Spring 2023,92.0,Spring,2023,No Risk
+1049,Database Systems,540,1 of 40 seats remain,"Martinez, Jessica",Spring 2023,2.5,Spring,2023,Very Risky
+1050,Software Engineering,540,13 of 20 seats remain,"Garcia, Maria",Spring 2023,65.0,Spring,2023,Low Risk
+1051,Data Structures,540,9 of 30 seats remain,"Miller, James",Spring 2023,30.0,Spring,2023,Risky
+1052,Intro to Programming,540,26 of 50 seats remain,"Garcia, Maria",Spring 2023,52.0,Spring,2023,Medium risk
+1053,Data Structures,541,11 of 20 seats remain,"Jones, Robert",Spring 2023,55.00000000000001,Spring,2023,Medium risk
+1054,Software Engineering,541,49 of 70 seats remain,"Williams, David",Spring 2023,70.0,Spring,2023,Low Risk
+1055,Operating Systems,542,20 of 50 seats remain,"Martinez, Jessica",Spring 2023,40.0,Spring,2023,Risky
+1056,Operating Systems,542,55 of 70 seats remain,"Garcia, Maria",Spring 2023,78.57142857142857,Spring,2023,Low Risk
+1057,Machine Learning,545,1 of 20 seats remain,"Williams, David",Spring 2023,5.0,Spring,2023,Very Risky
+1058,Database Systems,546,1 of 20 seats remain,"Miller, James",Spring 2023,5.0,Spring,2023,Very Risky
+1059,Data Structures,551,17 of 20 seats remain,"Martinez, Jessica",Spring 2023,85.0,Spring,2023,No Risk
+1060,Artificial Intelligence,553,1 of 30 seats remain,"Garcia, Maria",Spring 2023,3.3333333333333335,Spring,2023,Very Risky
+1061,Computer Networks,559,14 of 20 seats remain,"Garcia, Maria",Spring 2023,70.0,Spring,2023,Low Risk
+1062,Operating Systems,561,17 of 50 seats remain,"Rodriguez, Michael",Spring 2023,34.0,Spring,2023,Risky
+1063,Algorithms,564,54 of 60 seats remain,"Williams, David",Spring 2023,90.0,Spring,2023,No Risk
+1064,Machine Learning,565,6 of 40 seats remain,"Rodriguez, Michael",Spring 2023,15.0,Spring,2023,Very Risky
+1065,Software Engineering,566,14 of 20 seats remain,"Miller, James",Spring 2023,70.0,Spring,2023,Low Risk
+1066,Intro to Programming,567,52 of 70 seats remain,"Williams, David",Spring 2023,74.28571428571429,Spring,2023,Low Risk
+1067,Machine Learning,569,5 of 70 seats remain,"Garcia, Maria",Spring 2023,7.142857142857142,Spring,2023,Very Risky
+1068,Computer Architecture,569,29 of 60 seats remain,"Jones, Robert",Spring 2023,48.333333333333336,Spring,2023,Medium risk
+1069,Data Structures,571,33 of 40 seats remain,"Williams, David",Spring 2023,82.5,Spring,2023,No Risk
+1070,Machine Learning,572,7 of 30 seats remain,"Williams, David",Spring 2023,23.333333333333332,Spring,2023,Risky
+1071,Computer Architecture,573,33 of 40 seats remain,"Martinez, Jessica",Spring 2023,82.5,Spring,2023,No Risk
+1072,Algorithms,574,4 of 20 seats remain,"Davis, Elizabeth",Spring 2023,20.0,Spring,2023,Very Risky
+1073,Computer Architecture,574,16 of 60 seats remain,"Davis, Elizabeth",Spring 2023,26.666666666666668,Spring,2023,Risky
+1074,Machine Learning,579,43 of 50 seats remain,"Jones, Robert",Spring 2023,86.0,Spring,2023,No Risk
+1075,Machine Learning,580,3 of 20 seats remain,"Martinez, Jessica",Spring 2023,15.0,Spring,2023,Very Risky
+1076,Theory/Application Data Mining,584,8 of 70 seats remain,"Zhou, Keren",Spring 2023,11.428571428571429,Spring,2023,Very Risky
+1077,Theory/Application Data Mining,584,53 of 70 seats remain,"Barbara, Daniel",Spring 2023,75.71428571428571,Spring,2023,Low Risk
+1078,Introduction to Cryptography,587,11 of 20 seats remain,"Ateniese, Giuseppe",Spring 2023,55.00000000000001,Spring,2023,Medium risk
+1079,Quantum Algorithms,595,FULL: 0 of 2 seats remain,"Baume, Michael",Spring 2023,0.0,Spring,2023,Very Risky
+1080,AI Design and Deployment Risks,595,10 of 15 seats remain,"Cummings, Missy",Spring 2023,66.66666666666666,Spring,2023,Low Risk
+1081,AI Design and Deployment Risks,595,10 of 15 seats remain,"Cummings, Missy",Spring 2023,66.66666666666666,Spring,2023,Low Risk
+1082,Theory of Computation,600,42 of 60 seats remain,"Richards, Dana",Spring 2023,70.0,Spring,2023,Low Risk
+1083,Theory of Computation,600,31 of 50 seats remain,"Richards, Dana",Spring 2023,62.0,Spring,2023,Low Risk
+1084,Advanced Algorithms,630,15 of 50 seats remain,"Yaroslavtsev, Grigory",Spring 2023,30.0,Spring,2023,Risky
+1085,Wireless and Mobile Computing,655,12 of 50 seats remain,"Yao, Shuochao",Spring 2023,24.0,Spring,2023,Risky
+1086,Computational Design,663,31 of 65 seats remain,"Yu, Lap Fai",Spring 2023,47.69230769230769,Spring,2023,Medium risk
+1087,Advanced NLP,678,9 of 65 seats remain,"Yao, Ziyu",Spring 2023,13.846153846153847,Spring,2023,Very Risky
+1088,Computer Vision,682,18 of 53 seats remain,"Kosecka, Jana",Spring 2023,33.9622641509434,Spring,2023,Risky
+1089,Machine Learning,688,20 of 50 seats remain,"Yu, Fang-Yi",Spring 2023,40.0,Spring,2023,Risky
+1090,Machine Learning,688,16 of 50 seats remain,"Das, Sanmay",Spring 2023,32.0,Spring,2023,Risky
+1091,Network Security,692,3 of 10 seats remain,"Wang, Xinyuan",Spring 2023,30.0,Spring,2023,Risky
+1092,Linux Kernel Internals,692,27 of 40 seats remain,"Zhang, Xiaokuan",Spring 2023,67.5,Spring,2023,Low Risk
+1093,SWE Real-Time Embedded Systm,692,4 of 35 seats remain,"Pettit, Rob",Spring 2023,11.428571428571429,Spring,2023,Very Risky
+1094,Advanced Computer Architecture,692,38 of 50 seats remain,"Yang, Lishan",Spring 2023,76.0,Spring,2023,Low Risk
+1095,SWE Real-Time Embedded Systm,692,11 of 32 seats remain,"Pettit, Rob",Spring 2023,34.375,Spring,2023,Risky
+1096,Advanced Machine Learning,782,38 of 44 seats remain,"Liu, Mingrui",Spring 2023,86.36363636363636,Spring,2023,No Risk
+1097,Advanced Machine Learning,782,30 of 44 seats remain,"Barbara, Daniel",Spring 2023,68.18181818181817,Spring,2023,Low Risk
+1098,Decision Guidance Systems,787,13 of 50 seats remain,"Brodsky, Alexander",Spring 2023,26.0,Spring,2023,Risky
+1099,Computer Science Colloquium,800,5 of 60 seats remain,"Aydin, Hakan",Spring 2023,8.333333333333332,Spring,2023,Very Risky
+1100,Computer Networks,107,19 of 70 seats remain,"Davis, Elizabeth",,27.142857142857142,Spring,2024,Risky
+1101,Computer Architecture,109,6 of 30 seats remain,"Smith, John",,20.0,Spring,2024,Very Risky
+1102,Intro to Programming,112,23 of 30 seats remain,"Martinez, Jessica",,76.66666666666667,Spring,2024,Low Risk
+1103,Computer Architecture,114,31 of 50 seats remain,"Smith, John",,62.0,Spring,2024,Low Risk
+1104,Data Structures,117,63 of 70 seats remain,"Jones, Robert",,90.0,Spring,2024,No Risk
+1105,Data Structures,118,24 of 30 seats remain,"Johnson, Emily",,80.0,Spring,2024,Low Risk
+1106,Artificial Intelligence,121,29 of 70 seats remain,"Smith, John",,41.42857142857143,Spring,2024,Medium risk
+1107,Intro to Programming,121,13 of 50 seats remain,"Garcia, Maria",,26.0,Spring,2024,Risky
+1108,Artificial Intelligence,122,10 of 20 seats remain,"Miller, James",,50.0,Spring,2024,Medium risk
+1109,Data Structures,124,6 of 20 seats remain,"Rodriguez, Michael",,30.0,Spring,2024,Risky
+1110,Operating Systems,128,15 of 60 seats remain,"Johnson, Emily",,25.0,Spring,2024,Risky
+1111,Operating Systems,129,40 of 70 seats remain,"Williams, David",,57.14285714285714,Spring,2024,Medium risk
+1112,Computer Networks,131,12 of 20 seats remain,"Brown, Linda",,60.0,Spring,2024,Medium risk
+1113,Intro to Programming,131,20 of 60 seats remain,"Martinez, Jessica",,33.33333333333333,Spring,2024,Risky
+1114,Artificial Intelligence,132,23 of 50 seats remain,"Martinez, Jessica",,46.0,Spring,2024,Medium risk
+1115,Machine Learning,135,2 of 50 seats remain,"Smith, John",,4.0,Spring,2024,Very Risky
+1116,Computer Networks,140,25 of 40 seats remain,"Garcia, Maria",,62.5,Spring,2024,Low Risk
+1117,Data Structures,148,48 of 60 seats remain,"Garcia, Maria",,80.0,Spring,2024,Low Risk
+1118,Computer Architecture,149,6 of 20 seats remain,"Smith, John",,30.0,Spring,2024,Risky
+1119,Computer Architecture,149,FULL: 0 of 30 seats remain,"Jones, Robert",,0.0,Spring,2024,Very Risky
+1120,Computer Architecture,150,30 of 70 seats remain,"Jones, Robert",,42.857142857142854,Spring,2024,Medium risk
+1121,Machine Learning,150,13 of 30 seats remain,"Martinez, Jessica",,43.333333333333336,Spring,2024,Medium risk
+1122,Artificial Intelligence,152,16 of 20 seats remain,"Smith, John",,80.0,Spring,2024,Low Risk
+1123,Intro to Programming,161,48 of 60 seats remain,"Davis, Elizabeth",,80.0,Spring,2024,Low Risk
+1124,Computer Architecture,163,11 of 40 seats remain,"Smith, John",,27.500000000000004,Spring,2024,Risky
+1125,Data Structures,163,24 of 40 seats remain,"Garcia, Maria",,60.0,Spring,2024,Medium risk
+1126,Data Structures,163,22 of 30 seats remain,"Johnson, Emily",,73.33333333333333,Spring,2024,Low Risk
+1127,Operating Systems,163,22 of 70 seats remain,"Garcia, Maria",,31.428571428571427,Spring,2024,Risky
+1128,Intro to Programming,164,20 of 60 seats remain,"Smith, John",,33.33333333333333,Spring,2024,Risky
+1129,Database Systems,170,35 of 40 seats remain,"Martinez, Jessica",,87.5,Spring,2024,No Risk
+1130,Intro to Programming,171,7 of 30 seats remain,"Miller, James",,23.333333333333332,Spring,2024,Risky
+1131,Software Engineering,172,20 of 40 seats remain,"Smith, John",,50.0,Spring,2024,Medium risk
+1132,Data Structures,173,12 of 30 seats remain,"Smith, John",,40.0,Spring,2024,Risky
+1133,Artificial Intelligence,174,51 of 60 seats remain,"Rodriguez, Michael",,85.0,Spring,2024,No Risk
+1134,Software Engineering,175,9 of 70 seats remain,"Smith, John",,12.857142857142856,Spring,2024,Very Risky
+1135,Algorithms,175,8 of 60 seats remain,"Johnson, Emily",,13.333333333333334,Spring,2024,Very Risky
+1136,Artificial Intelligence,176,31 of 70 seats remain,"Johnson, Emily",,44.285714285714285,Spring,2024,Medium risk
+1137,Software Engineering,177,22 of 60 seats remain,"Jones, Robert",,36.666666666666664,Spring,2024,Risky
+1138,Machine Learning,182,45 of 50 seats remain,"Davis, Elizabeth",,90.0,Spring,2024,No Risk
+1139,Computer Architecture,187,32 of 40 seats remain,"Williams, David",,80.0,Spring,2024,Low Risk
+1140,Software Engineering,191,39 of 70 seats remain,"Miller, James",,55.714285714285715,Spring,2024,Medium risk
+1141,Software Engineering,199,45 of 60 seats remain,"Brown, Linda",,75.0,Spring,2024,Low Risk
+1142,Data Structures,199,15 of 50 seats remain,"Johnson, Emily",,30.0,Spring,2024,Risky
+1143,Algorithms,200,39 of 60 seats remain,"Martinez, Jessica",,65.0,Spring,2024,Low Risk
+1144,Intro to Programming,206,4 of 20 seats remain,"Williams, David",,20.0,Spring,2024,Very Risky
+1145,Software Engineering,207,48 of 70 seats remain,"Johnson, Emily",,68.57142857142857,Spring,2024,Low Risk
+1146,Operating Systems,207,26 of 50 seats remain,"Rodriguez, Michael",,52.0,Spring,2024,Medium risk
+1147,Computer Architecture,211,22 of 30 seats remain,"Johnson, Emily",,73.33333333333333,Spring,2024,Low Risk
+1148,Artificial Intelligence,212,29 of 60 seats remain,"Williams, David",,48.333333333333336,Spring,2024,Medium risk
+1149,Algorithms,212,28 of 50 seats remain,"Miller, James",,56.00000000000001,Spring,2024,Medium risk
+1150,Machine Learning,218,33 of 40 seats remain,"Rodriguez, Michael",,82.5,Spring,2024,No Risk
+1151,Computer Architecture,220,42 of 70 seats remain,"Williams, David",,60.0,Spring,2024,Medium risk
+1152,Data Structures,222,15 of 20 seats remain,"Smith, John",,75.0,Spring,2024,Low Risk
+1153,Data Structures,226,32 of 40 seats remain,"Davis, Elizabeth",,80.0,Spring,2024,Low Risk
+1154,Software Engineering,227,18 of 60 seats remain,"Johnson, Emily",,30.0,Spring,2024,Risky
+1155,Intro to Programming,228,21 of 30 seats remain,"Garcia, Maria",,70.0,Spring,2024,Low Risk
+1156,Data Structures,236,10 of 50 seats remain,"Smith, John",,20.0,Spring,2024,Very Risky
+1157,Artificial Intelligence,236,13 of 50 seats remain,"Brown, Linda",,26.0,Spring,2024,Risky
+1158,Machine Learning,237,9 of 20 seats remain,"Davis, Elizabeth",,45.0,Spring,2024,Medium risk
+1159,Computer Architecture,243,43 of 70 seats remain,"Johnson, Emily",,61.42857142857143,Spring,2024,Low Risk
+1160,Computer Networks,250,3 of 20 seats remain,"Miller, James",,15.0,Spring,2024,Very Risky
+1161,Machine Learning,251,13 of 20 seats remain,"Johnson, Emily",,65.0,Spring,2024,Low Risk
+1162,Operating Systems,252,22 of 30 seats remain,"Miller, James",,73.33333333333333,Spring,2024,Low Risk
+1163,Machine Learning,252,2 of 50 seats remain,"Garcia, Maria",,4.0,Spring,2024,Very Risky
+1164,Algorithms,252,18 of 40 seats remain,"Davis, Elizabeth",,45.0,Spring,2024,Medium risk
+1165,Data Structures,253,38 of 50 seats remain,"Miller, James",,76.0,Spring,2024,Low Risk
+1166,Machine Learning,259,9 of 50 seats remain,"Jones, Robert",,18.0,Spring,2024,Very Risky
+1167,Computer Networks,260,3 of 20 seats remain,"Brown, Linda",,15.0,Spring,2024,Very Risky
+1168,Artificial Intelligence,263,30 of 60 seats remain,"Martinez, Jessica",,50.0,Spring,2024,Medium risk
+1169,Software Engineering,273,14 of 70 seats remain,"Miller, James",,20.0,Spring,2024,Very Risky
+1170,Software Engineering,278,9 of 30 seats remain,"Rodriguez, Michael",,30.0,Spring,2024,Risky
+1171,Computer Networks,278,18 of 70 seats remain,"Garcia, Maria",,25.71428571428571,Spring,2024,Risky
+1172,Artificial Intelligence,279,26 of 40 seats remain,"Brown, Linda",,65.0,Spring,2024,Low Risk
+1173,Artificial Intelligence,279,12 of 30 seats remain,"Miller, James",,40.0,Spring,2024,Risky
+1174,Database Systems,281,43 of 60 seats remain,"Jones, Robert",,71.66666666666667,Spring,2024,Low Risk
+1175,Computer Networks,281,16 of 20 seats remain,"Davis, Elizabeth",,80.0,Spring,2024,Low Risk
+1176,Data Structures,283,14 of 60 seats remain,"Johnson, Emily",,23.333333333333332,Spring,2024,Risky
+1177,Intro to Programming,285,1 of 40 seats remain,"Martinez, Jessica",,2.5,Spring,2024,Very Risky
+1178,Algorithms,287,4 of 30 seats remain,"Smith, John",,13.333333333333334,Spring,2024,Very Risky
+1179,Software Engineering,291,14 of 30 seats remain,"Miller, James",,46.666666666666664,Spring,2024,Medium risk
+1180,Algorithms,292,22 of 50 seats remain,"Smith, John",,44.0,Spring,2024,Medium risk
+1181,Computer Networks,293,55 of 70 seats remain,"Brown, Linda",,78.57142857142857,Spring,2024,Low Risk
+1182,Computer Networks,294,6 of 60 seats remain,"Jones, Robert",,10.0,Spring,2024,Very Risky
+1183,Software Engineering,295,13 of 50 seats remain,"Brown, Linda",,26.0,Spring,2024,Risky
+1184,Data Structures,298,7 of 30 seats remain,"Davis, Elizabeth",,23.333333333333332,Spring,2024,Risky
+1185,Computer Networks,300,22 of 70 seats remain,"Martinez, Jessica",,31.428571428571427,Spring,2024,Risky
+1186,Computer Architecture,300,19 of 70 seats remain,"Martinez, Jessica",,27.142857142857142,Spring,2024,Risky
+1187,Data Structures,304,43 of 70 seats remain,"Williams, David",,61.42857142857143,Spring,2024,Low Risk
+1188,Database Systems,309,15 of 20 seats remain,"Davis, Elizabeth",,75.0,Spring,2024,Low Risk
+1189,Intro to Programming,315,36 of 60 seats remain,"Miller, James",,60.0,Spring,2024,Medium risk
+1190,Algorithms,315,5 of 20 seats remain,"Miller, James",,25.0,Spring,2024,Risky
+1191,Data Structures,315,7 of 70 seats remain,"Williams, David",,10.0,Spring,2024,Very Risky
+1192,Intro to Programming,318,33 of 40 seats remain,"Miller, James",,82.5,Spring,2024,No Risk
+1193,Algorithms,322,6 of 30 seats remain,"Garcia, Maria",,20.0,Spring,2024,Very Risky
+1194,Operating Systems,323,22 of 30 seats remain,"Garcia, Maria",,73.33333333333333,Spring,2024,Low Risk
+1195,Data Structures,323,19 of 50 seats remain,"Martinez, Jessica",,38.0,Spring,2024,Risky
+1196,Data Structures,324,37 of 50 seats remain,"Rodriguez, Michael",,74.0,Spring,2024,Low Risk
+1197,Machine Learning,327,29 of 40 seats remain,"Martinez, Jessica",,72.5,Spring,2024,Low Risk
+1198,Data Structures,332,40 of 50 seats remain,"Smith, John",,80.0,Spring,2024,Low Risk
+1199,Database Systems,333,52 of 70 seats remain,"Miller, James",,74.28571428571429,Spring,2024,Low Risk
+1200,Artificial Intelligence,336,8 of 50 seats remain,"Smith, John",,16.0,Spring,2024,Very Risky
+1201,Data Structures,341,11 of 20 seats remain,"Williams, David",,55.00000000000001,Spring,2024,Medium risk
+1202,Database Systems,344,15 of 30 seats remain,"Jones, Robert",,50.0,Spring,2024,Medium risk
+1203,Operating Systems,344,30 of 70 seats remain,"Miller, James",,42.857142857142854,Spring,2024,Medium risk
+1204,Artificial Intelligence,345,27 of 40 seats remain,"Jones, Robert",,67.5,Spring,2024,Low Risk
+1205,Data Structures,354,7 of 60 seats remain,"Davis, Elizabeth",,11.666666666666666,Spring,2024,Very Risky
+1206,Operating Systems,355,5 of 20 seats remain,"Brown, Linda",,25.0,Spring,2024,Risky
+1207,Algorithms,356,29 of 60 seats remain,"Garcia, Maria",,48.333333333333336,Spring,2024,Medium risk
+1208,Artificial Intelligence,358,2 of 60 seats remain,"Williams, David",,3.3333333333333335,Spring,2024,Very Risky
+1209,Computer Architecture,359,45 of 60 seats remain,"Smith, John",,75.0,Spring,2024,Low Risk
+1210,Software Engineering,360,15 of 50 seats remain,"Brown, Linda",,30.0,Spring,2024,Risky
+1211,Computer Networks,362,37 of 60 seats remain,"Johnson, Emily",,61.66666666666667,Spring,2024,Low Risk
+1212,Intro to Programming,365,9 of 20 seats remain,"Jones, Robert",,45.0,Spring,2024,Medium risk
+1213,Algorithms,369,3 of 60 seats remain,"Brown, Linda",,5.0,Spring,2024,Very Risky
+1214,Database Systems,369,17 of 20 seats remain,"Davis, Elizabeth",,85.0,Spring,2024,No Risk
+1215,Computer Architecture,372,29 of 70 seats remain,"Garcia, Maria",,41.42857142857143,Spring,2024,Medium risk
+1216,Intro to Programming,372,5 of 20 seats remain,"Rodriguez, Michael",,25.0,Spring,2024,Risky
+1217,Computer Networks,373,24 of 50 seats remain,"Brown, Linda",,48.0,Spring,2024,Medium risk
+1218,Computer Architecture,373,18 of 40 seats remain,"Miller, James",,45.0,Spring,2024,Medium risk
+1219,Software Engineering,375,34 of 70 seats remain,"Davis, Elizabeth",,48.57142857142857,Spring,2024,Medium risk
+1220,Computer Architecture,375,10 of 30 seats remain,"Johnson, Emily",,33.33333333333333,Spring,2024,Risky
+1221,Software Engineering,377,40 of 70 seats remain,"Jones, Robert",,57.14285714285714,Spring,2024,Medium risk
+1222,Algorithms,381,14 of 60 seats remain,"Garcia, Maria",,23.333333333333332,Spring,2024,Risky
+1223,Software Engineering,384,30 of 40 seats remain,"Smith, John",,75.0,Spring,2024,Low Risk
+1224,Machine Learning,384,25 of 40 seats remain,"Rodriguez, Michael",,62.5,Spring,2024,Low Risk
+1225,Computer Networks,387,22 of 40 seats remain,"Martinez, Jessica",,55.00000000000001,Spring,2024,Medium risk
+1226,Machine Learning,388,11 of 40 seats remain,"Brown, Linda",,27.500000000000004,Spring,2024,Risky
+1227,Computer Architecture,388,27 of 50 seats remain,"Johnson, Emily",,54.0,Spring,2024,Medium risk
+1228,Artificial Intelligence,392,12 of 60 seats remain,"Garcia, Maria",,20.0,Spring,2024,Very Risky
+1229,Algorithms,394,23 of 30 seats remain,"Smith, John",,76.66666666666667,Spring,2024,Low Risk
+1230,Computer Networks,394,2 of 30 seats remain,"Rodriguez, Michael",,6.666666666666667,Spring,2024,Very Risky
+1231,Intro to Programming,397,44 of 50 seats remain,"Williams, David",,88.0,Spring,2024,No Risk
+1232,Computer Networks,397,18 of 50 seats remain,"Jones, Robert",,36.0,Spring,2024,Risky
+1233,Data Structures,398,3 of 20 seats remain,"Garcia, Maria",,15.0,Spring,2024,Very Risky
+1234,Software Engineering,400,30 of 50 seats remain,"Garcia, Maria",,60.0,Spring,2024,Medium risk
+1235,Computer Architecture,401,54 of 60 seats remain,"Garcia, Maria",,90.0,Spring,2024,No Risk
+1236,Algorithms,401,17 of 30 seats remain,"Jones, Robert",,56.666666666666664,Spring,2024,Medium risk
+1237,Computer Architecture,401,5 of 60 seats remain,"Garcia, Maria",,8.333333333333332,Spring,2024,Very Risky
+1238,Machine Learning,403,2 of 60 seats remain,"Garcia, Maria",,3.3333333333333335,Spring,2024,Very Risky
+1239,Operating Systems,409,49 of 60 seats remain,"Jones, Robert",,81.66666666666667,Spring,2024,No Risk
+1240,Software Engineering,410,50 of 70 seats remain,"Brown, Linda",,71.42857142857143,Spring,2024,Low Risk
+1241,Software Engineering,414,10 of 20 seats remain,"Garcia, Maria",,50.0,Spring,2024,Medium risk
+1242,Database Systems,418,36 of 50 seats remain,"Brown, Linda",,72.0,Spring,2024,Low Risk
+1243,Database Systems,419,31 of 40 seats remain,"Miller, James",,77.5,Spring,2024,Low Risk
+1244,Intro to Programming,420,20 of 30 seats remain,"Johnson, Emily",,66.66666666666666,Spring,2024,Low Risk
+1245,Operating Systems,424,23 of 40 seats remain,"Williams, David",,57.49999999999999,Spring,2024,Medium risk
+1246,Operating Systems,424,5 of 50 seats remain,"Rodriguez, Michael",,10.0,Spring,2024,Very Risky
+1247,Computer Architecture,425,6 of 60 seats remain,"Williams, David",,10.0,Spring,2024,Very Risky
+1248,Algorithms,430,1 of 20 seats remain,"Johnson, Emily",,5.0,Spring,2024,Very Risky
+1249,Database Systems,431,52 of 60 seats remain,"Martinez, Jessica",,86.66666666666667,Spring,2024,No Risk
+1250,Computer Architecture,432,17 of 30 seats remain,"Johnson, Emily",,56.666666666666664,Spring,2024,Medium risk
+1251,Machine Learning,435,19 of 50 seats remain,"Smith, John",,38.0,Spring,2024,Risky
+1252,Intro to Programming,436,5 of 30 seats remain,"Williams, David",,16.666666666666664,Spring,2024,Very Risky
+1253,Computer Architecture,439,FULL: 0 of 30 seats remain,"Garcia, Maria",,0.0,Spring,2024,Very Risky
+1254,Intro to Programming,443,FULL: 0 of 50 seats remain,"Brown, Linda",,0.0,Spring,2024,Very Risky
+1255,Software Engineering,445,46 of 70 seats remain,"Williams, David",,65.71428571428571,Spring,2024,Low Risk
+1256,Computer Architecture,445,1 of 20 seats remain,"Davis, Elizabeth",,5.0,Spring,2024,Very Risky
+1257,Database Systems,447,5 of 60 seats remain,"Johnson, Emily",,8.333333333333332,Spring,2024,Very Risky
+1258,Operating Systems,448,9 of 20 seats remain,"Johnson, Emily",,45.0,Spring,2024,Medium risk
+1259,Computer Networks,453,33 of 50 seats remain,"Martinez, Jessica",,66.0,Spring,2024,Low Risk
+1260,Computer Networks,457,1 of 40 seats remain,"Brown, Linda",,2.5,Spring,2024,Very Risky
+1261,Operating Systems,459,5 of 20 seats remain,"Smith, John",,25.0,Spring,2024,Risky
+1262,Database Systems,459,36 of 50 seats remain,"Jones, Robert",,72.0,Spring,2024,Low Risk
+1263,Machine Learning,459,6 of 20 seats remain,"Garcia, Maria",,30.0,Spring,2024,Risky
+1264,Database Systems,461,24 of 40 seats remain,"Jones, Robert",,60.0,Spring,2024,Medium risk
+1265,Database Systems,462,3 of 40 seats remain,"Smith, John",,7.5,Spring,2024,Very Risky
+1266,Computer Architecture,465,20 of 50 seats remain,"Garcia, Maria",,40.0,Spring,2024,Risky
+1267,Machine Learning,465,17 of 20 seats remain,"Williams, David",,85.0,Spring,2024,No Risk
+1268,Algorithms,467,7 of 40 seats remain,"Rodriguez, Michael",,17.5,Spring,2024,Very Risky
+1269,Data Structures,469,38 of 70 seats remain,"Miller, James",,54.285714285714285,Spring,2024,Medium risk
+1270,Software Engineering,470,12 of 20 seats remain,"Jones, Robert",,60.0,Spring,2024,Medium risk
+1271,Data Structures,471,18 of 30 seats remain,"Davis, Elizabeth",,60.0,Spring,2024,Medium risk
+1272,Artificial Intelligence,476,2 of 60 seats remain,"Jones, Robert",,3.3333333333333335,Spring,2024,Very Risky
+1273,Algorithms,479,12 of 30 seats remain,"Rodriguez, Michael",,40.0,Spring,2024,Risky
+1274,Computer Architecture,480,10 of 40 seats remain,"Rodriguez, Michael",,25.0,Spring,2024,Risky
+1275,Computer Architecture,481,39 of 50 seats remain,"Rodriguez, Michael",,78.0,Spring,2024,Low Risk
+1276,Data Structures,488,17 of 70 seats remain,"Rodriguez, Michael",,24.285714285714285,Spring,2024,Risky
+1277,Database Systems,488,9 of 40 seats remain,"Brown, Linda",,22.5,Spring,2024,Risky
+1278,Software Engineering,489,16 of 20 seats remain,"Davis, Elizabeth",,80.0,Spring,2024,Low Risk
+1279,Database Systems,493,55 of 70 seats remain,"Miller, James",,78.57142857142857,Spring,2024,Low Risk
+1280,Software Engineering,494,14 of 30 seats remain,"Jones, Robert",,46.666666666666664,Spring,2024,Medium risk
+1281,Data Structures,500,35 of 60 seats remain,"Johnson, Emily",,58.333333333333336,Spring,2024,Medium risk
+1282,Database Systems,502,8 of 40 seats remain,"Garcia, Maria",,20.0,Spring,2024,Very Risky
+1283,Software Engineering,502,31 of 50 seats remain,"Garcia, Maria",,62.0,Spring,2024,Low Risk
+1284,Artificial Intelligence,507,28 of 40 seats remain,"Smith, John",,70.0,Spring,2024,Low Risk
+1285,Data Structures,507,35 of 50 seats remain,"Martinez, Jessica",,70.0,Spring,2024,Low Risk
+1286,Computer Architecture,509,20 of 30 seats remain,"Miller, James",,66.66666666666666,Spring,2024,Low Risk
+1287,Machine Learning,513,28 of 70 seats remain,"Miller, James",,40.0,Spring,2024,Risky
+1288,Algorithms,515,20 of 40 seats remain,"Garcia, Maria",,50.0,Spring,2024,Medium risk
+1289,Operating Systems,518,10 of 50 seats remain,"Martinez, Jessica",,20.0,Spring,2024,Very Risky
+1290,Computer Networks,522,18 of 20 seats remain,"Rodriguez, Michael",,90.0,Spring,2024,No Risk
+1291,Artificial Intelligence,525,24 of 60 seats remain,"Rodriguez, Michael",,40.0,Spring,2024,Risky
+1292,Artificial Intelligence,527,29 of 60 seats remain,"Martinez, Jessica",,48.333333333333336,Spring,2024,Medium risk
+1293,Software Engineering,529,29 of 50 seats remain,"Williams, David",,57.99999999999999,Spring,2024,Medium risk
+1294,Operating Systems,530,23 of 40 seats remain,"Smith, John",,57.49999999999999,Spring,2024,Medium risk
+1295,Intro to Programming,531,8 of 40 seats remain,"Williams, David",,20.0,Spring,2024,Very Risky
+1296,Data Structures,532,50 of 60 seats remain,"Garcia, Maria",,83.33333333333334,Spring,2024,No Risk
+1297,Artificial Intelligence,532,18 of 30 seats remain,"Johnson, Emily",,60.0,Spring,2024,Medium risk
+1298,Computer Networks,534,43 of 50 seats remain,"Smith, John",,86.0,Spring,2024,No Risk
+1299,Database Systems,540,1 of 40 seats remain,"Martinez, Jessica",,2.5,Spring,2024,Very Risky
+1300,Software Engineering,540,13 of 20 seats remain,"Garcia, Maria",,65.0,Spring,2024,Low Risk
+1301,Data Structures,540,7 of 30 seats remain,"Miller, James",,23.333333333333332,Spring,2024,Risky
+1302,Intro to Programming,540,27 of 50 seats remain,"Garcia, Maria",,54.0,Spring,2024,Medium risk
+1303,Data Structures,541,11 of 20 seats remain,"Jones, Robert",,55.00000000000001,Spring,2024,Medium risk
+1304,Software Engineering,541,48 of 70 seats remain,"Williams, David",,68.57142857142857,Spring,2024,Low Risk
+1305,Operating Systems,542,21 of 50 seats remain,"Martinez, Jessica",,42.0,Spring,2024,Medium risk
+1306,Operating Systems,542,56 of 70 seats remain,"Garcia, Maria",,80.0,Spring,2024,Low Risk
+1307,Machine Learning,545,1 of 20 seats remain,"Williams, David",,5.0,Spring,2024,Very Risky
+1308,Database Systems,546,2 of 20 seats remain,"Miller, James",,10.0,Spring,2024,Very Risky
+1309,Data Structures,551,17 of 20 seats remain,"Martinez, Jessica",,85.0,Spring,2024,No Risk
+1310,Artificial Intelligence,553,2 of 30 seats remain,"Garcia, Maria",,6.666666666666667,Spring,2024,Very Risky
+1311,Computer Networks,559,14 of 20 seats remain,"Garcia, Maria",,70.0,Spring,2024,Low Risk
+1312,Operating Systems,561,17 of 50 seats remain,"Rodriguez, Michael",,34.0,Spring,2024,Risky
+1313,Algorithms,564,53 of 60 seats remain,"Williams, David",,88.33333333333333,Spring,2024,No Risk
+1314,Machine Learning,565,7 of 40 seats remain,"Rodriguez, Michael",,17.5,Spring,2024,Very Risky
+1315,Software Engineering,566,13 of 20 seats remain,"Miller, James",,65.0,Spring,2024,Low Risk
+1316,Intro to Programming,567,52 of 70 seats remain,"Williams, David",,74.28571428571429,Spring,2024,Low Risk
+1317,Machine Learning,569,2 of 70 seats remain,"Garcia, Maria",,2.857142857142857,Spring,2024,Very Risky
+1318,Computer Architecture,569,29 of 60 seats remain,"Jones, Robert",,48.333333333333336,Spring,2024,Medium risk
+1319,Data Structures,571,30 of 40 seats remain,"Williams, David",,75.0,Spring,2024,Low Risk
+1320,Machine Learning,572,8 of 30 seats remain,"Williams, David",,26.666666666666668,Spring,2024,Risky
+1321,Computer Architecture,573,33 of 40 seats remain,"Martinez, Jessica",,82.5,Spring,2024,No Risk
+1322,Algorithms,574,4 of 20 seats remain,"Davis, Elizabeth",,20.0,Spring,2024,Very Risky
+1323,Computer Architecture,574,17 of 60 seats remain,"Davis, Elizabeth",,28.333333333333332,Spring,2024,Risky
+1324,Machine Learning,579,44 of 50 seats remain,"Jones, Robert",,88.0,Spring,2024,No Risk
+1325,Machine Learning,580,4 of 20 seats remain,"Martinez, Jessica",,20.0,Spring,2024,Very Risky
+1326,Theory/Application Data Mining,584,7 of 70 seats remain,"Zhou, Keren",,10.0,Spring,2024,Very Risky
+1327,Theory/Application Data Mining,584,50 of 70 seats remain,"Barbara, Daniel",,71.42857142857143,Spring,2024,Low Risk
+1328,Introduction to Cryptography,587,9 of 20 seats remain,"Ateniese, Giuseppe",,45.0,Spring,2024,Medium risk
+1329,Quantum Algorithms,595,FULL: 0 of 2 seats remain,"Baume, Michael",,0.0,Spring,2024,Very Risky
+1330,AI Design and Deployment Risks,595,9 of 15 seats remain,"Cummings, Missy",,60.0,Spring,2024,Medium risk
+1331,AI Design and Deployment Risks,595,11 of 15 seats remain,"Cummings, Missy",,73.33333333333333,Spring,2024,Low Risk
+1332,Theory of Computation,600,43 of 60 seats remain,"Richards, Dana",,71.66666666666667,Spring,2024,Low Risk
+1333,Theory of Computation,600,30 of 50 seats remain,"Richards, Dana",,60.0,Spring,2024,Medium risk
+1334,Advanced Algorithms,630,14 of 50 seats remain,"Yaroslavtsev, Grigory",,28.000000000000004,Spring,2024,Risky
+1335,Wireless and Mobile Computing,655,9 of 50 seats remain,"Yao, Shuochao",,18.0,Spring,2024,Very Risky
+1336,Computational Design,663,31 of 65 seats remain,"Yu, Lap Fai",,47.69230769230769,Spring,2024,Medium risk
+1337,Advanced NLP,678,10 of 65 seats remain,"Yao, Ziyu",,15.384615384615385,Spring,2024,Very Risky
+1338,Computer Vision,682,17 of 53 seats remain,"Kosecka, Jana",,32.075471698113205,Spring,2024,Risky
+1339,Machine Learning,688,18 of 50 seats remain,"Yu, Fang-Yi",,36.0,Spring,2024,Risky
+1340,Machine Learning,688,18 of 50 seats remain,"Das, Sanmay",,36.0,Spring,2024,Risky
+1341,Network Security,692,1 of 10 seats remain,"Wang, Xinyuan",,10.0,Spring,2024,Very Risky
+1342,Linux Kernel Internals,692,26 of 40 seats remain,"Zhang, Xiaokuan",,65.0,Spring,2024,Low Risk
+1343,SWE Real-Time Embedded Systm,692,6 of 35 seats remain,"Pettit, Rob",,17.142857142857142,Spring,2024,Very Risky
+1344,Advanced Computer Architecture,692,39 of 50 seats remain,"Yang, Lishan",,78.0,Spring,2024,Low Risk
+1345,SWE Real-Time Embedded Systm,692,9 of 32 seats remain,"Pettit, Rob",,28.125,Spring,2024,Risky
+1346,Advanced Machine Learning,782,37 of 44 seats remain,"Liu, Mingrui",,84.0909090909091,Spring,2024,No Risk
+1347,Advanced Machine Learning,782,31 of 44 seats remain,"Barbara, Daniel",,70.45454545454545,Spring,2024,Low Risk
+1348,Decision Guidance Systems,787,11 of 50 seats remain,"Brodsky, Alexander",,22.0,Spring,2024,Risky
+1349,Computer Science Colloquium,800,5 of 60 seats remain,"Aydin, Hakan",,8.333333333333332,Spring,2024,Very Risky
