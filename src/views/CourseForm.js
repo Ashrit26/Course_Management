@@ -159,13 +159,15 @@ const CourseForm = () => {
           <div key={index} className="risk-level-card">
             <h4>{riskLevelData.courseName}</h4>
             <p>{riskLevelData.instructorName}</p>
-            <p>{riskLevelData.riskLevel}</p>
+            <h5>{riskLevelData.riskLevel}</h5>
           </div>
         ))}
         </div>
 
-       { showRecommendations && ( <div className="risk-levels-container">
-       {/* <h2>Recommendations</h2> */}
+       { showRecommendations  && (
+        <div>
+          <h3>Recommendations</h3>
+        <div className="risk-levels-container">
        
         {response.map((resArray, outerIndex) => (
           <ul> 
@@ -182,6 +184,8 @@ const CourseForm = () => {
             </ul>
         ))} 
       </div> 
+      </div>
+  
         )}
 
     </div>
