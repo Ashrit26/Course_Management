@@ -10,7 +10,6 @@ import {
   Row,
   Col,
 } from "reactstrap";
-import ScatterPlotComponent from './ScatterPlotComponent';
 import csvNoDup from '../data/csvNoDup.json'
 import CoursePlanAheadGraph from './CoursePlanAheadGraph'
 
@@ -39,7 +38,6 @@ function Dashboard() {
               </CardHeader>
               <CardBody>
               <CoursePlanAheadGraph data={csvNoDup} />
-              {/* <ScatterPlotComponent data={csvNoDup} /> */}
               </CardBody>
             </Card>
           </Col>
