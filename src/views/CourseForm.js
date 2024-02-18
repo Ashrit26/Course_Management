@@ -42,8 +42,8 @@ const CourseForm = () => {
   };
 
   return (
-    <div>
-      <h1>Course Entry Form</h1>
+    <div className="content">
+
       {entries.map((entry, index) => (
         <div key={index} className="form-row">
           <div className="label-group">
