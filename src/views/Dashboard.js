@@ -10,11 +10,7 @@ import {
   Row,
   Col,
 } from "reactstrap";
-import {
-  dashboard24HoursPerformanceChart,
-  dashboardEmailStatisticsChart,
-  dashboardNASDAQChart,
-} from "variables/charts.js";
+
 
 function Dashboard() {
   return (
