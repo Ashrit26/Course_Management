@@ -59,7 +59,31 @@ const CourseForm = () => {
 
 
   const handleSubmit = async () => {
-    console.log('Form submitted:', entries);
+
+    const submittedData = entries.map((entry, index) => {
+      const courseName = getCourseName(entry.courseNumber);
+      return {
+        courseName,
+        courseNumber: entry.courseNumber,
+        selectedInstructor: entry.selectedInstructor,
+      };
+    });
+    console.log('Form submitted:', submittedData);
+
+    const response = await fetch('http://127.0.0.1:5000/recommend', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(submittedData),
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to submit data');
+      }
+
+      const result = await response.json();
+      console.log('API Response:', result);
 
     // Fetch risk levels for all entries
     await fetchRiskLevels();
