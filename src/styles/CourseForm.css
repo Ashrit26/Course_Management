@@ -65,3 +65,7 @@ select {
 .risk-level-card p {
   color: #888;
 }
+
+h2 {
+  text-align: center;
+}
