@@ -18,13 +18,13 @@
 */
 import Dashboard from "views/Dashboard.js";
 import CourseForm from "views/CourseForm";
-import Notifications from "views/Notifications.js";
-import Icons from "views/Icons.js";
-import Typography from "views/Typography.js";
-import TableList from "views/Tables.js";
-import Maps from "views/Map.js";
-import UserPage from "views/User.js";
-import UpgradeToPro from "views/Upgrade.js";
+// import Notifications from "views/Notifications.js";
+// import Icons from "views/Icons.js";
+// import Typography from "views/Typography.js";
+// import TableList from "views/Tables.js";
+// import Maps from "views/Map.js";
+// import UserPage from "views/User.js";
+// import UpgradeToPro from "views/Upgrade.js";
 // import Notifications from "views/Notifications.js";
 // import Icons from "views/Icons.js";
 // import Typography from "views/Typography.js";
@@ -39,7 +39,7 @@ var routes = [
     name: "Dashboard",
     icon: "nc-icon nc-bank",
     component: <Dashboard />,
-    layout: "/admin",
+    layout: "/login",
   },
 
   {
@@ -47,7 +47,7 @@ var routes = [
     name: "Course Form",
     icon: "nc-icon nc-bank",
     component: <CourseForm />,
-    layout: "/admin",
+    layout: "/login",
   },
 
   // {
