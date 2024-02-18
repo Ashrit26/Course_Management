@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import courseData from 'data/courseData';
-import Papa from 'papaparse';
 import 'styles/CourseForm.css'; // Import the CSS file
 import combinedData from 'data/combinedData';
 
