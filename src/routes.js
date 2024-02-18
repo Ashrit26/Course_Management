@@ -17,6 +17,7 @@
 
 */
 import Dashboard from "views/Dashboard.js";
+<<<<<<< HEAD
 import CourseForm from "views/CourseForm";
 import Notifications from "views/Notifications.js";
 import Icons from "views/Icons.js";
@@ -25,6 +26,15 @@ import TableList from "views/Tables.js";
 import Maps from "views/Map.js";
 import UserPage from "views/User.js";
 import UpgradeToPro from "views/Upgrade.js";
+=======
+// import Notifications from "views/Notifications.js";
+// import Icons from "views/Icons.js";
+// import Typography from "views/Typography.js";
+// import TableList from "views/Tables.js";
+// import Maps from "views/Map.js";
+// import UserPage from "views/User.js";
+// import UpgradeToPro from "views/Upgrade.js";
+>>>>>>> 8b426ac2f4adbec24fd939a8a1672b79c15fbb8a
 
 var routes = [
   {
@@ -34,6 +44,7 @@ var routes = [
     component: <Dashboard />,
     layout: "/admin",
   },
+<<<<<<< HEAD
   {
     path: "/courseInput",
     name: "Course Form",
@@ -41,6 +52,8 @@ var routes = [
     component: <CourseForm />,
     layout: "/admin",
   },
+=======
+>>>>>>> 8b426ac2f4adbec24fd939a8a1672b79c15fbb8a
 
   // {
   //   path: "/icons",
