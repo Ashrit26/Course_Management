@@ -12,11 +12,36 @@ import {
 } from "reactstrap";
 import csvNoDup from '../data/csvNoDup.json'
 import CoursePlanAheadGraph from './CoursePlanAheadGraph'
+import InstructorPopularityGraph from './InstructorPopularityGraph'; 
 
 function Dashboard() {
   return (
     <>
       <div className="content">
+      <Row>
+          <Col md="12">
+            <Card>
+              <CardHeader>
+                <CardTitle tag="h5">Instructor Popularity</CardTitle>
+              </CardHeader>
+              <CardBody>
+              <InstructorPopularityGraph data={csvNoDup} />
+              </CardBody>
+            </Card>
+          </Col>
+        </Row>
+      <Row>
+          <Col md="12">
+            <Card>
+              <CardHeader>
+                <CardTitle tag="h5">Course/Professor PlanAhead Data</CardTitle>
+              </CardHeader>
+              <CardBody>
+              <CoursePlanAheadGraph data={csvNoDup} />
+              </CardBody>
+            </Card>
+          </Col>
+        </Row>
 
          <Row>
           <Col md="12">
@@ -30,18 +55,7 @@ function Dashboard() {
             </Card>
           </Col>
         </Row>
-        <Row>
-          <Col md="12">
-            <Card>
-              <CardHeader>
-                <CardTitle tag="h5">ScatterPlotComponent</CardTitle>
-              </CardHeader>
-              <CardBody>
-              <CoursePlanAheadGraph data={csvNoDup} />
-              </CardBody>
-            </Card>
-          </Col>
-        </Row>
+
       </div>
     </>
   );
