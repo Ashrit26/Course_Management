@@ -12,6 +12,9 @@ const CourseForm = () => {
   ]);
 
   const [riskLevels, setRiskLevels] = useState([]);
+  const [response, setResponse] = useState([]);
+  const [showRecommendations, setShowRecommendations] = useState(false);
+
 
   const handleInputChange = (index, field, value) => {
     const updatedEntries = [...entries];
@@ -27,6 +30,26 @@ const CourseForm = () => {
   const getCourseName = (courseNumber) => {
     const course = courseData.find((c) => c.courseNumber === courseNumber);
     return course ? course.courseName[0] : 'Unknown Course';
+  };
+
+  const fetchRecommendations = (res) => {
+    try{
+      const newArray = []
+      const responseData = res.map((entry) => {
+        //const rArray = entry.recommendations;
+        
+        newArray.push(entry.recommendations);
+        //return entry.recommendations
+        //console.log(entry);
+      })
+    setResponse(newArray);
+    //setResponse(responseData);
+    console.log(response);
+    }
+    catch(error){
+      console.error(`Error fetching response: ${error.message}`);
+
+    }
   };
 
   const fetchRiskLevels = () => {
@@ -86,6 +109,12 @@ const CourseForm = () => {
 
     // Fetch risk levels for all entries
     await fetchRiskLevels();
+
+
+    await fetchRecommendations(result);
+
+    setShowRecommendations(true);
+
   };
 
   return (
@@ -118,6 +147,7 @@ const CourseForm = () => {
           </div>
         </div>
       ))}
+      <br />
       <button onClick={handleSubmit} className="submit-button" style={{ display: 'block', margin: 'auto' }}
       >
         Submit
@@ -129,10 +159,31 @@ const CourseForm = () => {
           <div key={index} className="risk-level-card">
             <h4>{riskLevelData.courseName}</h4>
             <p>{riskLevelData.instructorName}</p>
-            <p>Risk Level: {riskLevelData.riskLevel}</p>
+            <p>{riskLevelData.riskLevel}</p>
           </div>
         ))}
-      </div>
+        </div>
+
+       { showRecommendations && ( <div className="risk-levels-container">
+       {/* <h2>Recommendations</h2> */}
+       
+        {response.map((resArray, outerIndex) => (
+          <ul> 
+            <div key={outerIndex}>
+              {resArray.map((element,innerIndex) => (
+                <div key={innerIndex}>
+                      <li key={innerIndex}>{element.course}<br />
+                      {element.instructor}<br />
+                      {element.risk_level}</li>
+                      <br />
+                      </div>
+              ))}
+            </div>
+            </ul>
+        ))} 
+      </div> 
+        )}
+
     </div>
   );
 };
