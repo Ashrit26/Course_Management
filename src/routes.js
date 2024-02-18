@@ -17,6 +17,7 @@
 
 */
 import Dashboard from "views/Dashboard.js";
+import CourseForm from "views/CourseForm";
 import Notifications from "views/Notifications.js";
 import Icons from "views/Icons.js";
 import Typography from "views/Typography.js";
@@ -33,6 +34,14 @@ var routes = [
     component: <Dashboard />,
     layout: "/admin",
   },
+  {
+    path: "/courseInput",
+    name: "Course Form",
+    icon: "nc-icon nc-bank",
+    component: <CourseForm />,
+    layout: "/admin",
+  },
+
   // {
   //   path: "/icons",
   //   name: "Icons",
