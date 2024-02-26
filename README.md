@@ -1,4 +1,4 @@
-# Project Name README
+# Course Management README
 
 ## Overview
 
