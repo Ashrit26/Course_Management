@@ -1,4 +1,4 @@
-# Course Management README
+# Course Management
 
 ## Overview
 
