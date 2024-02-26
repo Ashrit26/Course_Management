@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the [Your Project Name] repository! This project is designed to [briefly describe the purpose and goals of the project].
+Welcome to the Course_Management repository! Our project, Data-Driven Course Management, stemmed from the desire to enhance the academic journey for students through personalized course recommendations. Inspired by the potential of data analytics, we sought to harness past semester data to optimize course selection.
 
 ## Getting Started
 
